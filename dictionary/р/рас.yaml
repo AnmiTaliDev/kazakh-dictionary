@@ -1,0 +1,33 @@
+- id: 92
+  word: "рас"
+  parent_id: null
+  type: "adjective"
+  transcription: "rɑs"
+  latin_2017: "ras"
+  latin_2021: "ras"
+  latin_my: "ras"
+  root_word: "рас"
+  etymology: "Перс тілінен"
+  history: "Парсы тілінің 'rāst' (راست - дұрыс, шын) сөзінен шыққан. Барлық түркі тілдеріне парсы тілі арқылы енген: түрік 'doğru', өзб. 'to'g'ri/rost', тат. 'дөрес', әзірб. 'doğru'."
+  definitions:
+    - meaning: "Шындыққа сәйкес"
+      translation_ru: "Правдивый, истинный"
+      translation_en: "True, truthful"
+      examples:
+        - kk: "Рас айту."
+          ru: "Говорить правду."
+          en: "To tell the truth."
+        - kk: "Бұл рас па?"
+          ru: "Это правда?"
+          en: "Is this true?"
+    - meaning: "Шындық, ақиқат (зат есім)"
+      translation_ru: "Правда"
+      translation_en: "Truth"
+      examples:
+        - kk: "Растықты айту."
+          ru: "Сказать правду."
+          en: "To speak the truth."
+  antonyms:
+    - word_id: null
+      word: "жалған"
+      note: "Ложный"

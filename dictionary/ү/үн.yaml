@@ -1,0 +1,26 @@
+- id: 106
+  word: "үн"
+  parent_id: null
+  type: "noun"
+  transcription: "ʏn"
+  latin_2017: "ün"
+  latin_2021: "ün"
+  latin_my: "ün"
+  root_word: "үн"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'ün/in' түрінде келген. Түркі тілдерінде: түрік 'ses', өзб. 'tovush', тат. 'тавыш', әзірб. 'səs', қырғ. 'үн'."
+  definitions:
+    - meaning: "Дыбыс, естілетін нәрсе"
+      translation_ru: "Голос, звук"
+      translation_en: "Voice, sound"
+      examples:
+        - kk: "Үн шығару."
+          ru: "Издавать звук."
+          en: "To make a sound."
+        - kk: "Үн қату."
+          ru: "Присоединить голос."
+          en: "To join in."
+  synonyms:
+    - word_id: 47
+      word: "дауыс"
+      note: "Голос"

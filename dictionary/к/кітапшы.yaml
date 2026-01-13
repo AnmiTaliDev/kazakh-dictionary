@@ -1,0 +1,20 @@
+- id: 4
+  word: "кітапшы"
+  parent_id: 1  # Ссылка на "кітап"
+  type: "noun"
+  transcription: "kɪtɑpˈʃə"
+  latin_2017: "kitapşy"
+  latin_2021: "kitapşy"
+  latin_my: "kıtapşı"
+  root_word: "кітап"
+  relation: "profession"  # Указывает тип связи с корневым словом
+  etymology: "кітап + -шы (суффикс профессии)"
+  history: "Образовано от слова 'кітап' с помощью тюркского суффикса профессии '-шы/-ші'."
+  definitions:
+    - meaning: "Кітап сататын адам, кітап дүкенінің иесі"
+      translation_ru: "Книготорговец, книгопродавец"
+      translation_en: "Bookseller, bookshop owner"
+      examples:
+        - kk: "Кітапшы маған жаңа романды ұсынды."
+          ru: "Книготорговец порекомендовал мне новый роман."
+          en: "The bookseller recommended a new novel to me."

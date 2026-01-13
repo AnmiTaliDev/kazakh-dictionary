@@ -1,0 +1,19 @@
+- id: 95
+  word: "сыр"
+  parent_id: null
+  type: "noun"
+  transcription: "sər"
+  latin_2017: "syr"
+  latin_2021: "syr"
+  latin_my: "syr"
+  root_word: "сыр"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'sır' (сыр, құпия) түрінде келген. Түрік 'sır'."
+  definitions:
+    - meaning: "Жасырын нәрсе"
+      translation_ru: "Секрет, тайна"
+      translation_en: "Secret"
+      examples:
+        - kk: "Сыр айту."
+          ru: "Рассказать секрет."
+          en: "To tell a secret."

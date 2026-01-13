@@ -1,0 +1,26 @@
+- id: 1
+  word: "кітап"
+  parent_id: null
+  type: "noun"
+  transcription: "kɪˈtɑp"
+  latin_2017: "kitap"
+  latin_2021: "kitap"
+  latin_my: "kıtap"
+  root_word: "кітап"
+  etymology: "Араб тілінен"
+  history: "Арабтың 'kitab' (کتاب) сөзінен шыққан. Бастапқыда 'жазылған нәрсе' мағынасында қолданылған, кейіннен басылым өнеркәсібінің дамуымен бірге қазіргі мағынасын алды."
+  definitions:
+    - meaning: "Басылып шыққан әдеби, ғылыми немесе оқу туындысы"
+      translation_ru: "Книга"
+      translation_en: "Book"
+      examples:
+        - kk: "Мен кітапханадан жаңа кітап алдым."
+          ru: "Я взял новую книгу из библиотеки."
+          en: "I took a new book from the library."
+        - kk: "Бұл кітап өте қызықты."
+          ru: "Эта книга очень интересная."
+          en: "This book is very interesting."
+  synonyms:
+    - word_id: null  # ID для "шығарма" когда добавится
+      word: "шығарма"
+      note: "Для художественной литературы"

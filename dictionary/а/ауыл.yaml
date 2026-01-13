@@ -1,0 +1,26 @@
+- id: 30
+  word: "ауыл"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑˈwəl"
+  latin_2017: "auyl"
+  latin_2021: "auyl"
+  latin_my: "auyl"
+  root_word: "ауыл"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен 'avıl/aul' түрінде келген. Көшпелі қазақтардың тұрақты қоныстануымен байланысты. Түрік тілінде 'köy', өзб. 'qishloq', тат. 'авыл', әзірб. 'kənd'."
+  definitions:
+    - meaning: "Қалада емес, шетте орналасқан қоныс"
+      translation_ru: "Аул, деревня, село"
+      translation_en: "Village, aul"
+      examples:
+        - kk: "Туған ауыл."
+          ru: "Родной аул."
+          en: "Native village."
+        - kk: "Ауылға қайту."
+          ru: "Вернуться в аул."
+          en: "To return to the village."
+  antonyms:
+    - word_id: 74
+      word: "қала"
+      note: "Город"

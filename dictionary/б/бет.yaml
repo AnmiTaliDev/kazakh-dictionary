@@ -1,0 +1,36 @@
+- id: 43
+  word: "бет"
+  parent_id: null
+  type: "noun"
+  transcription: "bet"
+  latin_2017: "bet"
+  latin_2021: "bet"
+  latin_my: "bet"
+  root_word: "бет"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'bet/yüz' түрінде келген. Түркі тілдерінде: түрік 'yüz' (бет), өзб. 'yuz', тат. 'йөз', әзірб. 'üz', қырғ. 'бет/жүз'."
+  definitions:
+    - meaning: "Басының алдыңғы жағы"
+      translation_ru: "Лицо"
+      translation_en: "Face"
+      examples:
+        - kk: "Бетін жуу."
+          ru: "Умыть лицо."
+          en: "To wash one's face."
+        - kk: "Бет-әлпет."
+          ru: "Внешность."
+          en: "Appearance."
+    - meaning: "Кітаптың бір жағы"
+      translation_ru: "Страница"
+      translation_en: "Page"
+      examples:
+        - kk: "Бетті ашу."
+          ru: "Открыть страницу."
+          en: "To open a page."
+    - meaning: "Заттың бір жағы"
+      translation_ru: "Сторона, поверхность"
+      translation_en: "Side, surface"
+      examples:
+        - kk: "Жер беті."
+          ru: "Поверхность земли."
+          en: "Earth's surface."

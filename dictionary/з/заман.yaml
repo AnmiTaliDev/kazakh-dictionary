@@ -1,0 +1,26 @@
+- id: 64
+  word: "заман"
+  parent_id: null
+  type: "noun"
+  transcription: "zɑˈmɑn"
+  latin_2017: "zaman"
+  latin_2021: "zaman"
+  latin_my: "zaman"
+  root_word: "заман"
+  etymology: "Араб тілінен"
+  history: "Арабтың 'zaman' (زَمَان - заман, дәуір) сөзінен шыққан. Түркі тілдеріне ислам мәдениетімен бірге енген: түрік 'zaman', өзб. 'zamon', тат. 'заман', әзірб. 'zaman'."
+  definitions:
+    - meaning: "Тарихтың белгілі бір кезеңі"
+      translation_ru: "Эпоха, эра"
+      translation_en: "Epoch, era"
+      examples:
+        - kk: "Ортағасыр заманы."
+          ru: "Эпоха средневековья."
+          en: "Medieval era."
+        - kk: "Заман талабы."
+          ru: "Требование времени."
+          en: "Demand of the times."
+  synonyms:
+    - word_id: 25
+      word: "уақыт"
+      note: "Время"

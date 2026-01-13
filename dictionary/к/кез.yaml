@@ -1,0 +1,26 @@
+- id: 66
+  word: "кез"
+  parent_id: null
+  type: "noun"
+  transcription: "kez"
+  latin_2017: "kez"
+  latin_2021: "kez"
+  latin_my: "kez"
+  root_word: "кез"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен 'kez' (кезең, уақыт) түрінде келген. Түрік тілінде 'vakit/an', өзб. 'vaqt/payt', тат. 'вакыт', әзірб. 'vaxt', қырғ. 'учур'."
+  definitions:
+    - meaning: "Белгілі бір уақыт аралығы"
+      translation_ru: "Момент, время, период"
+      translation_en: "Moment, time, period"
+      examples:
+        - kk: "Қазіргі кезде."
+          ru: "В настоящий момент."
+          en: "At the present time."
+        - kk: "Сол кезде."
+          ru: "В то время."
+          en: "At that time."
+  synonyms:
+    - word_id: 25
+      word: "уақыт"
+      note: "Время"

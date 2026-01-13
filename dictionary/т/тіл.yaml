@@ -1,0 +1,40 @@
+- id: 14
+  word: "тіл"
+  parent_id: null
+  type: "noun"
+  transcription: "tɪl"
+  latin_2017: "til"
+  latin_2021: "til"
+  latin_my: "tıl"
+  root_word: "тіл"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'til' түрінде келген. Барлық түркі тілдерінде бар: түрік 'dil', өзб. 'til', тат. 'тел', әзірб. 'dil', қырғ. 'тил'. Орхон-Енисей жазбаларында кездеседі."
+  definitions:
+    - meaning: "Ауыз қуысындағы дәм сезетін, сөйлеуге қатысатын ағза"
+      translation_ru: "Язык (орган)"
+      translation_en: "Tongue"
+      examples:
+        - kk: "Тілін көрсетті."
+          ru: "Показал язык."
+          en: "Showed the tongue."
+    - meaning: "Ойды білдіру, қарым-қатынас құралы"
+      translation_ru: "Язык (речь)"
+      translation_en: "Language"
+      examples:
+        - kk: "Қазақ тілі."
+          ru: "Казахский язык."
+          en: "Kazakh language."
+        - kk: "Ана тілі."
+          ru: "Родной язык."
+          en: "Mother tongue."
+    - meaning: "Сөйлеу қабілеті, сөз"
+      translation_ru: "Речь"
+      translation_en: "Speech"
+      examples:
+        - kk: "Тіл табысу."
+          ru: "Найти общий язык."
+          en: "To find common ground."
+  synonyms:
+    - word_id: 11
+      word: "сөз"
+      note: "В значении 'речь'"

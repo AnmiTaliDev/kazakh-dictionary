@@ -1,0 +1,22 @@
+- id: 99
+  word: "тау"
+  parent_id: null
+  type: "noun"
+  transcription: "tɑw"
+  latin_2017: "tau"
+  latin_2021: "tau"
+  latin_my: "tau"
+  root_word: "тау"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'tağ/tav' түрінде келген. Барлық түркі тілдерінде бар: түрік 'dağ', өзб. 'tog'', тат. 'тау', әзірб. 'dağ', қырғ. 'тоо'. Орхон-Енисей жазбаларында 'tağ' деп жазылған."
+  definitions:
+    - meaning: "Биік жер көтерілісі"
+      translation_ru: "Гора"
+      translation_en: "Mountain"
+      examples:
+        - kk: "Тауға шығу."
+          ru: "Подниматься в гору."
+          en: "To climb a mountain."
+        - kk: "Биік тау."
+          ru: "Высокая гора."
+          en: "High mountain."

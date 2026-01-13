@@ -1,0 +1,33 @@
+- id: 24
+  word: "өмір"
+  parent_id: null
+  type: "noun"
+  transcription: "ømɪr"
+  latin_2017: "ömir"
+  latin_2021: "ömir"
+  latin_my: "ömır"
+  root_word: "өмір"
+  etymology: "Араб тілінен"
+  history: "Арабтың 'ʿumr' (عُمْر - өмір, жас) сөзінен шыққан. Ислам мәдениетінің таралуымен бірге түркі тілдеріне енген: түрік 'ömür', өзб. 'umr', тат. 'гомер', әзірб. 'ömür'."
+  definitions:
+    - meaning: "Тіршілік ету, тірі болу күйі"
+      translation_ru: "Жизнь"
+      translation_en: "Life"
+      examples:
+        - kk: "Өмір сүру."
+          ru: "Жить."
+          en: "To live."
+        - kk: "Өмір жолы."
+          ru: "Жизненный путь."
+          en: "Life path."
+    - meaning: "Тұрмыс, тіршілік"
+      translation_ru: "Жизнь, быт"
+      translation_en: "Life, livelihood"
+      examples:
+        - kk: "Өмір деңгейі."
+          ru: "Уровень жизни."
+          en: "Standard of living."
+  antonyms:
+    - word_id: null
+      word: "өлім"
+      note: "Смерть"

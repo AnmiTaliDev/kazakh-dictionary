@@ -1,0 +1,40 @@
+- id: 76
+  word: "қара"
+  parent_id: null
+  type: "adjective"
+  transcription: "qɑˈrɑ"
+  latin_2017: "qara"
+  latin_2021: "qara"
+  latin_my: "qara"
+  root_word: "қара"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'qara' түрінде келген. Барлық түркі тілдерінде бар: түрік 'kara', өзб. 'qora', тат. 'кара', әзірб. 'qara', қырғ. 'кара'. Орхон-Енисей жазбаларында кездеседі."
+  definitions:
+    - meaning: "Ең қара түс"
+      translation_ru: "Чёрный"
+      translation_en: "Black"
+      examples:
+        - kk: "Қара түс."
+          ru: "Чёрный цвет."
+          en: "Black color."
+        - kk: "Қара шаш."
+          ru: "Чёрные волосы."
+          en: "Black hair."
+    - meaning: "Күшті, ауыр"
+      translation_ru: "Тяжёлый, сильный"
+      translation_en: "Heavy, strong"
+      examples:
+        - kk: "Қара еңбек."
+          ru: "Тяжёлый труд."
+          en: "Hard labor."
+    - meaning: "Қарапайым, кәдімгі"
+      translation_ru: "Простой, обычный"
+      translation_en: "Simple, common"
+      examples:
+        - kk: "Қара халық."
+          ru: "Простой народ."
+          en: "Common people."
+  antonyms:
+    - word_id: null
+      word: "ақ"
+      note: "Белый"

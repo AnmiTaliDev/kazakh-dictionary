@@ -1,0 +1,30 @@
+- id: 16
+  word: "дос"
+  parent_id: null
+  type: "noun"
+  transcription: "dos"
+  latin_2017: "dos"
+  latin_2021: "dos"
+  latin_my: "dos"
+  root_word: "дос"
+  etymology: "Перс тілінен"
+  history: "Парсы тілінің 'dōst' (دوست - друг, любимый) сөзінен шыққан. Барлық түркі тілдеріне парсы тілі арқылы енген: түрік 'dost', өзб. 'do'st', әзірб. 'dost', тат. 'дус'."
+  definitions:
+    - meaning: "Жақын, сенімді адам"
+      translation_ru: "Друг"
+      translation_en: "Friend"
+      examples:
+        - kk: "Менің ең жақын досым."
+          ru: "Мой самый близкий друг."
+          en: "My closest friend."
+        - kk: "Дос-жарандар."
+          ru: "Друзья-товарищи."
+          en: "Friends and comrades."
+  antonyms:
+    - word_id: null
+      word: "жау"
+      note: "Враг"
+  synonyms:
+    - word_id: null
+      word: "жолдас"
+      note: "Товарищ"

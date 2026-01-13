@@ -1,0 +1,33 @@
+- id: 94
+  word: "суық"
+  parent_id: null
+  type: "adjective"
+  transcription: "sʊˈjəq"
+  latin_2017: "suyq"
+  latin_2021: "suyq"
+  latin_my: "suîyq"
+  root_word: "суық"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'soğuq/suuq' түрінде келген. Түркі тілдерінде: түрік 'soğuk', өзб. 'sovuq', тат. 'салкын', әзірб. 'soyuq', қырғ. 'муздак/суук'."
+  definitions:
+    - meaning: "Жылуы жоқ, салқын"
+      translation_ru: "Холодный"
+      translation_en: "Cold"
+      examples:
+        - kk: "Суық ауа."
+          ru: "Холодный воздух."
+          en: "Cold air."
+        - kk: "Суық су."
+          ru: "Холодная вода."
+          en: "Cold water."
+    - meaning: "Салқындық (зат есім)"
+      translation_ru: "Холод"
+      translation_en: "Cold, coldness"
+      examples:
+        - kk: "Суық тиді."
+          ru: "Простудился."
+          en: "Caught a cold."
+  antonyms:
+    - word_id: null
+      word: "ыстық"
+      note: "Горячий"

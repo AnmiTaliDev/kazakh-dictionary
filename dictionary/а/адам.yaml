@@ -1,0 +1,36 @@
+- id: 8
+  word: "адам"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑˈdɑm"
+  latin_2017: "adam"
+  latin_2021: "adam"
+  latin_my: "adam"
+  root_word: "адам"
+  etymology: "Араб-еврей тілдерінен"
+  history: "Арабтың 'ādam' (آدم - Адам, бірінші адам, адамзат) сөзінен шыққан, ол өз кезегінде еврей тілінің 'adam' (אָדָם - адам) сөзінен алынған. Ислам және христиан дінінің таралуымен бірге түркі тілдеріне енген."
+  definitions:
+    - meaning: "Ақыл-ойлы, еңбек құралдарын жасай алатын жоғары тіршілік иесі"
+      translation_ru: "Человек"
+      translation_en: "Human, person"
+      examples:
+        - kk: "Адам баласы әлеуметтік жан."
+          ru: "Человек - существо социальное."
+          en: "A human is a social being."
+        - kk: "Ол жақсы адам."
+          ru: "Он хороший человек."
+          en: "He is a good person."
+    - meaning: "Біреу, кейбір адам"
+      translation_ru: "Кто-то, некто"
+      translation_en: "Someone, somebody"
+      examples:
+        - kk: "Бір адам келді."
+          ru: "Кто-то пришёл."
+          en: "Someone came."
+  synonyms:
+    - word_id: null
+      word: "адамзат"
+      note: "В значении 'человечество'"
+    - word_id: null
+      word: "жан"
+      note: "Разговорный вариант"

@@ -1,0 +1,22 @@
+- id: 90
+  word: "өлең"
+  parent_id: null
+  type: "noun"
+  transcription: "øˈleŋ"
+  latin_2017: "öleñ"
+  latin_2021: "öleñ"
+  latin_my: "öleŋ"
+  root_word: "өлең"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен 'öleng/ölen' түрінде келген. Қазақ әдебиетінде поэзиялық шығарма үшін қолданылады. Түрік тілінде 'şiir', өзб. 'she'r', тат. 'шигырь', әзірб. 'şeir', қырғ. 'ырдын'."
+  definitions:
+    - meaning: "Өлшемді, ұйқасты сөз"
+      translation_ru: "Стихотворение, поэма"
+      translation_en: "Poem, verse"
+      examples:
+        - kk: "Өлең жазу."
+          ru: "Писать стихи."
+          en: "To write poems."
+        - kk: "Өлең оқу."
+          ru: "Читать стихи."
+          en: "To recite a poem."

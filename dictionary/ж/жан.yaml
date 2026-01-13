@@ -1,0 +1,33 @@
+- id: 35
+  word: "жан"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒɑn"
+  latin_2017: "jan"
+  latin_2021: "jan"
+  latin_my: "jan"
+  root_word: "жан"
+  etymology: "Перс тілінен"
+  history: "Парсы тілінің 'jān' (جان - жан, өмір, тіршілік) сөзінен шыққан. Барлық түркі тілдеріне парсы тілі арқылы енген: түрік 'can', өзб. 'jon', тат. 'җан', әзірб. 'can'."
+  definitions:
+    - meaning: "Адамның ішкі әлемі, рухы"
+      translation_ru: "Душа, дух"
+      translation_en: "Soul, spirit"
+      examples:
+        - kk: "Жан дүние."
+          ru: "Душа."
+          en: "Soul."
+        - kk: "Жан берді."
+          ru: "Умер."
+          en: "Died (gave up the soul)."
+    - meaning: "Адам (ауыспалы мағына)"
+      translation_ru: "Человек, душа"
+      translation_en: "Person, soul"
+      examples:
+        - kk: "Екі жан."
+          ru: "Два человека."
+          en: "Two people."
+  synonyms:
+    - word_id: 13
+      word: "жүрек"
+      note: "В переносном значении"

@@ -1,0 +1,26 @@
+- id: 108
+  word: "халық"
+  parent_id: null
+  type: "noun"
+  transcription: "xɑˈləq"
+  latin_2017: "halyq"
+  latin_2021: "halyq"
+  latin_my: "xalyq"
+  root_word: "халық"
+  etymology: "Араб тілінен"
+  history: "Арабтың 'xalq' (خَلْق - жаратылыс, адамдар, халық) сөзінен шыққан. Ислам мәдениетімен бірге түркі тілдеріне енген: түрік 'halk', өзб. 'xalq', тат. 'халык', әзірб. 'xalq'."
+  definitions:
+    - meaning: "Белгілі бір аумақта тұратын адамдар жиынтығы"
+      translation_ru: "Народ, население"
+      translation_en: "People, population"
+      examples:
+        - kk: "Қазақстан халқы."
+          ru: "Народ Казахстана."
+          en: "People of Kazakhstan."
+        - kk: "Халық мүддесі."
+          ru: "Интересы народа."
+          en: "People's interests."
+  synonyms:
+    - word_id: 37
+      word: "ел"
+      note: "Народ"

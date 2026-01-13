@@ -1,0 +1,26 @@
+- id: 100
+  word: "тек"
+  parent_id: null
+  type: "adverb"
+  transcription: "tek"
+  latin_2017: "tek"
+  latin_2021: "tek"
+  latin_my: "tek"
+  root_word: "тек"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'tek' түрінде келген."
+  definitions:
+    - meaning: "Бекер, еш нәтижесіз"
+      translation_ru: "Зря, напрасно"
+      translation_en: "In vain"
+      examples:
+        - kk: "Тек айтты."
+          ru: "Сказал зря."
+          en: "Said in vain."
+    - meaning: "Ғана, тек қана"
+      translation_ru: "Только, лишь"
+      translation_en: "Only"
+      examples:
+        - kk: "Тек сен."
+          ru: "Только ты."
+          en: "Only you."

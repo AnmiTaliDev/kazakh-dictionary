@@ -1,0 +1,19 @@
+- id: 60
+  word: "жұрт"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒʊrt"
+  latin_2017: "jurt"
+  latin_2021: "jurt"
+  latin_my: "jūrt"
+  root_word: "жұрт"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'yurt' (жұрт, ел, қоныс) түрінде келген. Түрік 'yurt', өзб. 'yurt', тат. 'йорт', әзірб. 'yurd', қырғ. 'журт'."
+  definitions:
+    - meaning: "Адамдар, халық"
+      translation_ru: "Люди, народ"
+      translation_en: "People, folk"
+      examples:
+        - kk: "Жұрт айтады."
+          ru: "Люди говорят."
+          en: "People say."

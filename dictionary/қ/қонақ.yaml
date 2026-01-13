@@ -1,0 +1,26 @@
+- id: 80
+  word: "қонақ"
+  parent_id: null
+  type: "noun"
+  transcription: "qoˈnɑq"
+  latin_2017: "qonaq"
+  latin_2021: "qonaq"
+  latin_my: "qonaq"
+  root_word: "қон"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'qon-' (қону, тұру) етістігінен '-ақ' жұрнағымен жасалған. Түркі тілдерінде: түрік 'konuk', өзб. 'mehmon', тат. 'кунак', әзірб. 'qonaq', қырғ. 'конок'. Қазақ мәдениетінде қонақ күту ерекше орын алады."
+  definitions:
+    - meaning: "Үйге келген адам"
+      translation_ru: "Гость"
+      translation_en: "Guest"
+      examples:
+        - kk: "Қонақ күту."
+          ru: "Принимать гостей."
+          en: "To receive guests."
+        - kk: "Қонаққа бару."
+          ru: "Идти в гости."
+          en: "To go visiting."
+  antonyms:
+    - word_id: 65
+      word: "ие"
+      note: "Хозяин"

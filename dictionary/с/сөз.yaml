@@ -1,0 +1,33 @@
+- id: 11
+  word: "сөз"
+  parent_id: null
+  type: "noun"
+  transcription: "søz"
+  latin_2017: "söz"
+  latin_2021: "söz"
+  latin_my: "söz"
+  root_word: "сөз"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'söz' түрінде келген. Барлық түркі тілдерінде бар: түрік 'söz', өзб. 'so'z', тат. 'сүз', әзірб. 'söz', қырғ. 'söz'. Орхон-Енисей жазбаларында 'söz' деп жазылған."
+  definitions:
+    - meaning: "Ойды жеткізетін тіл бірлігі"
+      translation_ru: "Слово"
+      translation_en: "Word"
+      examples:
+        - kk: "Бір сөзбен айтсам."
+          ru: "Одним словом."
+          en: "In a word."
+        - kk: "Сөз берді."
+          ru: "Дал слово."
+          en: "Gave a word."
+    - meaning: "Сөйлеу, айту"
+      translation_ru: "Речь, разговор"
+      translation_en: "Speech, conversation"
+      examples:
+        - kk: "Сөз айту."
+          ru: "Говорить."
+          en: "To speak."
+  synonyms:
+    - word_id: null
+      word: "тіл"
+      note: "В значении 'речь, язык'"

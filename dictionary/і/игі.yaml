@@ -1,0 +1,26 @@
+- id: 5
+  word: "игі"
+  parent_id: null
+  type: "adjective"
+  transcription: "ɪˈɡɪ"
+  latin_2017: "igi"
+  latin_2021: "igi"
+  latin_my: "ıgı"
+  root_word: "игі"
+  etymology: "Көне түркі тілінен"
+  history: "Көне түркі тілінен 'edgü/igü' (жақсы, пайдалы) түрінде келген. Орхон-Енисей жазбаларында кездеседі."
+  definitions:
+    - meaning: "Жақсы, пайдалы (формалды стиль)"
+      translation_ru: "Добрый, благой, полезный"
+      translation_en: "Good, beneficial, useful"
+      examples:
+        - kk: "Игі іс."
+          ru: "Доброе дело."
+          en: "Good deed."
+        - kk: "Игі ниет."
+          ru: "Добрые намерения."
+          en: "Good intentions."
+  synonyms:
+    - word_id: 2
+      word: "жақсы"
+      note: "Более разговорный вариант"

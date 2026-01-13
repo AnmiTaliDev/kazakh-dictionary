@@ -1,0 +1,33 @@
+- id: 13
+  word: "жүрек"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒʏˈrek"
+  latin_2017: "jürek"
+  latin_2021: "jürek"
+  latin_my: "jürek"
+  root_word: "жүрек"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'yürek/cürek' түрінде келген. Түркі тілдерінде: түрік 'yürek', өзб. 'yurak', тат. 'йөрәк', әзірб. 'ürək', қырғ. 'жүрөк'."
+  definitions:
+    - meaning: "Қан айналымын қамтамасыз ететін ағза"
+      translation_ru: "Сердце"
+      translation_en: "Heart"
+      examples:
+        - kk: "Жүрегі тез соғады."
+          ru: "Его сердце быстро бьётся."
+          en: "His heart beats fast."
+    - meaning: "Сезім, ықылас орны (ауыспалы мағына)"
+      translation_ru: "Сердце, душа"
+      translation_en: "Heart, soul"
+      examples:
+        - kk: "Жүрегі жұмсақ адам."
+          ru: "Человек с мягким сердцем."
+          en: "A soft-hearted person."
+        - kk: "Жүректен айту."
+          ru: "Говорить от сердца."
+          en: "To speak from the heart."
+  synonyms:
+    - word_id: null
+      word: "жан"
+      note: "В переносном значении 'душа'"

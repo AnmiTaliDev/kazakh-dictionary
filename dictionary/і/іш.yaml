@@ -1,0 +1,33 @@
+- id: 113
+  word: "іш"
+  parent_id: null
+  type: "noun"
+  transcription: "ɪʃ"
+  latin_2017: "iş"
+  latin_2021: "iş"
+  latin_my: "ış"
+  root_word: "іш"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'iç' түрінде келген. Барлық түркі тілдерінде бар: түрік 'iç', өзб. 'ich', тат. 'эч', әзірб. 'iç', қырғ. 'ич'."
+  definitions:
+    - meaning: "Заттың ішкі бөлігі"
+      translation_ru: "Внутренняя часть, нутро"
+      translation_en: "Inside, interior"
+      examples:
+        - kk: "Үйдің ішінде."
+          ru: "Внутри дома."
+          en: "Inside the house."
+        - kk: "Іш киім."
+          ru: "Нижнее бельё."
+          en: "Underwear."
+    - meaning: "Қарын, асқорыту мүшелері"
+      translation_ru: "Живот, внутренности"
+      translation_en: "Belly, intestines"
+      examples:
+        - kk: "Ішім ауырды."
+          ru: "У меня болит живот."
+          en: "My stomach hurts."
+  antonyms:
+    - word_id: 96
+      word: "сырт"
+      note: "Внешность"

@@ -1,0 +1,29 @@
+- id: 84
+  word: "мал"
+  parent_id: null
+  type: "noun"
+  transcription: "mɑl"
+  latin_2017: "mal"
+  latin_2021: "mal"
+  latin_my: "mal"
+  root_word: "мал"
+  etymology: "Монғол тілінен"
+  history: "Монғол тілінің 'mal' (мал, жануар) сөзінен шыққан. Көшпелі өмірде мал - негізгі байлық көзі болған. Түркі тілдеріне монғол тілі арқылы енген."
+  definitions:
+    - meaning: "Үй жануарлары"
+      translation_ru: "Скот, домашние животные"
+      translation_en: "Livestock, cattle"
+      examples:
+        - kk: "Мал бағу."
+          ru: "Пасти скот."
+          en: "To herd livestock."
+        - kk: "Ірі қара мал."
+          ru: "Крупный рогатый скот."
+          en: "Large cattle."
+    - meaning: "Байлық, мүлік"
+      translation_ru: "Богатство, имущество"
+      translation_en: "Wealth, property"
+      examples:
+        - kk: "Мал-мүлік."
+          ru: "Имущество."
+          en: "Property."

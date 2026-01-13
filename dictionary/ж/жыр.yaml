@@ -1,0 +1,26 @@
+- id: 62
+  word: "жыр"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒər"
+  latin_2017: "jyr"
+  latin_2021: "jyr"
+  latin_my: "jyr"
+  root_word: "жыр"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'yır/cır' түрінде келген. Түркі тілдерінде: түрік 'türkü', өзб. 'ashula', тат. 'җыр', әзірб. 'nəğmə', қырғ. 'ыр'. Қазақ халқында эпикалық жырлар мәдениеті ерекше дамыған."
+  definitions:
+    - meaning: "Халық ауыз әдебиетінің эпикалық түрі"
+      translation_ru: "Былина, эпическая песня"
+      translation_en: "Epic, epic song"
+      examples:
+        - kk: "Батырлар жыры."
+          ru: "Эпос о батырах."
+          en: "Epic about heroes."
+        - kk: "Жыр айту."
+          ru: "Исполнять былину."
+          en: "To perform an epic."
+  synonyms:
+    - word_id: 39
+      word: "ән"
+      note: "Песня"

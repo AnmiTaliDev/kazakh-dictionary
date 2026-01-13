@@ -1,0 +1,36 @@
+- id: 9
+  word: "ай"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑj"
+  latin_2017: "ay"
+  latin_2021: "ay"
+  latin_my: "aî"
+  root_word: "ай"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'ay' түрінде келген. Барлық түркі тілдерінде бар: түрік ay, өзб. oy, тат. ай, әзірб. ay, қырғ. ай. Орхон-Енисей жазбаларында 'ay' (ай, луна) деп жазылған. Монғол тілінде 'саран' деп аталады."
+  definitions:
+    - meaning: "Жердің табиғи серігі, түнде жарық шашатын аспан денесі"
+      translation_ru: "Луна"
+      translation_en: "Moon"
+      examples:
+        - kk: "Толған ай аспанда жарқырап тұр."
+          ru: "Полная луна сияет на небе."
+          en: "The full moon is shining in the sky."
+        - kk: "Ай туды."
+          ru: "Луна взошла."
+          en: "The moon rose."
+    - meaning: "Жылдың он екіден бір бөлігі, күнтізбелік уақыт өлшемі"
+      translation_ru: "Месяц"
+      translation_en: "Month"
+      examples:
+        - kk: "Бір ай бұрын."
+          ru: "Месяц назад."
+          en: "A month ago."
+        - kk: "Қаңтар айы."
+          ru: "Месяц январь."
+          en: "The month of January."
+  synonyms:
+    - word_id: null
+      word: "түн шырағы"
+      note: "Поэтическое название луны"

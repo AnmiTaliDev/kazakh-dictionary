@@ -1,0 +1,37 @@
+- id: 61
+  word: "жүз"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒʏz"
+  latin_2017: "jüz"
+  latin_2021: "jüz"
+  latin_my: "jüz"
+  root_word: "жүз"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'yüz' түрінде келген. Түркі тілдерінде екі мағынасы бар: 1) бет (лицо), 2) жүз (сто). Түрік 'yüz', өзб. 'yuz', тат. 'йөз', әзірб. 'üz', қырғ. 'жүз'."
+  definitions:
+    - meaning: "Адамның беті"
+      translation_ru: "Лицо"
+      translation_en: "Face"
+      examples:
+        - kk: "Жүзін көрсету."
+          ru: "Показать лицо."
+          en: "To show one's face."
+    - meaning: "Сан: 100"
+      translation_ru: "Сто"
+      translation_en: "Hundred"
+      examples:
+        - kk: "Жүз адам."
+          ru: "Сто человек."
+          en: "One hundred people."
+    - meaning: "Қазақтың тайпалық бірлігі"
+      translation_ru: "Жуз (племенное объединение)"
+      translation_en: "Juz (tribal union)"
+      examples:
+        - kk: "Ұлы жүз."
+          ru: "Старший жуз."
+          en: "Senior Juz."
+  synonyms:
+    - word_id: 43
+      word: "бет"
+      note: "В значении 'лицо'"

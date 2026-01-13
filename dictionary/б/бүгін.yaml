@@ -1,0 +1,29 @@
+- id: 46
+  word: "бүгін"
+  parent_id: null
+  type: "adverb"
+  transcription: "bʏˈɡɪn"
+  latin_2017: "bügin"
+  latin_2021: "bügin"
+  latin_my: "bügın"
+  root_word: "бу күн"
+  etymology: "бу (это) + күн (день)"
+  history: "Қазақ тілінде 'бу күні' (осы күні) тіркесінен қысқарып 'бүгін' болып қалыптасқан. Түркі тілдерінде: түрік 'bugün', өзб. 'bugun', тат. 'бүген', әзірб. 'bu gün', қырғ. 'бүгүн'."
+  definitions:
+    - meaning: "Осы күні"
+      translation_ru: "Сегодня"
+      translation_en: "Today"
+      examples:
+        - kk: "Бүгін не күн?"
+          ru: "Какой сегодня день?"
+          en: "What day is it today?"
+        - kk: "Бүгін барамын."
+          ru: "Сегодня пойду."
+          en: "I'll go today."
+  antonyms:
+    - word_id: null
+      word: "ертең"
+      note: "Завтра"
+    - word_id: null
+      word: "кеше"
+      note: "Вчера"

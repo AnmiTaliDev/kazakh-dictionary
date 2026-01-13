@@ -1,0 +1,25 @@
+- id: 17
+  word: "жау"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒɑw"
+  latin_2017: "jau"
+  latin_2021: "jau"
+  latin_my: "jau"
+  root_word: "жау"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'yağı/yaw' (жау, қас) түрінде келген. Түркі тілдерінде: түрік 'düşman', өзб. 'dushman', тат. 'дошман/җәү', әзірб. 'düşmən'."
+  definitions:
+    - meaning: "Қастық ұстайтын, зиян тілейтін адам"
+      translation_ru: "Враг, неприятель"
+      translation_en: "Enemy"
+      examples:
+        - kk: "Жауымен шайқас."
+          ru: "Битва с врагом."
+          en: "Battle with the enemy."
+        - kk: "Жауын жеңді."
+          ru: "Победил врага."
+          en: "Defeated the enemy."
+  antonyms:
+    - word_id: 16
+      word: "дос"

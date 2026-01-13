@@ -1,0 +1,19 @@
+- id: 69
+  word: "көңіл"
+  parent_id: null
+  type: "noun"
+  transcription: "køˈŋɪl"
+  latin_2017: "köñil"
+  latin_2021: "köñil"
+  latin_my: "köŋıl"
+  root_word: "көңіл"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'köŋül/gönül' түрінде келген. Түрік 'gönül'."
+  definitions:
+    - meaning: "Жан-дүние, сезім"
+      translation_ru: "Настроение, душа, сердце"
+      translation_en: "Mood, heart, soul"
+      examples:
+        - kk: "Көңілі көтерілді."
+          ru: "Настроение поднялось."
+          en: "Mood lifted."

@@ -1,0 +1,26 @@
+- id: 83
+  word: "қызық"
+  parent_id: null
+  type: "adjective"
+  transcription: "qəˈzəq"
+  latin_2017: "qyzyq"
+  latin_2021: "qyzyq"
+  latin_my: "qyzyq"
+  root_word: "қыз"
+  etymology: "қыз + -ық"
+  history: "Түркі 'қызу/қызық' (қызықты, қуанышты) түбірінен шыққан. Түркі тілдерінде 'қызық' (қызығушылық, мазмұнды) мағынасында қолданылады."
+  definitions:
+    - meaning: "Қызығушылық тудыратын"
+      translation_ru: "Интересный, занимательный"
+      translation_en: "Interesting, entertaining"
+      examples:
+        - kk: "Қызық оқиға."
+          ru: "Интересная история."
+          en: "Interesting story."
+        - kk: "Қызық нәрсе."
+          ru: "Интересная вещь."
+          en: "Interesting thing."
+  antonyms:
+    - word_id: null
+      word: "жалықтырарлық"
+      note: "Скучный"

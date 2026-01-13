@@ -1,0 +1,26 @@
+- id: 70
+  word: "күй"
+  parent_id: null
+  type: "noun"
+  transcription: "kʏj"
+  latin_2017: "küy"
+  latin_2021: "küy"
+  latin_my: "küî"
+  root_word: "күй"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен. Екі негізгі мағынасы: 1) музыкалық күй 2) жағдай, күй."
+  definitions:
+    - meaning: "Қазақтың аспаптық музыкасы"
+      translation_ru: "Кюй, мелодия"
+      translation_en: "Kui (instrumental), melody"
+      examples:
+        - kk: "Домбыра күйі."
+          ru: "Кюй на домбре."
+          en: "Dombra kui."
+    - meaning: "Жағдай"
+      translation_ru: "Состояние"
+      translation_en: "State, condition"
+      examples:
+        - kk: "Денсаулық күйі."
+          ru: "Состояние здоровья."
+          en: "Health condition."

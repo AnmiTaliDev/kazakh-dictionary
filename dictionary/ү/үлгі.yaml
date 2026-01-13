@@ -1,0 +1,19 @@
+- id: 105
+  word: "үлгі"
+  parent_id: null
+  type: "noun"
+  transcription: "ʏlˈɡɪ"
+  latin_2017: "ülgi"
+  latin_2021: "ülgi"
+  latin_my: "ülgı"
+  root_word: "үлгі"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'ülgi/örnek' түрінде келген."
+  definitions:
+    - meaning: "Еліктейтін нұсқа"
+      translation_ru: "Пример, образец"
+      translation_en: "Example, model, pattern"
+      examples:
+        - kk: "Үлгі болу."
+          ru: "Быть примером."
+          en: "To be an example."

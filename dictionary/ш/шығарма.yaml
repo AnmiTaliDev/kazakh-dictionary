@@ -1,0 +1,26 @@
+- id: 111
+  word: "шығарма"
+  parent_id: null
+  type: "noun"
+  transcription: "ʃəʁɑrˈmɑ"
+  latin_2017: "şyğarma"
+  latin_2021: "şyğarma"
+  latin_my: "şyğarma"
+  root_word: "шық"
+  etymology: "шық (выходить) + -арма"
+  history: "Түркі 'шық-' (шығу, туу) етістігінен '-арма' жұрнағымен жасалған. 'Шығарылған, жаратылған нәрсе' мағынасын білдіреді. Түркі тілдерінде көбінесе 'шығарма, туынды' деп аталады."
+  definitions:
+    - meaning: "Әдеби немесе ғылыми жазба"
+      translation_ru: "Сочинение, произведение"
+      translation_en: "Composition, work"
+      examples:
+        - kk: "Әдеби шығарма."
+          ru: "Литературное произведение."
+          en: "Literary work."
+        - kk: "Шығарма жазу."
+          ru: "Писать сочинение."
+          en: "To write a composition."
+  synonyms:
+    - word_id: 1
+      word: "кітап"
+      note: "Для художественной литературы"

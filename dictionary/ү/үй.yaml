@@ -1,0 +1,29 @@
+- id: 20
+  word: "үй"
+  parent_id: null
+  type: "noun"
+  transcription: "ʏj"
+  latin_2017: "üy"
+  latin_2021: "üy"
+  latin_my: "üî"
+  root_word: "үй"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'ev/üy' түрінде келген. Түркі тілдерінде: түрік 'ev', өзб. 'uy', тат. 'өй', әзірб. 'ev', қырғ. 'үй'."
+  definitions:
+    - meaning: "Адамдар тұратын ғимарат"
+      translation_ru: "Дом"
+      translation_en: "House, home"
+      examples:
+        - kk: "Үйге қайту."
+          ru: "Вернуться домой."
+          en: "To return home."
+        - kk: "Жаңа үй салды."
+          ru: "Построил новый дом."
+          en: "Built a new house."
+    - meaning: "Отбасы, шаруашылық"
+      translation_ru: "Дом, семья"
+      translation_en: "Household, family"
+      examples:
+        - kk: "Үй ішінде."
+          ru: "В доме, в семье."
+          en: "At home, in the family."

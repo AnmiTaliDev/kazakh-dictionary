@@ -1,0 +1,22 @@
+- id: 48
+  word: "дүние"
+  parent_id: null
+  type: "noun"
+  transcription: "dʏˈnɪje"
+  latin_2017: "düniye"
+  latin_2021: "düniye"
+  latin_my: "dünıîe"
+  root_word: "дүние"
+  etymology: "Араб тілінен"
+  history: "Арабтың 'dunya' (دُنْيَا - дүние, әлем) сөзінен шыққан. Түркі тілдеріне ислам мәдениетімен бірге енген: түрік 'dünya', өзб. 'dunyo', тат. 'дөнья', әзірб. 'dünya'."
+  definitions:
+    - meaning: "Әлем, ғалам"
+      translation_ru: "Мир, вселенная"
+      translation_en: "World, universe"
+      examples:
+        - kk: "Бүкіл дүние."
+          ru: "Весь мир."
+          en: "The whole world."
+        - kk: "Дүние келу."
+          ru: "Родиться."
+          en: "To be born."

@@ -1,0 +1,33 @@
+- id: 112
+  word: "іс"
+  parent_id: null
+  type: "noun"
+  transcription: "ɪs"
+  latin_2017: "is"
+  latin_2021: "is"
+  latin_my: "ıs"
+  root_word: "іс"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'iş/is' түрінде келген. Барлық түркі тілдерінде бар: түрік 'iş', өзб. 'ish', тат. 'эш', әзірб. 'iş', қырғ. 'иш'. Орхон-Енисей жазбаларында кездеседі."
+  definitions:
+    - meaning: "Атқарылатын жұмыс, шаруа"
+      translation_ru: "Дело, работа"
+      translation_en: "Business, affair, matter"
+      examples:
+        - kk: "Маңызды іс."
+          ru: "Важное дело."
+          en: "Important matter."
+        - kk: "Іс қағазы."
+          ru: "Деловой документ."
+          en: "Business document."
+    - meaning: "Әрекет, қимыл"
+      translation_ru: "Действие, поступок"
+      translation_en: "Action, deed"
+      examples:
+        - kk: "Жақсы іс."
+          ru: "Доброе дело."
+          en: "Good deed."
+  synonyms:
+    - word_id: 59
+      word: "жұмыс"
+      note: "Работа"

@@ -1,0 +1,29 @@
+- id: 19
+  word: "су"
+  parent_id: null
+  type: "noun"
+  transcription: "sʊ"
+  latin_2017: "su"
+  latin_2021: "su"
+  latin_my: "su"
+  root_word: "су"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'suv/su' түрінде келген. Барлық түркі тілдерінде бар: түрік 'su', өзб. 'suv', тат. 'су', әзірб. 'su', қырғ. 'суу'. Орхон-Енисей жазбаларында 'sub' деп жазылған."
+  definitions:
+    - meaning: "Түссіз, иіссіз сұйық зат"
+      translation_ru: "Вода"
+      translation_en: "Water"
+      examples:
+        - kk: "Су ішу."
+          ru: "Пить воду."
+          en: "To drink water."
+        - kk: "Таза су."
+          ru: "Чистая вода."
+          en: "Clean water."
+    - meaning: "Өзен, көл"
+      translation_ru: "Река, водоём"
+      translation_en: "River, body of water"
+      examples:
+        - kk: "Үлкен су."
+          ru: "Большая река."
+          en: "Big river."

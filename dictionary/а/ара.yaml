@@ -1,0 +1,33 @@
+- id: 115
+  word: "ара"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑˈrɑ"
+  latin_2017: "ara"
+  latin_2021: "ara"
+  latin_my: "ara"
+  root_word: "ара"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен. Үш негізгі мағынасы бар."
+  definitions:
+    - meaning: "Екі нәрсенің ортасындағы кеңістік"
+      translation_ru: "Промежуток, расстояние"
+      translation_en: "Interval, distance"
+      examples:
+        - kk: "Ара қашықтық."
+          ru: "Расстояние между."
+          en: "Distance between."
+    - meaning: "Бал жинайтын жәндік"
+      translation_ru: "Пчела"
+      translation_en: "Bee"
+      examples:
+        - kk: "Ара шағады."
+          ru: "Пчела жалит."
+          en: "Bee stings."
+    - meaning: "Кесу құралы"
+      translation_ru: "Пила"
+      translation_en: "Saw"
+      examples:
+        - kk: "Ағаш арамен кесу."
+          ru: "Пилить дерево пилой."
+          en: "To saw wood with a saw."

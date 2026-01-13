@@ -1,0 +1,19 @@
+- id: 75
+  word: "қалып"
+  parent_id: null
+  type: "noun"
+  transcription: "qɑˈləp"
+  latin_2017: "qalyp"
+  latin_2021: "qalyp"
+  latin_my: "qalyp"
+  root_word: "қал"
+  etymology: "қал (оставаться) + -ып"
+  history: "Қазақ тілінде 'қалу' етістігінен жасалған."
+  definitions:
+    - meaning: "Жағдай, ахуал"
+      translation_ru: "Состояние, положение"
+      translation_en: "State, condition"
+      examples:
+        - kk: "Жақсы қалыпта."
+          ru: "В хорошем состоянии."
+          en: "In good condition."

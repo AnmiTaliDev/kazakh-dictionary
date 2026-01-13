@@ -1,0 +1,19 @@
+- id: 53
+  word: "жақ"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒɑq"
+  latin_2017: "jaq"
+  latin_2021: "jaq"
+  latin_my: "jaq"
+  root_word: "жақ"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'yaq/jaq' (жақ, тарап) түрінде келген."
+  definitions:
+    - meaning: "Қандай да бір тарап"
+      translation_ru: "Сторона"
+      translation_en: "Side"
+      examples:
+        - kk: "Оң жақ."
+          ru: "Правая сторона."
+          en: "Right side."

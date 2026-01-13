@@ -1,0 +1,44 @@
+- id: 55
+  word: "жас"
+  parent_id: null
+  type: "adjective"
+  transcription: "ʒɑs"
+  latin_2017: "jas"
+  latin_2021: "jas"
+  latin_my: "jas"
+  root_word: "жас"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'yaş' түрінде келген. Түркі тілдерінде: түрік 'genç/yaş', өзб. 'yosh', тат. 'яшь', әзірб. 'cavan/yaş', қырғ. 'жаш'."
+  definitions:
+    - meaning: "Әлі өспеген, жас кезінде"
+      translation_ru: "Молодой, юный"
+      translation_en: "Young, youthful"
+      examples:
+        - kk: "Жас адам."
+          ru: "Молодой человек."
+          en: "Young person."
+        - kk: "Жас күнімде."
+          ru: "В молодости."
+          en: "In my youth."
+    - meaning: "Өмір сүрген уақыт"
+      translation_ru: "Возраст, годы"
+      translation_en: "Age, years"
+      examples:
+        - kk: "Қанша жасыңыз?"
+          ru: "Сколько вам лет?"
+          en: "How old are you?"
+    - meaning: "Көзден келетін сұйықтық"
+      translation_ru: "Слеза"
+      translation_en: "Tear"
+      examples:
+        - kk: "Жас төгу."
+          ru: "Проливать слёзы."
+          en: "To shed tears."
+  antonyms:
+    - word_id: null
+      word: "қарт"
+      note: "Старый"
+  synonyms:
+    - word_id: 23
+      word: "жыл"
+      note: "В значении 'возраст'"

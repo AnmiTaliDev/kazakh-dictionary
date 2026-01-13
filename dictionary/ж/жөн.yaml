@@ -1,0 +1,19 @@
+- id: 58
+  word: "жөн"
+  parent_id: null
+  type: "adjective"
+  transcription: "ʒøn"
+  latin_2017: "jön"
+  latin_2021: "jön"
+  latin_my: "jön"
+  root_word: "жөн"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен 'yön/jön' түрінде келген."
+  definitions:
+    - meaning: "Дұрыс, орынды"
+      translation_ru: "Правильно, хорошо"
+      translation_en: "Right, correct, good"
+      examples:
+        - kk: "Жөн көрді."
+          ru: "Счёл нужным."
+          en: "Deemed it right."

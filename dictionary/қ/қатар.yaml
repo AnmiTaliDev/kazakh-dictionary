@@ -1,0 +1,19 @@
+- id: 77
+  word: "қатар"
+  parent_id: null
+  type: "adverb"
+  transcription: "qɑˈtɑr"
+  latin_2017: "qatar"
+  latin_2021: "qatar"
+  latin_my: "qatar"
+  root_word: "қатар"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'qatar/katar' түрінде келген."
+  definitions:
+    - meaning: "Жанында, бірге"
+      translation_ru: "Рядом, наряду"
+      translation_en: "Alongside, together"
+      examples:
+        - kk: "Қатар отыру."
+          ru: "Сидеть рядом."
+          en: "To sit together."

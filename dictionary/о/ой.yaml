@@ -1,0 +1,33 @@
+- id: 87
+  word: "ой"
+  parent_id: null
+  type: "noun"
+  transcription: "oj"
+  latin_2017: "oy"
+  latin_2021: "oy"
+  latin_my: "oî"
+  root_word: "ой"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'oy/uy' түрінде келген. Түркі тілдерінде: түрік 'düşünce', өзб. 'o'y/fikr', тат. 'уй', әзірб. 'fikir', қырғ. 'ой'."
+  definitions:
+    - meaning: "Ақыл-ой жұмысының нәтижесі"
+      translation_ru: "Мысль, идея"
+      translation_en: "Thought, idea"
+      examples:
+        - kk: "Жаңа ой."
+          ru: "Новая мысль."
+          en: "New idea."
+        - kk: "Ой түйіндеу."
+          ru: "Заключить мысль."
+          en: "To conclude a thought."
+    - meaning: "Ойлау, пікір"
+      translation_ru: "Мнение, соображение"
+      translation_en: "Opinion, consideration"
+      examples:
+        - kk: "Менің оймен."
+          ru: "По моему мнению."
+          en: "In my opinion."
+  synonyms:
+    - word_id: 26
+      word: "ақыл"
+      note: "Разум"

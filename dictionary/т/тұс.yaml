@@ -1,0 +1,26 @@
+- id: 102
+  word: "тұс"
+  parent_id: null
+  type: "noun"
+  transcription: "tʊs"
+  latin_2017: "tus"
+  latin_2021: "tus"
+  latin_my: "tūs"
+  root_word: "тұс"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'tuş/tus' түрінде келген."
+  definitions:
+    - meaning: "Бағыт, жақ"
+      translation_ru: "Край, направление"
+      translation_en: "Edge, direction"
+      examples:
+        - kk: "Қай тұста?"
+          ru: "В какой стороне?"
+          en: "In which direction?"
+    - meaning: "Кезең"
+      translation_ru: "Момент, период"
+      translation_en: "Moment, period"
+      examples:
+        - kk: "Сол тұста."
+          ru: "В тот момент."
+          en: "At that moment."

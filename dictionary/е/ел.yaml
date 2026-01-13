@@ -1,0 +1,33 @@
+- id: 37
+  word: "ел"
+  parent_id: null
+  type: "noun"
+  transcription: "jel"
+  latin_2017: "el"
+  latin_2021: "el"
+  latin_my: "el"
+  root_word: "ел"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'el/il' түрінде келген. Барлық түркі тілдерінде бар: түрік 'il', өзб. 'el', тат. 'ил', әзірб. 'el', қырғ. 'эл'. Орхон-Енисей жазбаларында 'el' (халық, мемлекет) деп жазылған."
+  definitions:
+    - meaning: "Халық, ұлт"
+      translation_ru: "Народ, нация"
+      translation_en: "People, nation"
+      examples:
+        - kk: "Қазақ елі."
+          ru: "Казахский народ."
+          en: "Kazakh people."
+        - kk: "Ел мүддесі."
+          ru: "Интересы народа."
+          en: "People's interests."
+    - meaning: "Мемлекет, өлке"
+      translation_ru: "Страна, государство"
+      translation_en: "Country, state"
+      examples:
+        - kk: "Туған ел."
+          ru: "Родная страна."
+          en: "Homeland."
+  synonyms:
+    - word_id: 108
+      word: "халық"
+      note: "Народ"

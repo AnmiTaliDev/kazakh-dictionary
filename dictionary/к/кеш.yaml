@@ -1,0 +1,26 @@
+- id: 67
+  word: "кеш"
+  parent_id: null
+  type: "adverb"
+  transcription: "keʃ"
+  latin_2017: "keş"
+  latin_2021: "keş"
+  latin_my: "keş"
+  root_word: "кеш"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'keč' түрінде келген. Түркі тілдерінде: түрік 'geç', өзб. 'kech', тат. 'кич', әзірб. 'gec', қырғ. 'кеч'."
+  definitions:
+    - meaning: "Белгілі уақыттан кейін"
+      translation_ru: "Поздно"
+      translation_en: "Late"
+      examples:
+        - kk: "Кешке дейін."
+          ru: "До вечера."
+          en: "Until evening."
+        - kk: "Кеш қалды."
+          ru: "Опоздал."
+          en: "Was late."
+  antonyms:
+    - word_id: null
+      word: "ерте"
+      note: "Рано"

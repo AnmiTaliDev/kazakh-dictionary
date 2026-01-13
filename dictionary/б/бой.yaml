@@ -1,0 +1,26 @@
+- id: 45
+  word: "бой"
+  parent_id: null
+  type: "noun"
+  transcription: "boj"
+  latin_2017: "boy"
+  latin_2021: "boy"
+  latin_my: "boî"
+  root_word: "бой"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'boy' (бойы, ұзындық) түрінде келген. Түрік 'boy'."
+  definitions:
+    - meaning: "Адамның ұзындығы"
+      translation_ru: "Рост"
+      translation_en: "Height, stature"
+      examples:
+        - kk: "Биік бойлы."
+          ru: "Высокого роста."
+          en: "Tall."
+    - meaning: "Ұзындық"
+      translation_ru: "Длина, протяжение"
+      translation_en: "Length"
+      examples:
+        - kk: "Бойына."
+          ru: "Вдоль."
+          en: "Along."

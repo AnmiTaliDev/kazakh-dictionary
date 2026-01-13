@@ -1,0 +1,26 @@
+- id: 74
+  word: "қала"
+  parent_id: null
+  type: "noun"
+  transcription: "qɑˈlɑ"
+  latin_2017: "qala"
+  latin_2021: "qala"
+  latin_my: "qala"
+  root_word: "қала"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'qala' (қамал, қорған, қала) түрінде келген. Барлық түркі тілдерінде бар: түрік 'kale' (крепость), өзб. 'qal'a', тат. 'кала', әзірб. 'qala', қырғ. 'шаар/кала'. Орхон-Енисей жазбаларында 'balıq' (қала) деп аталған."
+  definitions:
+    - meaning: "Үлкен қоныс, қалалық орталық"
+      translation_ru: "Город"
+      translation_en: "City, town"
+      examples:
+        - kk: "Алматы қаласы."
+          ru: "Город Алматы."
+          en: "City of Almaty."
+        - kk: "Қалада тұру."
+          ru: "Жить в городе."
+          en: "To live in the city."
+  antonyms:
+    - word_id: 30
+      word: "ауыл"
+      note: "Аул, деревня"

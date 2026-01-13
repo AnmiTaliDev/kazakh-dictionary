@@ -1,0 +1,26 @@
+- id: 65
+  word: "ие"
+  parent_id: null
+  type: "noun"
+  transcription: "ɪˈje"
+  latin_2017: "iye"
+  latin_2021: "iye"
+  latin_my: "iîe"
+  root_word: "ие"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'iye/idi' түрінде келген. Түркі тілдерінде: түрік 'sahip/evsahibi', өзб. 'ega/xo'jayin', тат. 'хуҗа', әзірб. 'sahibi', қырғ. 'ээси'."
+  definitions:
+    - meaning: "Иелік ететін адам"
+      translation_ru: "Хозяин, владелец"
+      translation_en: "Owner, master"
+      examples:
+        - kk: "Үй иесі."
+          ru: "Хозяин дома."
+          en: "Host, homeowner."
+        - kk: "Иелік ету."
+          ru: "Владеть."
+          en: "To own."
+  antonyms:
+    - word_id: 80
+      word: "қонақ"
+      note: "Гость"

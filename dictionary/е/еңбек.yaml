@@ -1,0 +1,26 @@
+- id: 50
+  word: "еңбек"
+  parent_id: null
+  type: "noun"
+  transcription: "jeŋˈbek"
+  latin_2017: "eñbek"
+  latin_2021: "eñbek"
+  latin_my: "eŋbek"
+  root_word: "еңбек"
+  etymology: "Түркі-монғол тілдерінен"
+  history: "Монғол тілінің 'хөдөлмөр' (еңбек) немесе түркі тілдерінің 'emgek/ömek' түрінен шыққан деген пікір бар. Қазақ тілінде 'еңбек' (қажырлы жұмыс, еңбек ету) мағынасында қолданылады."
+  definitions:
+    - meaning: "Адамның қажырлы жұмысы"
+      translation_ru: "Труд, работа"
+      translation_en: "Labor, work, toil"
+      examples:
+        - kk: "Еңбек етті."
+          ru: "Трудился."
+          en: "Labored."
+        - kk: "Еңбек жемісі."
+          ru: "Плод труда."
+          en: "Fruit of labor."
+  synonyms:
+    - word_id: 59
+      word: "жұмыс"
+      note: "Работа"

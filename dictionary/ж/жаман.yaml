@@ -1,0 +1,35 @@
+- id: 3
+  word: "жаман"
+  parent_id: null
+  type: "adjective"
+  transcription: "ʒɑˈmɑn"
+  latin_2017: "jaman"
+  latin_2021: "jaman"
+  latin_my: "jaman"
+  root_word: "жаман"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'yaman' (күшті, қатал) түрінде келген. Монғол тілінде де 'yaman' (қатал) мағынасында бар."
+  definitions:
+    - meaning: "Сапасы нашар, қажеттілікті қанағаттандырмайтын"
+      translation_ru: "Плохой, дурной"
+      translation_en: "Bad, poor"
+      examples:
+        - kk: "Бұл жаман ой емес."
+          ru: "Это не плохая идея."
+          en: "This is not a bad idea."
+        - kk: "Жаман әдет."
+          ru: "Плохая привычка."
+          en: "Bad habit."
+    - meaning: "Қауіпті, зиянды"
+      translation_ru: "Опасный, вредный"
+      translation_en: "Dangerous, harmful"
+      examples:
+        - kk: "Ауру жаман."
+          ru: "Болезнь опасна."
+          en: "The disease is dangerous."
+  antonyms:
+    - word_id: 2
+      word: "жақсы"
+  synonyms:
+    - word_id: null
+      word: "нашар"

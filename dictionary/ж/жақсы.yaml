@@ -1,0 +1,39 @@
+- id: 2
+  word: "жақсы"
+  parent_id: null
+  type: "adjective"
+  transcription: "ʒɑqˈsə"
+  latin_2017: "jaqsy"
+  latin_2021: "jaqsy"
+  latin_my: "jaqsy"
+  root_word: "жақсы"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'yaxşı/yақшы' түрінде келген. Барлық түркі тілдерінде кездеседі (тат. яхшы, өзб. yaxshi, түрік iyi)."
+  definitions:
+    - meaning: "Сапасы, қасиеті жағынан талапқа сай, ұнамды"
+      translation_ru: "Хороший, добрый"
+      translation_en: "Good, kind"
+      examples:
+        - kk: "Ол өте жақсы адам."
+          ru: "Он очень хороший человек."
+          en: "He is a very good person."
+        - kk: "Бүгін ауа райы жақсы."
+          ru: "Сегодня хорошая погода."
+          en: "The weather is good today."
+    - meaning: "Денсаулығы қалыпты күйде"
+      translation_ru: "Здоров"
+      translation_en: "Well, healthy"
+      examples:
+        - kk: "Сіз жақсысыз ба?"
+          ru: "Вы хорошо себя чувствуете?"
+          en: "Are you well?"
+  antonyms:
+    - word_id: 3
+      word: "жаман"
+  synonyms:
+    - word_id: null
+      word: "игі"
+      note: "Более формальный вариант"
+    - word_id: null
+      word: "мейірімді"
+      note: "В значении 'добрый, милосердный'"

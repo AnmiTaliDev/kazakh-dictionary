@@ -1,0 +1,22 @@
+- id: 86
+  word: "нәрсе"
+  parent_id: null
+  type: "noun"
+  transcription: "nærˈse"
+  latin_2017: "närse"
+  latin_2021: "närse"
+  latin_my: "närse"
+  root_word: "нәрсе"
+  etymology: "Перс тілінен"
+  history: "Парсы тілінің 'čizi' немесе түркі-парсы аралас 'ner-se' (не+нәрсе) түрінен шыққан деген пікір бар. Қазақ тілінде 'зат, бұйым' мағынасында қолданылады."
+  definitions:
+    - meaning: "Зат, бұйым, құбылыс"
+      translation_ru: "Вещь, предмет"
+      translation_en: "Thing, object"
+      examples:
+        - kk: "Бұл қандай нәрсе?"
+          ru: "Что это за вещь?"
+          en: "What is this thing?"
+        - kk: "Қызық нәрсе."
+          ru: "Интересная вещь."
+          en: "Interesting thing."

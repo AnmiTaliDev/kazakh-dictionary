@@ -1,0 +1,22 @@
+- id: 30
+  word: "арт"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑrt"
+  latin_2017: "art"
+  latin_2021: "art"
+  latin_my: "art"
+  root_word: "арт"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'art' (арт, артқы) түрінде келген."
+  definitions:
+    - meaning: "Артқы жағы"
+      translation_ru: "Зад, задняя сторона"
+      translation_en: "Back, rear"
+      examples:
+        - kk: "Артта қалды."
+          ru: "Остался позади."
+          en: "Was left behind."
+  antonyms:
+    - word_id: 114
+      word: "алды"

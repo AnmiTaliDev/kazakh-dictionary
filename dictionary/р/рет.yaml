@@ -1,0 +1,26 @@
+- id: 93
+  word: "рет"
+  parent_id: null
+  type: "noun"
+  transcription: "ret"
+  latin_2017: "ret"
+  latin_2021: "ret"
+  latin_my: "ret"
+  root_word: "рет"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'ret/sıra' түрінде келген."
+  definitions:
+    - meaning: "Тізбек, қатар"
+      translation_ru: "Ряд, порядок"
+      translation_en: "Row, order"
+      examples:
+        - kk: "Рет-ретімен."
+          ru: "По порядку."
+          en: "In order."
+    - meaning: "Жолы, мәрте"
+      translation_ru: "Раз, повод"
+      translation_en: "Time, occasion"
+      examples:
+        - kk: "Бір рет."
+          ru: "Один раз."
+          en: "Once."

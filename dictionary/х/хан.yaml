@@ -1,0 +1,19 @@
+- id: 109
+  word: "хан"
+  parent_id: null
+  type: "noun"
+  transcription: "xɑn"
+  latin_2017: "han"
+  latin_2021: "han"
+  latin_my: "xan"
+  root_word: "хан"
+  etymology: "Монғол тілінен"
+  history: "Монғол 'xaan' (хан, билеуші) сөзінен шыққан."
+  definitions:
+    - meaning: "Билеуші, әмірші"
+      translation_ru: "Хан"
+      translation_en: "Khan"
+      examples:
+        - kk: "Қазақ хандығы."
+          ru: "Казахское ханство."
+          en: "Kazakh Khanate."

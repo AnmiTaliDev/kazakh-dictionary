@@ -1,0 +1,32 @@
+- id: 28
+  word: "ат"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑt"
+  latin_2017: "at"
+  latin_2021: "at"
+  latin_my: "at"
+  root_word: "ат"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'at' түрінде келген. Екі негізгі мағынасы бар: 1) жылқы (конь), 2) есім (имя). Барлық түркі тілдерінде кездеседі: түрік 'at', өзб. 'ot', тат. 'ат', әзірб. 'at'. Орхон-Енисей жазбаларында 'at' деп жазылған."
+  definitions:
+    - meaning: "Жылқы, мініс жануар"
+      translation_ru: "Конь, лошадь"
+      translation_en: "Horse"
+      examples:
+        - kk: "Атқа міну."
+          ru: "Садиться на коня."
+          en: "To mount a horse."
+        - kk: "Жүйрік ат."
+          ru: "Быстрый конь."
+          en: "Fast horse."
+    - meaning: "Адамның, заттың аталуы"
+      translation_ru: "Имя, название"
+      translation_en: "Name"
+      examples:
+        - kk: "Атың кім?"
+          ru: "Как тебя зовут?"
+          en: "What's your name?"
+        - kk: "Ат қою."
+          ru: "Давать имя."
+          en: "To give a name."

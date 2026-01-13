@@ -1,0 +1,33 @@
+- id: 44
+  word: "биік"
+  parent_id: null
+  type: "adjective"
+  transcription: "bɪˈjɪk"
+  latin_2017: "biyik"
+  latin_2021: "biyik"
+  latin_my: "biîık"
+  root_word: "биік"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен 'buyuk/büyük' (үлкен, биік) түбірінен шыққан. Түркі тілдерінде: түрік 'yüksek', өзб. 'baland', тат. 'биек', әзірб. 'hündür', қырғ. 'бийик'."
+  definitions:
+    - meaning: "Ұзындығы көп, жоғары"
+      translation_ru: "Высокий"
+      translation_en: "High, tall"
+      examples:
+        - kk: "Биік үй."
+          ru: "Высокий дом."
+          en: "Tall building."
+        - kk: "Биік тау."
+          ru: "Высокая гора."
+          en: "High mountain."
+    - meaning: "Биіктік, жоғарылық (зат есім)"
+      translation_ru: "Высота"
+      translation_en: "Height"
+      examples:
+        - kk: "Биіктен көру."
+          ru: "Видеть с высоты."
+          en: "To see from above."
+  antonyms:
+    - word_id: null
+      word: "аласа"
+      note: "Низкий"

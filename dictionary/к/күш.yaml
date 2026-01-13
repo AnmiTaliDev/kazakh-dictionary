@@ -1,0 +1,19 @@
+- id: 71
+  word: "күш"
+  parent_id: null
+  type: "noun"
+  transcription: "kʏʃ"
+  latin_2017: "küş"
+  latin_2021: "küş"
+  latin_my: "küş"
+  root_word: "күш"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'küç/güç' түрінде келген. Түрік 'güç'."
+  definitions:
+    - meaning: "Қуат, қуаттылық"
+      translation_ru: "Сила"
+      translation_en: "Strength, force, power"
+      examples:
+        - kk: "Күш жұмсау."
+          ru: "Приложить силу."
+          en: "To apply force."

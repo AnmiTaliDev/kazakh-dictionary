@@ -1,0 +1,33 @@
+- id: 36
+  word: "аяқ"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑˈjɑq"
+  latin_2017: "ayaq"
+  latin_2021: "ayaq"
+  latin_my: "aîaq"
+  root_word: "аяқ"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'adaq/ayaq' түрінде келген. Түркі тілдерінде: түрік 'ayak', өзб. 'oyoq', тат. 'аяк', әзірб. 'ayaq', қырғ. 'буут/аяк'."
+  definitions:
+    - meaning: "Адамның денесінің аяғы, табаны"
+      translation_ru: "Нога, ступня"
+      translation_en: "Leg, foot"
+      examples:
+        - kk: "Аяғы ауырды."
+          ru: "Нога заболела."
+          en: "The leg hurts."
+        - kk: "Аяқпен жүру."
+          ru: "Ходить пешком."
+          en: "To walk on foot."
+    - meaning: "Соңы, аяқталатын жері"
+      translation_ru: "Конец, окончание"
+      translation_en: "End, conclusion"
+      examples:
+        - kk: "Жолдың аяғы."
+          ru: "Конец пути."
+          en: "End of the road."
+  antonyms:
+    - word_id: 31
+      word: "бас"
+      note: "Голова, начало"

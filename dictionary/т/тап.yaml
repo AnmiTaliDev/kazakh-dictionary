@@ -1,0 +1,19 @@
+- id: 97
+  word: "тап"
+  parent_id: null
+  type: "adverb"
+  transcription: "tɑp"
+  latin_2017: "tap"
+  latin_2021: "tap"
+  latin_my: "tap"
+  root_word: "тап"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'tap' (дәл, тура) түрінде келген."
+  definitions:
+    - meaning: "Дәл келетін"
+      translation_ru: "Точь-в-точь, в самый раз"
+      translation_en: "Exactly, just right"
+      examples:
+        - kk: "Тап осы."
+          ru: "Именно это."
+          en: "Exactly this."

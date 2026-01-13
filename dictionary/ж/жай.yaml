@@ -1,0 +1,19 @@
+- id: 52
+  word: "жай"
+  parent_id: null
+  type: "adverb"
+  transcription: "ʒɑj"
+  latin_2017: "jay"
+  latin_2021: "jay"
+  latin_my: "jaî"
+  root_word: "жай"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'yay/jay' түрінде келген."
+  definitions:
+    - meaning: "Қарапайым түрде"
+      translation_ru: "Просто, тихо, медленно"
+      translation_en: "Simply, quietly, slowly"
+      examples:
+        - kk: "Жай сөйле."
+          ru: "Говори спокойно."
+          en: "Speak calmly."

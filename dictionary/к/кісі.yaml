@@ -1,0 +1,19 @@
+- id: 72
+  word: "кісі"
+  parent_id: null
+  type: "noun"
+  transcription: "kɪˈsɪ"
+  latin_2017: "kisi"
+  latin_2021: "kisi"
+  latin_my: "kısı"
+  root_word: "кісі"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен 'kişi' түрінде келген. Түрік 'kişi' (адам), өзб. 'kishi', тат. 'кеше', әзірб. 'kişi', қырғ. 'киши'."
+  definitions:
+    - meaning: "Адам, жеке тұлға"
+      translation_ru: "Человек, личность"
+      translation_en: "Person, individual"
+      examples:
+        - kk: "Жақсы кісі."
+          ru: "Хороший человек."
+          en: "Good person."

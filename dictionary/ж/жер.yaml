@@ -1,0 +1,40 @@
+- id: 12
+  word: "жер"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒer"
+  latin_2017: "jer"
+  latin_2021: "jer"
+  latin_my: "jer"
+  root_word: "жер"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'yer' түрінде келген. Барлық түркі тілдерінде бар: түрік 'yer', өзб. 'yer', тат. 'җир', әзірб. 'yer', қырғ. 'жер'. Монғол тілінде 'газар' деп аталады."
+  definitions:
+    - meaning: "Адамдар мен жануарлар, өсімдіктер өмір сүретін планета"
+      translation_ru: "Земля"
+      translation_en: "Earth"
+      examples:
+        - kk: "Жер шары."
+          ru: "Земной шар."
+          en: "The globe."
+        - kk: "Жер бетінде."
+          ru: "На поверхности земли."
+          en: "On the earth's surface."
+    - meaning: "Жер бетінің қатты қабаты, топырақ"
+      translation_ru: "Земля, почва"
+      translation_en: "Ground, soil"
+      examples:
+        - kk: "Жерге егу."
+          ru: "Сеять в землю."
+          en: "To sow in the ground."
+    - meaning: "Белгілі бір аумақ, өлке"
+      translation_ru: "Земля, край"
+      translation_en: "Land, region"
+      examples:
+        - kk: "Туған жер."
+          ru: "Родная земля."
+          en: "Native land."
+  antonyms:
+    - word_id: null
+      word: "аспан"
+      note: "Небо"

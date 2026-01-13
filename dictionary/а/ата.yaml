@@ -1,0 +1,30 @@
+- id: 29
+  word: "ата"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑˈtɑ"
+  latin_2017: "ata"
+  latin_2021: "ata"
+  latin_my: "ata"
+  root_word: "ата"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'ata' (әке, ата) түрінде келген. Барлық түркі тілдерінде бар: түрік 'ata', өзб. 'ota', тат. 'ата', әзірб. 'ata', қырғ. 'ата'. Монғол тілінде 'эцэг' (әке) деп аталады."
+  definitions:
+    - meaning: "Әкенің әкесі немесе анасының әкесі"
+      translation_ru: "Дед, дедушка"
+      translation_en: "Grandfather"
+      examples:
+        - kk: "Менің атам ауылда тұрады."
+          ru: "Мой дед живёт в ауле."
+          en: "My grandfather lives in the village."
+    - meaning: "Бабалар, ата-баба"
+      translation_ru: "Предок, прародитель"
+      translation_en: "Ancestor, forefather"
+      examples:
+        - kk: "Ата-баба дәстүрі."
+          ru: "Традиция предков."
+          en: "Ancestral tradition."
+  antonyms:
+    - word_id: null
+      word: "немере"
+      note: "Внук"

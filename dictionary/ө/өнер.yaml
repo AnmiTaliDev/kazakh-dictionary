@@ -1,0 +1,29 @@
+- id: 91
+  word: "өнер"
+  parent_id: null
+  type: "noun"
+  transcription: "øˈner"
+  latin_2017: "öner"
+  latin_2021: "öner"
+  latin_my: "öner"
+  root_word: "өнер"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен 'öner/hüner' (өнер, шеберлік) түрінде келген. Түрік тілінде 'sanat/hüner', өзб. 'san'at', тат. 'сәнгать', әзірб. 'sənət', қырғ. 'өнөр'."
+  definitions:
+    - meaning: "Көркем шығармашылық салалары"
+      translation_ru: "Искусство"
+      translation_en: "Art"
+      examples:
+        - kk: "Бейнелеу өнері."
+          ru: "Изобразительное искусство."
+          en: "Visual arts."
+        - kk: "Өнер туындысы."
+          ru: "Произведение искусства."
+          en: "Work of art."
+    - meaning: "Кәсіби шеберлік"
+      translation_ru: "Мастерство"
+      translation_en: "Craft, skill"
+      examples:
+        - kk: "Өнер үйрену."
+          ru: "Учиться ремеслу."
+          en: "To learn a craft."

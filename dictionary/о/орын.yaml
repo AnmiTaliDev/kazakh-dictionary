@@ -1,0 +1,29 @@
+- id: 88
+  word: "орын"
+  parent_id: null
+  type: "noun"
+  transcription: "oˈrən"
+  latin_2017: "oryn"
+  latin_2021: "oryn"
+  latin_my: "oryn"
+  root_word: "орын"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'orun/orın' түрінде келген. Түркі тілдерінде: түрік 'yer', өзб. 'o'rin', тат. 'урын', әзірб. 'yer', қырғ. 'орун'."
+  definitions:
+    - meaning: "Жер, аймақ"
+      translation_ru: "Место"
+      translation_en: "Place, location"
+      examples:
+        - kk: "Орын алу."
+          ru: "Занять место."
+          en: "To take a place."
+        - kk: "Отырар орын."
+          ru: "Место для сидения."
+          en: "Seat."
+    - meaning: "Жағдай, позиция"
+      translation_ru: "Положение, позиция"
+      translation_en: "Position, situation"
+      examples:
+        - kk: "Орнын табу."
+          ru: "Найти своё место."
+          en: "To find one's place."

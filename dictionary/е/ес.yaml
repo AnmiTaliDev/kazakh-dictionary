@@ -1,0 +1,33 @@
+- id: 51
+  word: "ес"
+  parent_id: null
+  type: "noun"
+  transcription: "jes"
+  latin_2017: "es"
+  latin_2021: "es"
+  latin_my: "es"
+  root_word: "ес"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'es/is' түрінде келген. Түркі тілдерінде: түрік 'akıl/us', өзб. 'es/ong', тат. 'ис', әзірб. 'ağıl', қырғ. 'эс'."
+  definitions:
+    - meaning: "Санада сақтау қабілеті"
+      translation_ru: "Память, сознание"
+      translation_en: "Memory, consciousness"
+      examples:
+        - kk: "Есімде қалды."
+          ru: "Я запомнил."
+          en: "I remembered."
+        - kk: "Ес жию."
+          ru: "Прийти в сознание."
+          en: "To regain consciousness."
+    - meaning: "Ақыл-ой, зейін"
+      translation_ru: "Разум, рассудок"
+      translation_en: "Reason, mind"
+      examples:
+        - kk: "Есінде бол."
+          ru: "Будь осторожен."
+          en: "Be careful."
+  synonyms:
+    - word_id: 26
+      word: "ақыл"
+      note: "Разум"

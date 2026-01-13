@@ -1,0 +1,36 @@
+- id: 59
+  word: "жұмыс"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒʊˈməs"
+  latin_2017: "jumys"
+  latin_2021: "jumys"
+  latin_my: "jūmys"
+  root_word: "жұмыс"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен 'iş/jumış' түрінде келген деген пікір бар. Түрік тілінде 'iş' (жұмыс), өзб. 'ish', тат. 'эш', әзірб. 'iş', қырғ. 'иш/жумуш'."
+  definitions:
+    - meaning: "Қызмет, еңбек"
+      translation_ru: "Работа, труд"
+      translation_en: "Work, job, labor"
+      examples:
+        - kk: "Жұмысқа бару."
+          ru: "Идти на работу."
+          en: "To go to work."
+        - kk: "Жұмыс істеу."
+          ru: "Работать."
+          en: "To work."
+    - meaning: "Іс, шаруа"
+      translation_ru: "Дело, занятие"
+      translation_en: "Business, affair"
+      examples:
+        - kk: "Қандай жұмыс?"
+          ru: "Какое дело?"
+          en: "What business?"
+  synonyms:
+    - word_id: 50
+      word: "еңбек"
+      note: "Труд"
+    - word_id: 112
+      word: "іс"
+      note: "Дело"

@@ -1,0 +1,29 @@
+- id: 18
+  word: "жол"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒol"
+  latin_2017: "jol"
+  latin_2021: "jol"
+  latin_my: "jol"
+  root_word: "жол"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'yol' түрінде келген. Барлық түркі тілдерінде бар: түрік 'yol', өзб. 'yo'l', тат. 'юл', әзірб. 'yol', қырғ. 'жол'. Орхон-Енисей жазбаларында 'yol' деп жазылған."
+  definitions:
+    - meaning: "Бір жерден екінші жерге баратын жер"
+      translation_ru: "Дорога, путь"
+      translation_en: "Road, path, way"
+      examples:
+        - kk: "Жолға шықты."
+          ru: "Вышел в дорогу."
+          en: "Hit the road."
+        - kk: "Ақ жол!"
+          ru: "Счастливого пути!"
+          en: "Bon voyage!"
+    - meaning: "Әдіс, тәсіл (ауыспалы мағына)"
+      translation_ru: "Способ, метод"
+      translation_en: "Way, method"
+      examples:
+        - kk: "Шешу жолы."
+          ru: "Способ решения."
+          en: "Solution method."

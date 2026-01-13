@@ -1,0 +1,26 @@
+- id: 116
+  word: "аудан"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑwˈdɑn"
+  latin_2017: "audan"
+  latin_2021: "audan"
+  latin_my: "audan"
+  root_word: "аудан"
+  etymology: "Араб тілінен"
+  history: "Арабтың 'awdan' немесе парсы 'avdan' (аймақ) сөзінен шыққан."
+  definitions:
+    - meaning: "Әкімшілік аумақ"
+      translation_ru: "Район, округ"
+      translation_en: "District, region"
+      examples:
+        - kk: "Алматы ауданы."
+          ru: "Алматинский район."
+          en: "Almaty district."
+    - meaning: "Белгілі бір жер"
+      translation_ru: "Местность"
+      translation_en: "Area, locality"
+      examples:
+        - kk: "Таулы аудан."
+          ru: "Горная местность."
+          en: "Mountainous area."

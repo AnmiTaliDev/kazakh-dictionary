@@ -1,0 +1,33 @@
+- id: 41
+  word: "бай"
+  parent_id: null
+  type: "adjective"
+  transcription: "bɑj"
+  latin_2017: "bay"
+  latin_2021: "bay"
+  latin_my: "baî"
+  root_word: "бай"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'bay' түрінде келген. Түркі тілдерінде: түрік 'zengin/bay', өзб. 'boy', тат. 'бай', әзірб. 'zəngin/bay', қырғ. 'бай'. Көшпелі қазақтарда малы көп адам 'бай' аталған."
+  definitions:
+    - meaning: "Мүлкі көп, дәулетті"
+      translation_ru: "Богатый, зажиточный"
+      translation_en: "Rich, wealthy"
+      examples:
+        - kk: "Бай адам."
+          ru: "Богатый человек."
+          en: "Rich person."
+        - kk: "Байлықты өмір."
+          ru: "Богатая жизнь."
+          en: "Wealthy life."
+    - meaning: "Байлық иесі (зат есім)"
+      translation_ru: "Богач"
+      translation_en: "Rich man"
+      examples:
+        - kk: "Бай мен кедей."
+          ru: "Богатый и бедный."
+          en: "Rich and poor."
+  antonyms:
+    - word_id: null
+      word: "кедей"
+      note: "Бедный"

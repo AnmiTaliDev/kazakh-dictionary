@@ -1,0 +1,22 @@
+- id: 78
+  word: "қой"
+  parent_id: null
+  type: "noun"
+  transcription: "qoj"
+  latin_2017: "qoy"
+  latin_2021: "qoy"
+  latin_my: "qoî"
+  root_word: "қой"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'qoy' түрінде келген. Барлық түркі тілдерінде бар: түрік 'koyun', өзб. 'qo'y', тат. 'сарык', әзірб. 'qoyun', қырғ. 'кой'. Көшпелі қазақтардың негізгі мал түрі."
+  definitions:
+    - meaning: "Үй малының бір түрі"
+      translation_ru: "Овца, баран"
+      translation_en: "Sheep, ram"
+      examples:
+        - kk: "Қой бағу."
+          ru: "Пасти овец."
+          en: "To herd sheep."
+        - kk: "Қой еті."
+          ru: "Баранина."
+          en: "Mutton."

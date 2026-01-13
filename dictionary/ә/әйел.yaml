@@ -1,0 +1,33 @@
+- id: 38
+  word: "әйел"
+  parent_id: null
+  type: "noun"
+  transcription: "æˈjel"
+  latin_2017: "äyel"
+  latin_2021: "äyel"
+  latin_my: "äîel"
+  root_word: "әйел"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'evli/eyli' (үйленген, отбасылы) түрінен шыққан деген пікір бар. Түркі тілдерінде: түрік 'kadın', өзб. 'ayol', тат. 'хатын', әзірб. 'qadın', қырғ. 'аял'."
+  definitions:
+    - meaning: "Ересек адамның аналық жағы"
+      translation_ru: "Женщина"
+      translation_en: "Woman"
+      examples:
+        - kk: "Әйел адам."
+          ru: "Женщина."
+          en: "Woman."
+    - meaning: "Некеде тұрған серік"
+      translation_ru: "Жена"
+      translation_en: "Wife"
+      examples:
+        - kk: "Менің әйелім."
+          ru: "Моя жена."
+          en: "My wife."
+        - kk: "Әйел алу."
+          ru: "Жениться."
+          en: "To get married (for men)."
+  antonyms:
+    - word_id: null
+      word: "ер"
+      note: "Мужчина, муж"

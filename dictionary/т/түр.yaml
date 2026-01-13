@@ -1,0 +1,19 @@
+- id: 103
+  word: "түр"
+  parent_id: null
+  type: "noun"
+  transcription: "tʏr"
+  latin_2017: "tür"
+  latin_2021: "tür"
+  latin_my: "tür"
+  root_word: "түр"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'tür' түрінде келген."
+  definitions:
+    - meaning: "Сыртқы пішін"
+      translation_ru: "Вид, форма"
+      translation_en: "Form, shape, appearance"
+      examples:
+        - kk: "Түр-түсі."
+          ru: "Внешний вид."
+          en: "Appearance."

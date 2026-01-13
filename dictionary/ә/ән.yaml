@@ -1,0 +1,26 @@
+- id: 39
+  word: "ән"
+  parent_id: null
+  type: "noun"
+  transcription: "æn"
+  latin_2017: "än"
+  latin_2021: "än"
+  latin_my: "än"
+  root_word: "ән"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'en/an' түрінде келген. Түркі тілдерінде: түрік 'şarkı', өзб. 'qo'shiq/ashula', тат. 'җыр', әзірб. 'mahnı', қырғ. 'ыр'."
+  definitions:
+    - meaning: "Музыкамен орындалатын поэзиялық шығарма"
+      translation_ru: "Песня, мотив"
+      translation_en: "Song, melody"
+      examples:
+        - kk: "Ән салу."
+          ru: "Петь песню."
+          en: "To sing a song."
+        - kk: "Халық әні."
+          ru: "Народная песня."
+          en: "Folk song."
+  synonyms:
+    - word_id: 62
+      word: "жыр"
+      note: "Эпическая песня"

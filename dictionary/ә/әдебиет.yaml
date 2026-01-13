@@ -1,0 +1,22 @@
+- id: 37
+  word: "әдебиет"
+  parent_id: null
+  type: "noun"
+  transcription: "ædebɪˈjet"
+  latin_2017: "ädebiet"
+  latin_2021: "ädebiet"
+  latin_my: "ädebiîet"
+  root_word: "әдебиет"
+  etymology: "Араб тілінен"
+  history: "Арабтың 'adabiyat' (أَدَبِيَّات - әдебиет, сөз өнері) сөзінен шыққан. Ислам мәдениетімен бірге түркі тілдеріне енген: түрік 'edebiyat', өзб. 'adabiyot', тат. 'әдәбият', әзірб. 'ədəbiyyat'."
+  definitions:
+    - meaning: "Жазба немесе ауызша сөз өнері"
+      translation_ru: "Литература"
+      translation_en: "Literature"
+      examples:
+        - kk: "Қазақ әдебиеті."
+          ru: "Казахская литература."
+          en: "Kazakh literature."
+        - kk: "Әдебиет оқу."
+          ru: "Изучать литературу."
+          en: "To study literature."

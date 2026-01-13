@@ -1,0 +1,39 @@
+- id: 21
+  word: "күн"
+  parent_id: null
+  type: "noun"
+  transcription: "kʏn"
+  latin_2017: "kün"
+  latin_2021: "kün"
+  latin_my: "kün"
+  root_word: "күн"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'kün' (күн, қүн) түрінде келген. Барлық түркі тілдерінде бар: түрік 'gün', өзб. 'kun', тат. 'көн', әзірб. 'gün', қырғ. 'күн'. Орхон-Енисей жазбаларында кездеседі."
+  definitions:
+    - meaning: "Аспандағы жарық беретін жұлдыз"
+      translation_ru: "Солнце"
+      translation_en: "Sun"
+      examples:
+        - kk: "Күн шықты."
+          ru: "Солнце взошло."
+          en: "The sun rose."
+        - kk: "Күн батты."
+          ru: "Солнце зашло."
+          en: "The sun set."
+    - meaning: "Тәулік, 24 сағат"
+      translation_ru: "День, сутки"
+      translation_en: "Day"
+      examples:
+        - kk: "Бір күн бұрын."
+          ru: "Один день назад."
+          en: "One day ago."
+        - kk: "Әр күн."
+          ru: "Каждый день."
+          en: "Every day."
+  antonyms:
+    - word_id: null
+      word: "түн"
+      note: "Ночь"
+    - word_id: 9
+      word: "ай"
+      note: "Луна (в значении небесного тела)"

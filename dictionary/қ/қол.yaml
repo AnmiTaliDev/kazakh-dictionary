@@ -1,0 +1,29 @@
+- id: 33
+  word: "қол"
+  parent_id: null
+  type: "noun"
+  transcription: "qol"
+  latin_2017: "qol"
+  latin_2021: "qol"
+  latin_my: "qol"
+  root_word: "қол"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'qol' түрінде келген. Барлық түркі тілдерінде бар: түрік 'kol', өзб. 'qo'l', тат. 'кул', әзірб. 'qol', қырғ. 'колу'. Орхон-Енисей жазбаларында 'qol' деп жазылған."
+  definitions:
+    - meaning: "Адамның иықтан саусаққа дейінгі мүшесі"
+      translation_ru: "Рука"
+      translation_en: "Hand, arm"
+      examples:
+        - kk: "Қол ұстасу."
+          ru: "Держаться за руки."
+          en: "To hold hands."
+        - kk: "Қолымды жаздым."
+          ru: "Я поранил руку."
+          en: "I hurt my hand."
+    - meaning: "Қолдау, көмек (ауыспалы мағына)"
+      translation_ru: "Поддержка, помощь"
+      translation_en: "Support, help"
+      examples:
+        - kk: "Қол ұшын созу."
+          ru: "Протянуть руку помощи."
+          en: "To lend a helping hand."

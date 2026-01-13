@@ -1,0 +1,22 @@
+- id: 56
+  word: "жауап"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒɑˈwɑp"
+  latin_2017: "jauap"
+  latin_2021: "jauap"
+  latin_my: "jauap"
+  root_word: "жауап"
+  etymology: "Араб тілінен"
+  history: "Арабтың 'jawab' (جَوَاب - жауап, қайтару) сөзінен шыққан. Түркі тілдеріне араб тілі арқылы енген: түрік 'cevap', өзб. 'javob', тат. 'җавап', әзірб. 'cavab'."
+  definitions:
+    - meaning: "Сұраққа берілген жауап"
+      translation_ru: "Ответ"
+      translation_en: "Answer, response"
+      examples:
+        - kk: "Жауап беру."
+          ru: "Дать ответ."
+          en: "To give an answer."
+        - kk: "Дұрыс жауап."
+          ru: "Правильный ответ."
+          en: "Correct answer."

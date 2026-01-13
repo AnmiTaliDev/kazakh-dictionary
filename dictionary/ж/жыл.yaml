@@ -1,0 +1,33 @@
+- id: 23
+  word: "жыл"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒəl"
+  latin_2017: "jyl"
+  latin_2021: "jyl"
+  latin_my: "jyl"
+  root_word: "жыл"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'yıl' түрінде келген. Барлық түркі тілдерінде бар: түрік 'yıl', өзб. 'yil', тат. 'ел', әзірб. 'il', қырғ. 'жыл'. Орхон-Енисей жазбаларында 'yıl' деп жазылған."
+  definitions:
+    - meaning: "365 (366) күнді қамтитын уақыт кезеңі"
+      translation_ru: "Год"
+      translation_en: "Year"
+      examples:
+        - kk: "Биыл - 2026 жыл."
+          ru: "Этот год - 2026 год."
+          en: "This year is 2026."
+        - kk: "Бір жыл бұрын."
+          ru: "Год назад."
+          en: "A year ago."
+    - meaning: "Жас (ауыспалы мағына)"
+      translation_ru: "Возраст, годы"
+      translation_en: "Age, years"
+      examples:
+        - kk: "Жылдары келді."
+          ru: "Годы пришли."
+          en: "Years have come."
+  synonyms:
+    - word_id: null
+      word: "жас"
+      note: "В значении 'возраст'"

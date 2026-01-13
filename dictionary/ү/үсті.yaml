@@ -1,0 +1,19 @@
+- id: 107
+  word: "үсті"
+  parent_id: null
+  type: "noun"
+  transcription: "ʏsˈtɪ"
+  latin_2017: "üsti"
+  latin_2021: "üsti"
+  latin_my: "üstı"
+  root_word: "үс"
+  etymology: "үс + -ті"
+  history: "Түркі 'üst' (жоғары) сөзінен '-ті' жалғауымен жасалған."
+  definitions:
+    - meaning: "Жоғарғы бөлігі"
+      translation_ru: "Верхняя часть, поверхность"
+      translation_en: "Top, surface"
+      examples:
+        - kk: "Үстел үстінде."
+          ru: "На столе."
+          en: "On the table."

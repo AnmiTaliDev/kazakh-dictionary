@@ -1,0 +1,30 @@
+- id: 10
+  word: "әке"
+  parent_id: null
+  type: "noun"
+  transcription: "æˈke"
+  latin_2017: "äke"
+  latin_2021: "äke"
+  latin_my: "äke"
+  root_word: "әке"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'äkä/eke' түрінде келген. Барлық түркі тілдерінде кездеседі: түрік 'baba' (әке), өзб. 'ota', тат. 'әти', әзірб. 'ata'. Монғол тілінде 'аав' деп аталады."
+  definitions:
+    - meaning: "Баланың ата-анасының еркек жағы"
+      translation_ru: "Отец"
+      translation_en: "Father"
+      examples:
+        - kk: "Менің әкем мұғалім."
+          ru: "Мой отец - учитель."
+          en: "My father is a teacher."
+        - kk: "Әке мен ана."
+          ru: "Отец и мать."
+          en: "Father and mother."
+  antonyms:
+    - word_id: null
+      word: "ана"
+      note: "Мать"
+  synonyms:
+    - word_id: 8
+      word: "ата"
+      note: "В некоторых диалектах"

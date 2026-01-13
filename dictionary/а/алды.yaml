@@ -1,0 +1,22 @@
+- id: 114
+  word: "алды"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑlˈdə"
+  latin_2017: "aldy"
+  latin_2021: "aldy"
+  latin_my: "aldy"
+  root_word: "ал"
+  etymology: "ал (брать) + -ды"
+  history: "Түркі 'al-' (алу) етістігінен жасалған."
+  definitions:
+    - meaning: "Алдыңғы жағы"
+      translation_ru: "Перед, передняя часть"
+      translation_en: "Front, forepart"
+      examples:
+        - kk: "Алдында тұру."
+          ru: "Стоять впереди."
+          en: "To stand in front."
+  antonyms:
+    - word_id: 30
+      word: "арт"

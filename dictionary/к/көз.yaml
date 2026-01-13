@@ -1,0 +1,29 @@
+- id: 32
+  word: "көз"
+  parent_id: null
+  type: "noun"
+  transcription: "køz"
+  latin_2017: "köz"
+  latin_2021: "köz"
+  latin_my: "köz"
+  root_word: "көз"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'köz' түрінде келген. Барлық түркі тілдерінде бар: түрік 'göz', өзб. 'ko'z', тат. 'күз', әзірб. 'göz', қырғ. 'көз'. Орхон-Енисей жазбаларында кездеседі."
+  definitions:
+    - meaning: "Көру мүшесі"
+      translation_ru: "Глаз"
+      translation_en: "Eye"
+      examples:
+        - kk: "Көзі көрмейді."
+          ru: "Глаз не видит."
+          en: "The eye doesn't see."
+        - kk: "Көзімнің қарашығы."
+          ru: "Зрачок глаза."
+          en: "Pupil of the eye."
+    - meaning: "Қарау, қадағалау (ауыспалы мағына)"
+      translation_ru: "Взгляд, присмотр"
+      translation_en: "Look, supervision"
+      examples:
+        - kk: "Көз алдымда."
+          ru: "Перед глазами."
+          en: "Before my eyes."

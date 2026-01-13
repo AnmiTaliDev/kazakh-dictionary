@@ -1,0 +1,33 @@
+- id: 96
+  word: "сырт"
+  parent_id: null
+  type: "noun"
+  transcription: "sərt"
+  latin_2017: "syrt"
+  latin_2021: "syrt"
+  latin_my: "syrt"
+  root_word: "сырт"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'sırt' түрінде келген. Түркі тілдерінде: түрік 'sırt', өзб. 'sirt', тат. 'сырт', әзірб. 'sırt', қырғ. 'сырт'."
+  definitions:
+    - meaning: "Заттың сыртқы жағы"
+      translation_ru: "Внешность, внешняя сторона"
+      translation_en: "Outside, exterior"
+      examples:
+        - kk: "Сыртқа шығу."
+          ru: "Выйти наружу."
+          en: "To go outside."
+        - kk: "Сырт көрінісі."
+          ru: "Внешний вид."
+          en: "Outward appearance."
+    - meaning: "Арқа, белдік"
+      translation_ru: "Спина"
+      translation_en: "Back"
+      examples:
+        - kk: "Сыртын қағу."
+          ru: "Похлопать по спине."
+          en: "To pat on the back."
+  antonyms:
+    - word_id: 113
+      word: "іш"
+      note: "Внутренняя часть"

@@ -1,0 +1,19 @@
+- id: 101
+  word: "топ"
+  parent_id: null
+  type: "noun"
+  transcription: "top"
+  latin_2017: "top"
+  latin_2021: "top"
+  latin_my: "top"
+  root_word: "топ"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі 'top' (жиын, топтама) түрінде келген."
+  definitions:
+    - meaning: "Адамдар немесе заттардың жиынтығы"
+      translation_ru: "Группа"
+      translation_en: "Group"
+      examples:
+        - kk: "Студенттер тобы."
+          ru: "Группа студентов."
+          en: "Group of students."

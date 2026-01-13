@@ -1,0 +1,37 @@
+- id: 7
+  word: "аға"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑˈʁɑ"
+  latin_2017: "ağa"
+  latin_2021: "ağa"
+  latin_my: "ağa"
+  root_word: "аға"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'aγa' (ересек ер адам, ақылман) түрінде келген. Барлық түркі тілдерінде кездеседі: түрік ağa (ағасы), өзб. aka, тат. ага, әзірб. ağa. Монғол тілінде 'axa' (аға) түрінде өткен."
+  definitions:
+    - meaning: "Әкенің баласы, ер сіңлісі"
+      translation_ru: "Старший брат"
+      translation_en: "Elder brother"
+      examples:
+        - kk: "Менің ағам Алматыда тұрады."
+          ru: "Мой старший брат живёт в Алматы."
+          en: "My elder brother lives in Almaty."
+        - kk: "Аға, көмектесе аласыз ба?"
+          ru: "Брат, можете помочь?"
+          en: "Brother, can you help?"
+    - meaning: "Ер адамға құрметпен қаратылатын сөз"
+      translation_ru: "Уважительное обращение к старшему мужчине"
+      translation_en: "Respectful address to an older man"
+      examples:
+        - kk: "Нұрлан аға келді."
+          ru: "Пришёл Нурлан-ака."
+          en: "Nurlan-aga came."
+  antonyms:
+    - word_id: null
+      word: "іні"
+      note: "Младший брат"
+  synonyms:
+    - word_id: null
+      word: "ағайын"
+      note: "В значении 'родственник, брат'"

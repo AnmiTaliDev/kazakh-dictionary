@@ -1,0 +1,23 @@
+- id: 57
+  word: "жолдас"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒoldɑs"
+  latin_2017: "joldas"
+  latin_2021: "joldas"
+  latin_my: "joldas"
+  root_word: "жол"
+  relation: "companion"
+  etymology: "жол (дорога) + дас (суффикс)"
+  history: "Қазақ тілінде 'жол' (дорога) + 'дас' (суффикс совместности) = 'жолдас' (попутчик, товарищ)."
+  definitions:
+    - meaning: "Бірге жүретін адам, серік"
+      translation_ru: "Товарищ, попутчик, супруг/супруга"
+      translation_en: "Comrade, companion, spouse"
+      examples:
+        - kk: "Жолдастар."
+          ru: "Товарищи."
+          en: "Comrades."
+        - kk: "Өмірлік жолдас."
+          ru: "Спутник жизни."
+          en: "Life partner."

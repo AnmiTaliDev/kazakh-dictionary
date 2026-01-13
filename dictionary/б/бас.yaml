@@ -1,0 +1,33 @@
+- id: 31
+  word: "бас"
+  parent_id: null
+  type: "noun"
+  transcription: "bɑs"
+  latin_2017: "bas"
+  latin_2021: "bas"
+  latin_my: "bas"
+  root_word: "бас"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'baş' түрінде келген. Барлық түркі тілдерінде бар: түрік 'baş', өзб. 'bosh', тат. 'баш', әзірб. 'baş', қырғ. 'баш'. Орхон-Енисей жазбаларында кездеседі."
+  definitions:
+    - meaning: "Адам немесе жануардың мойынның үстіңгі бөлігі"
+      translation_ru: "Голова"
+      translation_en: "Head"
+      examples:
+        - kk: "Бас ауруы."
+          ru: "Головная боль."
+          en: "Headache."
+        - kk: "Басын изеу."
+          ru: "Кивать головой."
+          en: "To nod one's head."
+    - meaning: "Басталған жер, алғашқы бөлігі"
+      translation_ru: "Начало, верхушка"
+      translation_en: "Beginning, top"
+      examples:
+        - kk: "Өзеннің басы."
+          ru: "Исток реки."
+          en: "Source of the river."
+  antonyms:
+    - word_id: 36
+      word: "аяқ"
+      note: "Конец"

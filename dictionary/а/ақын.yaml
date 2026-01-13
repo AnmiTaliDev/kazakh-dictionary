@@ -1,0 +1,22 @@
+- id: 27
+  word: "ақын"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑˈqən"
+  latin_2017: "aqyn"
+  latin_2021: "aqyn"
+  latin_my: "aqyn"
+  root_word: "ақын"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'aqu/aqın' (ағын, ағатын) түбірінен шыққан деген пікір бар. Қазақ мәдениетінде ауызша поэзия дәстүрінің өкілі. Басқа түркі тілдерінде: өзб. 'oqin/shoir', тат. 'акын', қырғ. 'акын'."
+  definitions:
+    - meaning: "Халық ақыны, өлең шығаратын адам"
+      translation_ru: "Акын, поэт"
+      translation_en: "Poet, bard"
+      examples:
+        - kk: "Абай ақын."
+          ru: "Поэт Абай."
+          en: "Poet Abai."
+        - kk: "Ақындар айтысы."
+          ru: "Состязание акынов."
+          en: "Akyns' competition."

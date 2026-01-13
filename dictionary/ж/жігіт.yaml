@@ -1,0 +1,22 @@
+- id: 63
+  word: "жігіт"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒɪˈɡɪt"
+  latin_2017: "jigit"
+  latin_2021: "jigit"
+  latin_my: "jıgıt"
+  root_word: "жігіт"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен 'yigit/cigit' (батыр, ержүрек жас) түрінде келген. Түркі тілдерінде: түрік 'yiğit', өзб. 'yigit', тат. 'егет', әзірб. 'igid', қырғ. 'жигит'. Орыс тілінде 'джигит' деп қабылданған."
+  definitions:
+    - meaning: "Жас ер адам"
+      translation_ru: "Джигит, парень, молодой мужчина"
+      translation_en: "Young man, guy"
+      examples:
+        - kk: "Батыр жігіт."
+          ru: "Храбрый джигит."
+          en: "Brave young man."
+        - kk: "Жігіт жастар."
+          ru: "Молодые парни."
+          en: "Young men."

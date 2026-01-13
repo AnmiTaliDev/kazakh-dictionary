@@ -1,0 +1,26 @@
+- id: 26
+  word: "ақыл"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑˈqəl"
+  latin_2017: "aqyl"
+  latin_2021: "aqyl"
+  latin_my: "aqyl"
+  root_word: "ақыл"
+  etymology: "Араб тілінен"
+  history: "Арабтың 'ʿaql' (عَقْل - ақыл, ой, зейін) сөзінен шыққан. Ислам мәдениетімен бірге түркі тілдеріне енген: түрік 'akıl', өзб. 'aql', тат. 'акыл', әзірб. 'ağıl'."
+  definitions:
+    - meaning: "Ойлау, түсіну қабілеті"
+      translation_ru: "Ум, разум, интеллект"
+      translation_en: "Mind, intellect, reason"
+      examples:
+        - kk: "Ақылды адам."
+          ru: "Умный человек."
+          en: "Intelligent person."
+        - kk: "Ақыл кеңесі."
+          ru: "Совет, наставление."
+          en: "Advice, counsel."
+  synonyms:
+    - word_id: 51
+      word: "ес"
+      note: "В значении 'разум'"

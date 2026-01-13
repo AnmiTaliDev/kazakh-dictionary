@@ -1,0 +1,33 @@
+- id: 104
+  word: "түс"
+  parent_id: null
+  type: "noun"
+  transcription: "tʏs"
+  latin_2017: "tüs"
+  latin_2021: "tüs"
+  latin_my: "tüs"
+  root_word: "түс"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен. Үш негізгі мағынасы бар."
+  definitions:
+    - meaning: "Ұйқыдағы көрініс"
+      translation_ru: "Сон"
+      translation_en: "Dream"
+      examples:
+        - kk: "Түс көру."
+          ru: "Видеть сон."
+          en: "To see a dream."
+    - meaning: "Күннің ортасы"
+      translation_ru: "Полдень"
+      translation_en: "Noon"
+      examples:
+        - kk: "Түске дейін."
+          ru: "До полудня."
+          en: "Before noon."
+    - meaning: "Жарық спектрі"
+      translation_ru: "Цвет"
+      translation_en: "Color"
+      examples:
+        - kk: "Қызыл түс."
+          ru: "Красный цвет."
+          en: "Red color."
