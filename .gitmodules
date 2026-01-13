@@ -1,0 +1,3 @@
+[submodule "references/latin-proposal"]
+	path = references/latin-proposal
+	url = https://github.com/AnmiTaliDev/new-kazakh-latin-proposal.git
