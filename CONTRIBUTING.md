@@ -32,6 +32,7 @@ kazakh-dictionary/
 │   └── latin-proposal/    (AnmiTaliDev's Latin transcription system)
 ├── CLAUDE.md              (AI assistant instructions)
 ├── GEMINI.md              (AI assistant instructions)
+├── LIST.md                (A list of all words in the dictionary)
 └── CONTRIBUTING.md        (this file)
 ```
 
@@ -154,6 +155,7 @@ Before submitting your contribution:
 - [ ] English translation included
 - [ ] For derivatives: `parent_id` and `relation` set
 - [ ] Synonyms/antonyms cross-referenced with IDs
+- [ ] Added the new word to LIST.md
 
 ## 🚀 How to Submit
 

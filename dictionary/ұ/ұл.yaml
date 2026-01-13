@@ -1,0 +1,26 @@
+- id: 128
+  word: "ұл"
+  parent_id: null
+  type: "noun"
+  transcription: "ʊl"
+  latin_2017: "ul"
+  latin_2021: "ul"
+  latin_my: "ūl"
+  root_word: "ұл"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'oğul/ul' түрінде келген. Барлық түркі тілдерінде бар: түрік 'oğul', өзб. 'o'g'il', тат. 'ул', әзірб. 'oğul', қырғ. 'уул'. Орхон-Енисей жазбаларында 'oğul' деп жазылған."
+  definitions:
+    - meaning: "Ер жыныстағы бала"
+      translation_ru: "Сын, мальчик"
+      translation_en: "Son, boy"
+      examples:
+        - kk: "Менің үш ұлым бар."
+          ru: "У меня три сына."
+          en: "I have three sons."
+        - kk: "Ұл бала."
+          ru: "Мальчик."
+          en: "Boy."
+  antonyms:
+    - word_id: 82
+      word: "қыз"
+      note: "Дочь, девочка"

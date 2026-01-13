@@ -1,0 +1,30 @@
+- id: 123
+  word: "ана"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑˈnɑ"
+  latin_2017: "ana"
+  latin_2021: "ana"
+  latin_my: "ana"
+  root_word: "ана"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'ana/ene' түрінде келген. Барлық түркі тілдерінде бар: түрік 'anne/ana', өзб. 'ona', тат. 'әни', әзірб. 'ana', қырғ. 'эне'. Балалар тілінің әмбебап 'ма/на' дыбыстарынан шыққан."
+  definitions:
+    - meaning: "Баланы туған әйел"
+      translation_ru: "Мать, мама"
+      translation_en: "Mother, mom"
+      examples:
+        - kk: "Менің анам."
+          ru: "Моя мама."
+          en: "My mother."
+        - kk: "Ана мен әке."
+          ru: "Мать и отец."
+          en: "Mother and father."
+  antonyms:
+    - word_id: 10
+      word: "әке"
+      note: "Отец"
+  synonyms:
+    - word_id: null
+      word: "шеше"
+      note: "Разговорный вариант"

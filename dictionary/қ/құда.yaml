@@ -1,0 +1,29 @@
+- id: 138
+  word: "құда"
+  parent_id: null
+  type: "noun"
+  transcription: "qʊˈdɑ"
+  latin_2017: "quda"
+  latin_2021: "quda"
+  latin_my: "qūda"
+  root_word: "құда"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'quda' түрінде келген. Барлық түркі тілдерінде бар: түрік 'dünür', өзб. 'quda', тат. 'кода', әзірб. 'quda', қырғ. 'куда'. Қазақ мәдениетінде құдалық қатынас өте маңызды орын алады."
+  definitions:
+    - meaning: "Күйеу мен қалыңдықтың әкелері бір-біріне"
+      translation_ru: "Сват (отец жениха и невесты друг другу)"
+      translation_en: "In-law (fathers of bride and groom to each other)"
+      examples:
+        - kk: "Біздің құдамыз."
+          ru: "Наш сват."
+          en: "Our in-law."
+        - kk: "Құда болу."
+          ru: "Стать сватами."
+          en: "To become in-laws."
+        - kk: "Құда түсу."
+          ru: "Породниться."
+          en: "To become related by marriage."
+  synonyms:
+    - word_id: 139
+      word: "құдаша"
+      note: "Матери жениха и невесты"

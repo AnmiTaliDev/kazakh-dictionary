@@ -1,0 +1,27 @@
+- id: 139
+  word: "құдаша"
+  parent_id: 138
+  type: "noun"
+  transcription: "qʊdɑˈʃɑ"
+  latin_2017: "qudaşa"
+  latin_2021: "qudaşa"
+  latin_my: "qūdaşa"
+  root_word: "құда"
+  relation: "feminine"
+  etymology: "құда + -ша (суффикс женского рода)"
+  history: "Қазақ тілінде 'құда' сөзіне '-ша' (әйел жынысын білдіретін жұрнақ) қосылып жасалған. Орыс тілінде 'сватья'."
+  definitions:
+    - meaning: "Күйеу мен қалыңдықтың аналары бір-біріне"
+      translation_ru: "Сватья (матери жениха и невесты друг другу)"
+      translation_en: "In-law (mothers of bride and groom to each other)"
+      examples:
+        - kk: "Біздің құдашамыз."
+          ru: "Наша сватья."
+          en: "Our in-law."
+        - kk: "Құдаша болу."
+          ru: "Стать сватьями."
+          en: "To become in-laws."
+  synonyms:
+    - word_id: 138
+      word: "құда"
+      note: "Отцы жениха и невесты"

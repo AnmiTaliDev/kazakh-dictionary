@@ -1,0 +1,26 @@
+- id: 136
+  word: "жұбай"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒʊˈbɑj"
+  latin_2017: "jubay"
+  latin_2021: "jubay"
+  latin_my: "jūbaî"
+  root_word: "жұп"
+  etymology: "жұп (пара) + -ай"
+  history: "Түркі 'juft/jup' (жұп, қос) сөзінен жасалған. 'Жұп, серік' мағынасында қолданылады."
+  definitions:
+    - meaning: "Некеде тұрған екі адам"
+      translation_ru: "Супруги, чета"
+      translation_en: "Spouses, married couple"
+      examples:
+        - kk: "Жұбайлар."
+          ru: "Супруги."
+          en: "Spouses."
+        - kk: "Жұбайымен бірге."
+          ru: "Вместе с супругом/супругой."
+          en: "Together with spouse."
+  synonyms:
+    - word_id: null
+      word: "зайып"
+      note: "Супруг/супруга"

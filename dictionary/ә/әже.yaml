@@ -1,0 +1,26 @@
+- id: 124
+  word: "әже"
+  parent_id: null
+  type: "noun"
+  transcription: "æˈʒe"
+  latin_2017: "äje"
+  latin_2021: "äje"
+  latin_my: "äje"
+  root_word: "әже"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен 'eje/äje' түрінде келген. Түрік тілінде 'büyükanne', өзб. 'buvi', тат. 'әби', әзірб. 'nənə', қырғ. 'эже/чоң эне'."
+  definitions:
+    - meaning: "Әкенің немесе ананың анасы"
+      translation_ru: "Бабушка"
+      translation_en: "Grandmother"
+      examples:
+        - kk: "Менің әжем ауылда тұрады."
+          ru: "Моя бабушка живет в ауле."
+          en: "My grandmother lives in the village."
+        - kk: "Әже мен ата."
+          ru: "Бабушка и дедушка."
+          en: "Grandmother and grandfather."
+  antonyms:
+    - word_id: 29
+      word: "ата"
+      note: "Дедушка"

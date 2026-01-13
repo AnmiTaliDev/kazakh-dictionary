@@ -1,0 +1,30 @@
+- id: 126
+  word: "апа"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑˈpɑ"
+  latin_2017: "apa"
+  latin_2021: "apa"
+  latin_my: "apa"
+  root_word: "апа"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'apa/epa' (апа, әпке) түрінде келген. Түркі тілдерінде: түрік 'abla', өзб. 'opa', тат. 'апа', әзірб. 'bacı', қырғ. 'эже'."
+  definitions:
+    - meaning: "Үлкен әйел туысы, әпке"
+      translation_ru: "Старшая сестра, тетя"
+      translation_en: "Elder sister, aunt"
+      examples:
+        - kk: "Менің апам Астанада жұмыс істейді."
+          ru: "Моя старшая сестра работает в Астане."
+          en: "My elder sister works in Astana."
+        - kk: "Апа, көмектесіңіз."
+          ru: "Тетя, помогите."
+          en: "Aunt, please help."
+  antonyms:
+    - word_id: 127
+      word: "сіңлі"
+      note: "Младшая сестра"
+  synonyms:
+    - word_id: null
+      word: "әпке"
+      note: "Старшая сестра"

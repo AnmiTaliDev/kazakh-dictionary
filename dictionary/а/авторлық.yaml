@@ -1,0 +1,23 @@
+- id: 120
+  word: "авторлық"
+  parent_id: 118
+  type: "adjective"
+  transcription: "ɑwtorˈləq"
+  latin_2017: "autorlyq"
+  latin_2021: "autorlyq"
+  latin_my: "autorlyq"
+  root_word: "автор"
+  relation: "adjective"
+  etymology: "автор + -лық (суффикс прилагательного)"
+  history: "Қазақ тілінде 'автор' сөзіне '-лық/-лік' (тиістілік, меншіктілік білдіретін жұрнақ) қосылып жасалған. Осы жұрнақ 'адамдық', 'балалық' сияқты сөздерде де кездеседі."
+  definitions:
+    - meaning: "Авторға қатысты, авторға тиесілі"
+      translation_ru: "Авторский"
+      translation_en: "Author's, authorial"
+      examples:
+        - kk: "Авторлық құқық."
+          ru: "Авторское право."
+          en: "Copyright."
+        - kk: "Авторлық мәтін."
+          ru: "Авторский текст."
+          en: "Author's text."

@@ -1,0 +1,25 @@
+- id: 135
+  word: "нағашы"
+  parent_id: null
+  type: "noun"
+  transcription: "nɑˈʁɑʃə"
+  latin_2017: "nağaşy"
+  latin_2021: "nağaşy"
+  latin_my: "nağaşy"
+  root_word: "нағашы"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен. Қазақ тілінде ана жағынан туыстарды білдіреді."
+  definitions:
+    - meaning: "Ана жағынан туыстар"
+      translation_ru: "Родственники по матери"
+      translation_en: "Mother's relatives"
+      examples:
+        - kk: "Нағашы аға."
+          ru: "Дядя по матери."
+          en: "Mother's brother, uncle."
+        - kk: "Нағашы әже."
+          ru: "Бабушка по матери."
+          en: "Maternal grandmother."
+        - kk: "Нағашы жұрт."
+          ru: "Родня по матери."
+          en: "Mother's family."

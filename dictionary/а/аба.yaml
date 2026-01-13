@@ -1,0 +1,33 @@
+- id: 117
+  word: "аба"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑˈbɑ"
+  latin_2017: "aba"
+  latin_2021: "aba"
+  latin_my: "aba"
+  root_word: "аба"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'aba' (қоршау, тұзақ) түрінде келген. Көшпелі қазақтардың аңшылық әдістерінің бірі - абалап аңдау. Түркі тілдерінде: түрік 'av', өзб. 'ov', тат. 'аба', қырғ. 'аба'."
+  definitions:
+    - meaning: "Малды жинау үшін жасалған қоршау"
+      translation_ru: "Загон"
+      translation_en: "Pen, corral"
+      examples:
+        - kk: "Қойды абаға жинау."
+          ru: "Согнать овец в загон."
+          en: "To herd sheep into the pen."
+    - meaning: "Аң аулау үшін орнатылған құрылғы"
+      translation_ru: "Ловушка, капкан"
+      translation_en: "Trap, snare"
+      examples:
+        - kk: "Аба қою."
+          ru: "Поставить ловушку."
+          en: "To set a trap."
+    - meaning: "Топтасып аң аулау әдісі"
+      translation_ru: "Облавная охота"
+      translation_en: "Hunting by encirclement"
+      examples:
+        - kk: "Абамен аң аулау."
+          ru: "Охотиться облавой."
+          en: "To hunt by encirclement."

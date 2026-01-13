@@ -1,0 +1,22 @@
+- id: 131
+  word: "бөле"
+  parent_id: null
+  type: "noun"
+  transcription: "bøˈle"
+  latin_2017: "böle"
+  latin_2021: "böle"
+  latin_my: "böle"
+  root_word: "бөле"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен 'böle' түрінде келген. Қазақ тілінде екінші буын туыстарды білдіреді."
+  definitions:
+    - meaning: "Ата-әженің немересі, екінші буын туыстар"
+      translation_ru: "Двоюродный брат/сестра"
+      translation_en: "Cousin"
+      examples:
+        - kk: "Менің бөлем Алматыда тұрады."
+          ru: "Мой двоюродный брат живет в Алматы."
+          en: "My cousin lives in Almaty."
+        - kk: "Бөле туыс."
+          ru: "Двоюродный родственник."
+          en: "Second cousin."

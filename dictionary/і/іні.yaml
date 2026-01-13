@@ -1,0 +1,26 @@
+- id: 125
+  word: "іні"
+  parent_id: null
+  type: "noun"
+  transcription: "ɪˈnɪ"
+  latin_2017: "ini"
+  latin_2021: "ini"
+  latin_my: "ını"
+  root_word: "іні"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'ini' түрінде келген. Барлық түркі тілдерінде бар: түрік 'küçük kardeş', өзб. 'uka', тат. 'кече', әзірб. 'kiçik qardaş', қырғ. 'ини'."
+  definitions:
+    - meaning: "Кіші ер сіңлісі"
+      translation_ru: "Младший брат"
+      translation_en: "Younger brother"
+      examples:
+        - kk: "Менің інім мектепте оқиды."
+          ru: "Мой младший брат учится в школе."
+          en: "My younger brother studies at school."
+        - kk: "Аға мен іні."
+          ru: "Старший и младший брат."
+          en: "Elder and younger brother."
+  antonyms:
+    - word_id: 7
+      word: "аға"
+      note: "Старший брат"

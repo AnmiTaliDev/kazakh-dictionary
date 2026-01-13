@@ -1,0 +1,33 @@
+- id: 122
+  word: "құрылым"
+  parent_id: null
+  type: "noun"
+  transcription: "qʊrəˈləm"
+  latin_2017: "qurylym"
+  latin_2021: "qurylym"
+  latin_my: "qūrylym"
+  root_word: "құр"
+  etymology: "құр (строить) + -ылым (суффикс)"
+  history: "Қазақ тілінде 'құру' (құрастыру, жасау) етістігінен '-лым' жұрнағымен жасалған. Түркі тілдерінде 'құрылым' (құрылыс, түзілім) мағынасында қолданылады."
+  definitions:
+    - meaning: "Нәрсенің ішкі құрылысы, жүйесі"
+      translation_ru: "Структура, строение"
+      translation_en: "Structure"
+      examples:
+        - kk: "Тіл құрылымы."
+          ru: "Структура языка."
+          en: "Language structure."
+        - kk: "Ұйымның құрылымы."
+          ru: "Структура организации."
+          en: "Organization structure."
+    - meaning: "Құрылыс, ұйым"
+      translation_ru: "Структура, устройство"
+      translation_en: "Structure, organization"
+      examples:
+        - kk: "Жүйенің құрылымы."
+          ru: "Структура системы."
+          en: "System structure."
+  synonyms:
+    - word_id: null
+      word: "құрылыс"
+      note: "Строение, структура"

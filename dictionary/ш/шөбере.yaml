@@ -1,0 +1,22 @@
+- id: 137
+  word: "шөбере"
+  parent_id: null
+  type: "noun"
+  transcription: "ʃøbeˈre"
+  latin_2017: "şöbere"
+  latin_2021: "şöbere"
+  latin_my: "şöbere"
+  root_word: "шөбере"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен. Қазақ тілінде немеренің баласын білдіреді."
+  definitions:
+    - meaning: "Немеренің баласы"
+      translation_ru: "Правнук, правнучка"
+      translation_en: "Great-grandchild"
+      examples:
+        - kk: "Менің шөберем туды."
+          ru: "Мой правнук родился."
+          en: "My great-grandchild was born."
+        - kk: "Шөбере ұрпақ."
+          ru: "Поколение правнуков."
+          en: "Great-grandchildren generation."

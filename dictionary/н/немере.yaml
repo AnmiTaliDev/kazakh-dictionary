@@ -1,0 +1,29 @@
+- id: 129
+  word: "немере"
+  parent_id: null
+  type: "noun"
+  transcription: "nemeˈre"
+  latin_2017: "nemere"
+  latin_2021: "nemere"
+  latin_my: "nemere"
+  root_word: "немере"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен 'nemere' түрінде келген. Түрік 'torun', өзб. 'nevara', тат. 'оныклар', әзірб. 'nəvə', қырғ. 'небере'."
+  definitions:
+    - meaning: "Баланың баласы"
+      translation_ru: "Внук, внучка"
+      translation_en: "Grandchild, grandson, granddaughter"
+      examples:
+        - kk: "Менің немерем бес жаста."
+          ru: "Моему внуку пять лет."
+          en: "My grandchild is five years old."
+        - kk: "Немере бала."
+          ru: "Внук."
+          en: "Grandchild."
+  antonyms:
+    - word_id: 29
+      word: "ата"
+      note: "Дед"
+    - word_id: 124
+      word: "әже"
+      note: "Бабушка"

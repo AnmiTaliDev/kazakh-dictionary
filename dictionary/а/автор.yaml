@@ -1,0 +1,22 @@
+- id: 118
+  word: "автор"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑwˈtor"
+  latin_2017: "autor"
+  latin_2021: "autor"
+  latin_my: "autor"
+  root_word: "автор"
+  etymology: "Латын тілінен (еуропа тілдері арқылы)"
+  history: "Латын тілінің 'auctor' (жаратушы, автор) сөзінен шыққан. Орыс тілі арқылы қазақ тіліне енген. Барлық еуропа тілдерінде бар: ағылш. 'author', нем. 'Autor', фр. 'auteur'."
+  definitions:
+    - meaning: "Шығарманың жазушысы, жаратушысы"
+      translation_ru: "Автор"
+      translation_en: "Author"
+      examples:
+        - kk: "Кітаптың авторы."
+          ru: "Автор книги."
+          en: "Author of the book."
+        - kk: "Белгілі автор."
+          ru: "Известный автор."
+          en: "Famous author."

@@ -1,0 +1,26 @@
+- id: 127
+  word: "сіңлі"
+  parent_id: null
+  type: "noun"
+  transcription: "sɪŋˈlɪ"
+  latin_2017: "siñli"
+  latin_2021: "siñli"
+  latin_my: "sıŋlı"
+  root_word: "сіңлі"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен 'siŋli/siŋil' түрінде келген. Түрік 'küçük kız kardeş', өзб. 'singil', тат. 'сеңел', қырғ. 'сиңди'."
+  definitions:
+    - meaning: "Кіші әйел туысы"
+      translation_ru: "Младшая сестра"
+      translation_en: "Younger sister"
+      examples:
+        - kk: "Менің сіңлім әнші."
+          ru: "Моя младшая сестра - певица."
+          en: "My younger sister is a singer."
+        - kk: "Апа мен сіңлі."
+          ru: "Старшая и младшая сестра."
+          en: "Elder and younger sister."
+  antonyms:
+    - word_id: 126
+      word: "апа"
+      note: "Старшая сестра"

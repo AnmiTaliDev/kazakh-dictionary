@@ -1,0 +1,22 @@
+- id: 132
+  word: "келін"
+  parent_id: null
+  type: "noun"
+  transcription: "kelɪn"
+  latin_2017: "kelin"
+  latin_2021: "kelin"
+  latin_my: "kelın"
+  root_word: "кел"
+  etymology: "кел (приходить) + -ін"
+  history: "Түркі 'kel-' (келу) етістігінен жасалған. 'Келген қыз' мағынасында. Барлық түркі тілдерінде бар: түрік 'gelin', өзб. 'kelin', тат. 'килен', әзірб. 'gəlin', қырғ. 'келин'."
+  definitions:
+    - meaning: "Үйленген ұлдың әйелі"
+      translation_ru: "Невестка, сноха"
+      translation_en: "Daughter-in-law, bride"
+      examples:
+        - kk: "Біздің келінімі."
+          ru: "Наша невестка."
+          en: "Our daughter-in-law."
+        - kk: "Келін түсіру."
+          ru: "Привести невесту."
+          en: "To bring a bride."

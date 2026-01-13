@@ -1,0 +1,25 @@
+- id: 134
+  word: "қайын"
+  parent_id: null
+  type: "noun"
+  transcription: "qɑˈjən"
+  latin_2017: "qayyn"
+  latin_2021: "qayyn"
+  latin_my: "qaîyn"
+  root_word: "қайын"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен 'qayın' (күйеудің немесе келіннің туыстары) түрінде келген. Түрік 'kayın', өзб. 'qayin', тат. 'кайын', қырғ. 'кайын'."
+  definitions:
+    - meaning: "Күйеу немесе келіннің туыстары"
+      translation_ru: "Родственники супруга/супруги"
+      translation_en: "In-laws"
+      examples:
+        - kk: "Қайын ата."
+          ru: "Тесть, свекор."
+          en: "Father-in-law."
+        - kk: "Қайын жұрт."
+          ru: "Семья мужа/жены."
+          en: "In-laws family."
+        - kk: "Қайын аға."
+          ru: "Деверь, шурин."
+          en: "Brother-in-law."

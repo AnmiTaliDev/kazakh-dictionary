@@ -1,0 +1,30 @@
+- id: 133
+  word: "күйеу"
+  parent_id: null
+  type: "noun"
+  transcription: "kʏˈjew"
+  latin_2017: "küyeu"
+  latin_2021: "küyeu"
+  latin_my: "küîeu"
+  root_word: "күйеу"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Көне түркі тілінен 'küyev/güvey' түрінде келген. Түрік 'damat/güvey', өзб. 'kuyov', тат. 'кияү', әзірб. 'kürəkən', қырғ. 'күйөө'."
+  definitions:
+    - meaning: "Әйелдің ері"
+      translation_ru: "Муж"
+      translation_en: "Husband"
+      examples:
+        - kk: "Менің күйеуім."
+          ru: "Мой муж."
+          en: "My husband."
+    - meaning: "Қыздың үйленген жігіті"
+      translation_ru: "Зять"
+      translation_en: "Son-in-law"
+      examples:
+        - kk: "Біздің күйеуіміз."
+          ru: "Наш зять."
+          en: "Our son-in-law."
+  antonyms:
+    - word_id: 132
+      word: "келін"
+      note: "Невестка"

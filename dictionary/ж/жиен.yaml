@@ -1,0 +1,22 @@
+- id: 130
+  word: "жиен"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒɪˈjen"
+  latin_2017: "jiyen"
+  latin_2021: "jiyen"
+  latin_my: "jıîen"
+  root_word: "жиен"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Түркі тілдерінен 'jiyen/yeğen' түрінде келген. Түрік 'yeğen', өзб. 'jiyán', тат. 'җиян', әзірб. 'bacı/qardaş uşağı', қырғ. 'жээн'."
+  definitions:
+    - meaning: "Туыстың баласы (інінің, апаның, ағаның, сіңлінің баласы)"
+      translation_ru: "Племянник, племянница"
+      translation_en: "Nephew, niece"
+      examples:
+        - kk: "Менің жиенім университетте оқиды."
+          ru: "Мой племянник учится в университете."
+          en: "My nephew studies at university."
+        - kk: "Жиен қыз."
+          ru: "Племянница."
+          en: "Niece."

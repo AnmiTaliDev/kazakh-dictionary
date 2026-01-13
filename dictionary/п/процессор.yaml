@@ -1,0 +1,26 @@
+- id: 121
+  word: "процессор"
+  parent_id: null
+  type: "noun"
+  transcription: "protseˈsor"
+  latin_2017: "protsesor"
+  latin_2021: "protsesor"
+  latin_my: "procesor"
+  root_word: "процессор"
+  etymology: "Ағылшын тілінен (латын негізінде)"
+  history: "Ағылшын тілінің 'processor' (өңдеуші) сөзінен шыққан, латын 'processus' (процесс, өңдеу) + '-or' (істеуші жұрнағы). 20 ғасырдың екінші жартысында компьютерлік техниканың дамуымен бірге орыс тілі арқылы қазақ тіліне енген."
+  definitions:
+    - meaning: "Компьютердің орталық есептеу құрылғысы"
+      translation_ru: "Процессор"
+      translation_en: "Processor"
+      examples:
+        - kk: "Орталық процессор."
+          ru: "Центральный процессор."
+          en: "Central processing unit (CPU)."
+        - kk: "Процессордың жылдамдығы."
+          ru: "Скорость процессора."
+          en: "Processor speed."
+  synonyms:
+    - word_id: null
+      word: "өңдеуіш"
+      note: "Казахский эквивалент"
