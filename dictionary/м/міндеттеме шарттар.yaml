@@ -1,0 +1,39 @@
+- id: 146
+  word: "міндеттеме шарттар"
+  parent_id: null
+  type: "noun"
+  transcription: "mɪndetteˈme ʃɑrtˈtɑr"
+  latin_2017: "mindetteme s'arttar"
+  latin_2021: "mındetteme şarttar"
+  latin_my: "mındetteme şarttar"
+  root_word: "міндет"
+  etymology: "Қазақ тілінен (композиция)"
+  history: "Авторлық неологизм (AnmiTaliDev, 2026), қазақ тілінің 'міндеттеме' (обязательство) және 'шарттар' (условия, договор) сөздерінен құралған. 'Copyleft' (копилефт) терминінің қазақша баламасы. Ашық бастапқы кодты программалық қамтамасыз етудің reciprocal лицензияларын (GPL, AGPL, MPL) білдіреді. Бұл лицензиялар пайдаланушыға туынды кодты да ашық ұстау міндетін жүктейді. 'Рұқсат шарттар' (permissive) лицензияларына қарама-қарсы ұғым."
+  definitions:
+    - meaning: "Пайдаланушыға туынды кодты да ашық ұстау міндетін жүктейтін, бағдарламалық өнімнің еркіндігін қорғайтын copyleft лицензиялар түрі"
+      translation_ru: "Копилефт-лицензии, лицензии с обязательствами"
+      translation_en: "Copyleft licenses, reciprocal licenses"
+      examples:
+        - kk: "GPL міндеттеме шарттары логикөнімнің азаттығын қорғайды."
+          ru: "Условия обязательств GPL защищают свободу программного обеспечения."
+          en: "GPL copyleft requirements protect the freedom of software."
+        - kk: "Міндеттеме шарттар туынды жұмысты жабуға жол бермейді."
+          ru: "Лицензии с обязательствами не позволяют закрывать производные работы."
+          en: "Copyleft licenses do not allow closing derivative works."
+        - kk: "AGPL қатаң міндеттеме шарттарға жатады."
+          ru: "AGPL относится к строгим лицензиям с обязательствами."
+          en: "AGPL is a strong copyleft license."
+        - kk: "Міндеттеме шарттар азат логикөнім қозғалысының негізі."
+          ru: "Копилефт-лицензии — основа движения свободного ПО."
+          en: "Copyleft licenses are the foundation of the free software movement."
+  antonyms:
+    - word_id: 145
+      word: "рұқсат шарттар"
+      note: "Пермиссивные лицензии"
+  synonyms:
+    - word_id: null
+      word: "copyleft лицензиялары"
+      note: "Транслитерация"
+    - word_id: null
+      word: "өзара лицензиялар"
+      note: "Взаимные лицензии"

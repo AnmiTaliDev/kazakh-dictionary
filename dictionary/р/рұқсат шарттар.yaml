@@ -1,0 +1,36 @@
+- id: 145
+  word: "рұқсат шарттар"
+  parent_id: null
+  type: "noun"
+  transcription: "rʊqˈsɑt ʃɑrtˈtɑr"
+  latin_2017: "ruqsat s'arttar"
+  latin_2021: "rūqsat şarttar"
+  latin_my: "rūqsat şarttar"
+  root_word: "рұқсат"
+  etymology: "Қазақ тілінен (композиция)"
+  history: "Авторлық неологизм (AnmiTaliDev, 2026), қазақ тілінің 'рұқсат' (разрешение, позволение) және 'шарттар' (условия, договор) сөздерінен құралған. 'Permissive licenses' (пермиссивные лицензии) терминінің қазақша баламасы. Ашық бастапқы кодты программалық қамтамасыз етудің либералды лицензияларын (MIT, BSD, Apache) білдіреді. Бұл лицензиялар пайдаланушыға максималды құқықтар береді және минималды шектеулер қояды. 'Міндеттеме шарттар' (copyleft) лицензияларына қарама-қарсы ұғым."
+  definitions:
+    - meaning: "Пайдаланушыға кең құқықтар беретін, туынды кодтың ашық болуын талап етпейтін либералды ашық бастапқы кодты лицензиялар түрі"
+      translation_ru: "Пермиссивные (разрешающие) лицензии"
+      translation_en: "Permissive licenses"
+      examples:
+        - kk: "MIT лицензиясы ең танымал рұқсат шарттардың бірі."
+          ru: "Лицензия MIT — одна из самых известных разрешающих лицензий."
+          en: "The MIT license is one of the most popular permissive licenses."
+        - kk: "Рұқсат шарттар коммерциялық қолдануға рұқсат береді."
+          ru: "Разрешающие лицензии позволяют коммерческое использование."
+          en: "Permissive licenses allow commercial use."
+        - kk: "BSD және Apache рұқсат шарттарға жатады."
+          ru: "BSD и Apache относятся к разрешающим лицензиям."
+          en: "BSD and Apache are permissive licenses."
+        - kk: "Рұқсат шарттар туынды жұмысты жабуға мүмкіндік береді."
+          ru: "Разрешающие лицензии позволяют закрывать производные работы."
+          en: "Permissive licenses allow closing derivative works."
+  antonyms:
+    - word_id: 146
+      word: "міндеттеме шарттар"
+      note: "Copyleft лицензии"
+  synonyms:
+    - word_id: null
+      word: "либералды лицензиялар"
+      note: "Либеральные лицензии"

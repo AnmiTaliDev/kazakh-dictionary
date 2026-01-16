@@ -1,0 +1,39 @@
+- id: 143
+  word: "санғылымлық қолтаңба"
+  parent_id: 142
+  relation: "application"
+  type: "noun"
+  transcription: "sɑnʁələmˈləq qoltɑŋˈbɑ"
+  latin_2017: "sang'ylymlyq qoltang'ba"
+  latin_2021: "sanğylymlyq qoltañba"
+  latin_my: "sanğylymlyq qoltaŋba"
+  root_word: "санғылым"
+  etymology: "Қазақ тілінен (композиция)"
+  history: "Авторлық неологизм (AnmiTaliDev, 2026), 'санғылым' (цифровая сфера) және 'қолтаңба' (қол таңбасы - подпись, буквально 'отпечаток руки') сөздерінен құралған. 'Электрондық цифрлық қолтаңба' (ЭЦҚ) немесе 'цифровая подпись' терминінің қысқа және нақты қазақша баламасы. Криптографияда құжаттың түпнұсқалығын және автордың жеке басын растау үшін қолданылады."
+  definitions:
+    - meaning: "Электрондық құжаттың түпнұсқалығын және автордың жеке басын растайтын криптографиялық сандық деректер"
+      translation_ru: "Цифровая подпись, электронная цифровая подпись (ЭЦП)"
+      translation_en: "Digital signature"
+      examples:
+        - kk: "Файлды санғылымлық қолтаңбамен бекітіңіз."
+          ru: "Заверьте файл цифровой подписью."
+          en: "Sign the file with a digital signature."
+        - kk: "Санғылымлық қолтаңба құжаттың өзгертілмегенін растайды."
+          ru: "Цифровая подпись подтверждает, что документ не был изменён."
+          en: "The digital signature confirms that the document has not been altered."
+        - kk: "Санғылымлық қолтаңбаны тексеру."
+          ru: "Проверить цифровую подпись."
+          en: "To verify the digital signature."
+        - kk: "Шарт санғылымлық қолтаңбамен қол қойылды."
+          ru: "Договор подписан цифровой подписью."
+          en: "The contract was signed with a digital signature."
+  synonyms:
+    - word_id: null
+      word: "электрондық цифрлық қолтаңба"
+      note: "Полный официальный термин"
+    - word_id: null
+      word: "ЭЦҚ"
+      note: "Аббревиатура"
+    - word_id: null
+      word: "цифрлық қолтаңба"
+      note: "Краткая форма"

@@ -1,0 +1,38 @@
+- id: 142
+  word: "санғылым"
+  parent_id: null
+  type: "noun"
+  transcription: "sɑnʁəˈləm"
+  latin_2017: "sang'ylym"
+  latin_2021: "sanğylym"
+  latin_my: "sanğylym"
+  root_word: "санғылым"
+  etymology: "Қазақ тілінен (композиция)"
+  history: "Авторлық неологизм (AnmiTaliDev, 2026), қазақ тілінің 'сан' (сандық, цифр) және 'ғылым' (наука) сөздерінен құралған. Цифрлық технологиялар, криптография және математикалық ғылымдар саласын білдіретін термин. 'Цифровая сфера', 'информатика', 'компьютерная наука' ұғымдарының қазақша баламасы ретінде ұсынылған."
+  definitions:
+    - meaning: "Цифрлық технологиялар мен криптография саласы, сандық ғылым"
+      translation_ru: "Цифровая сфера, криптография, информатика"
+      translation_en: "Digital technologies, cryptography, computer science"
+      examples:
+        - kk: "Болашақ санғылым қолында."
+          ru: "Будущее в руках цифровых технологий."
+          en: "The future is in the hands of digital technologies."
+        - kk: "Санғылым саласындағы маман."
+          ru: "Специалист в области цифровых технологий."
+          en: "Specialist in digital technologies."
+        - kk: "Санғылым дамуы қарқынды жүріп жатыр."
+          ru: "Развитие цифровой сферы идёт стремительно."
+          en: "The development of the digital sphere is progressing rapidly."
+        - kk: "Криптография санғылымның маңызды бөлігі."
+          ru: "Криптография - важная часть цифровой науки."
+          en: "Cryptography is an important part of digital science."
+  synonyms:
+    - word_id: null
+      word: "информатика"
+      note: "Традиционный термин"
+    - word_id: null
+      word: "компьютерлік ғылым"
+      note: "Компьютерная наука"
+    - word_id: null
+      word: "цифрлық технологиялар"
+      note: "Цифровые технологии"
