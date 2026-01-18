@@ -1,0 +1,27 @@
+- id: 155
+  word: "ботақаным"
+  parent_id: 154
+  type: "noun"
+  relation: "diminutive_endearment"
+  transcription: "botɑqɑˈnəm"
+  latin_2017: "botaqanym"
+  latin_2021: "botaqanym"
+  latin_my: "botaqanym"
+  root_word: "бота"
+  etymology: "бота (верблюжонок) + -қан (уменьшительный суффикс) + -ым (притяжательный суффикс 1-го лица)"
+  history: "Образовано от 'бота' (верблюжонок) с уменьшительно-ласкательным суффиксом '-қан' и притяжательным суффиксом '-ым' (мой). Усиленная форма нежности от 'ботам', выражает ещё большую нежность, заботу и привязанность. Часто используется по отношению к маленьким детям."
+  definitions:
+    - meaning: "Балаға аса мейірімді қаратылатын сөз"
+      translation_ru: "Мой верблюжоночек (очень ласковое обращение)"
+      translation_en: "My little baby camel (affectionate term)"
+      examples:
+        - kk: "Ботақаным, не болды?"
+          ru: "Верблюжоночек мой, что случилось?"
+          en: "My little baby camel, what happened?"
+        - kk: "Тамаша, ботақаным!"
+          ru: "Молодец, верблюжоночек!"
+          en: "Well done, my little baby camel!"
+  synonyms:
+    - word_id: 154
+      word: "ботам"
+      note: "Базовая форма"

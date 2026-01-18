@@ -1,0 +1,27 @@
+- id: 151
+  word: "күнім"
+  parent_id: 21
+  type: "noun"
+  relation: "possessive_endearment"
+  transcription: "kʏˈnɪm"
+  latin_2017: "kunim"
+  latin_2021: "künım"
+  latin_my: "künım"
+  root_word: "күн"
+  etymology: "күн (солнце) + -ім (притяжательный суффикс 1-го лица)"
+  history: "Образовано от тюркского 'күн' (солнце, светило) с притяжательным суффиксом '-ім' (мой). Сравнение любимого человека с солнцем подчёркивает его яркость, теплоту и важность в жизни. Солнце в тюркской культуре всегда символизировало жизнь, свет и радость."
+  definitions:
+    - meaning: "Өмірге жарық беретін адамға мейірім білдіретін сөз"
+      translation_ru: "Моё солнце (ласковое обращение)"
+      translation_en: "My sun (term of endearment)"
+      examples:
+        - kk: "Күнім, сен менің өмірімсің."
+          ru: "Солнце моё, ты моя жизнь."
+          en: "My sun, you are my life."
+        - kk: "Күнім, қайда едің?"
+          ru: "Солнышко моё, где ты был?"
+          en: "My sunshine, where were you?"
+  synonyms:
+    - word_id: 152
+      word: "айым"
+      note: "Моя луна"

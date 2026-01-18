@@ -1,0 +1,27 @@
+- id: 149
+  word: "жүрегім"
+  parent_id: 19
+  type: "noun"
+  relation: "possessive_endearment"
+  transcription: "ʒʏreˈɡɪm"
+  latin_2017: "juregim"
+  latin_2021: "jüregim"
+  latin_my: "jüregım"
+  root_word: "жүрек"
+  etymology: "жүрек (сердце) + -ім (притяжательный суффикс 1-го лица)"
+  history: "Образовано от тюркского 'жүрек' (сердце, орган) с притяжательным суффиксом '-ім' (мой). Романтическое и нежное обращение к любимому человеку, буквально означает 'моё сердце'. Широко используется в казахской поэзии и повседневной речи."
+  definitions:
+    - meaning: "Сүйікті адамға нәзік қаратылатын сөз"
+      translation_ru: "Моё сердце (ласковое обращение)"
+      translation_en: "My heart (term of endearment)"
+      examples:
+        - kk: "Жүрегім, мен сені сағындым."
+          ru: "Сердце моё, я по тебе скучал."
+          en: "My heart, I missed you."
+        - kk: "Сен менің жүрегімсің."
+          ru: "Ты моё сердце."
+          en: "You are my heart."
+  synonyms:
+    - word_id: 148
+      word: "жаным"
+      note: "Моя душа"

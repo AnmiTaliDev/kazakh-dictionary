@@ -1,0 +1,32 @@
+- id: 153
+  word: "қымбаттым"
+  parent_id: null
+  type: "noun"
+  transcription: "qəmbɑtˈtəm"
+  latin_2017: "qymbattym"
+  latin_2021: "qymbattym"
+  latin_my: "qymbattym"
+  root_word: "қымбат"
+  etymology: "қымбат (дорогой, ценный) + -тым (притяжательный суффикс 1-го лица)"
+  history: "Образовано от 'қымбат' (дорогой, драгоценный, ценный) с притяжательным суффиксом '-тым' (мой). Прямое выражение ценности и дороговизны любимого человека. Универсальное обращение, подходящее для любого близкого и дорогого человека."
+  definitions:
+    - meaning: "Өте құнды адамға мейірім білдіретін сөз"
+      translation_ru: "Мой дорогой/моя дорогая (ласковое обращение)"
+      translation_en: "My dear, my precious (term of endearment)"
+      examples:
+        - kk: "Қымбаттым, мен сені ешқашан ұмытпаймын."
+          ru: "Дорогой мой, я тебя никогда не забуду."
+          en: "My dear, I will never forget you."
+        - kk: "Сен менің қымбаттымсың."
+          ru: "Ты мой дорогой/моя дорогая."
+          en: "You are my dear."
+        - kk: "Қымбаттым, не істеп жүрсің?"
+          ru: "Дорогой, что ты делаешь?"
+          en: "My dear, what are you doing?"
+  synonyms:
+    - word_id: 150
+      word: "алтыным"
+      note: "Моё золото"
+    - word_id: 148
+      word: "жаным"
+      note: "Моя душа"

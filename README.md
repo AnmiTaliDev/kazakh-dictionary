@@ -112,7 +112,7 @@ Using AI to help? Check our AI-specific guidelines:
 
 ## 📋 Current Statistics
 
-- **Words**: 144 entries (growing!)
+- **Words**: 153 entries (growing!)
 - **Languages**: 3 (Kazakh, Russian, English)
 - **Latin Systems**: 3 (2017, 2021, AnmiTaliDev)
 - **Contributors**: Open to all!

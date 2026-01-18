@@ -1,0 +1,27 @@
+- id: 152
+  word: "айым"
+  parent_id: 9
+  type: "noun"
+  relation: "possessive_endearment"
+  transcription: "ɑˈjəm"
+  latin_2017: "ayym"
+  latin_2021: "ayym"
+  latin_my: "aîym"
+  root_word: "ай"
+  etymology: "ай (луна) + -ым (притяжательный суффикс 1-го лица)"
+  history: "Образовано от тюркского 'ай' (луна, месяц) с притяжательным суффиксом '-ым' (мой). Сравнение с луной подчёркивает красоту, таинственность и романтичность любимого человека. В тюркской поэзии луна традиционно ассоциируется с женской красотой и нежностью."
+  definitions:
+    - meaning: "Әсем адамға романтикалық қаратылатын сөз"
+      translation_ru: "Моя луна (ласковое обращение)"
+      translation_en: "My moon (term of endearment)"
+      examples:
+        - kk: "Айым, сен өте әдемісің."
+          ru: "Луна моя, ты очень красива."
+          en: "My moon, you are very beautiful."
+        - kk: "Қайырлы түн, айым."
+          ru: "Спокойной ночи, луна моя."
+          en: "Good night, my moon."
+  synonyms:
+    - word_id: 151
+      word: "күнім"
+      note: "Моё солнце"

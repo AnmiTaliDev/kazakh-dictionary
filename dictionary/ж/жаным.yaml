@@ -1,0 +1,33 @@
+- id: 148
+  word: "жаным"
+  parent_id: 54
+  type: "noun"
+  relation: "possessive_endearment"
+  transcription: "ʒɑˈnəm"
+  latin_2017: "janym"
+  latin_2021: "janym"
+  latin_my: "janym"
+  root_word: "жан"
+  etymology: "жан (душа) + -ым (притяжательный суффикс 1-го лица)"
+  history: "Образовано от персидского заимствования 'жан' (душа, дух) с казахским притяжательным суффиксом '-ым' (мой). Одно из самых нежных обращений в казахском языке, буквально означает 'моя душа'. Используется между близкими людьми, супругами, родителями и детьми."
+  definitions:
+    - meaning: "Өте жақын адамға мейірімді қаратылатын сөз"
+      translation_ru: "Моя душа (ласковое обращение)"
+      translation_en: "My soul (term of endearment)"
+      examples:
+        - kk: "Жаным, сені жақсы көремін."
+          ru: "Душа моя, я тебя люблю."
+          en: "My soul, I love you."
+        - kk: "Жаным, қайдасың?"
+          ru: "Душа моя, где ты?"
+          en: "My soul, where are you?"
+        - kk: "Қалың қалай, жаным?"
+          ru: "Как дела, душа моя?"
+          en: "How are you, my soul?"
+  synonyms:
+    - word_id: 149
+      word: "жүрегім"
+      note: "Моё сердце"
+    - word_id: 150
+      word: "алтыным"
+      note: "Моё золото"

@@ -1,0 +1,29 @@
+- id: 156
+  word: "айналайын"
+  parent_id: null
+  type: "interjection"
+  transcription: "ɑjnɑlɑˈjən"
+  latin_2017: "aynalayin"
+  latin_2021: "aynalayn"
+  latin_my: "aîynalaîyn"
+  root_word: "айнал"
+  etymology: "айнал (вращаться, кружиться) + -айын (форма желания 1-го лица)"
+  history: "Образовано от глагола 'айналу' (вращаться, кружиться вокруг) в форме желания 1-го лица. Буквально означает 'пусть я буду вращаться (вокруг тебя)'. Выражает готовность посвятить всю свою жизнь заботе о любимом человеке, желание постоянно быть рядом. Традиционное казахское выражение глубокой привязанности и самопожертвования."
+  definitions:
+    - meaning: "Өте жақын адамға терең мейірім білдіретін сөз"
+      translation_ru: "Буду вращаться вокруг тебя (выражение глубокой привязанности)"
+      translation_en: "Let me revolve around you (expression of deep affection)"
+      examples:
+        - kk: "Айналайын, балам."
+          ru: "Буду вращаться вокруг тебя, дитя моё."
+          en: "Let me revolve around you, my child."
+        - kk: "Айналайын, сенің басыңа."
+          ru: "Буду вращаться вокруг твоей головы (выражение заботы)."
+          en: "Let me revolve around your head (expression of care)."
+        - kk: "Жаным, айналайын!"
+          ru: "Душа моя, буду заботиться о тебе!"
+          en: "My soul, let me care for you!"
+  synonyms:
+    - word_id: 148
+      word: "жаным"
+      note: "Моя душа"
