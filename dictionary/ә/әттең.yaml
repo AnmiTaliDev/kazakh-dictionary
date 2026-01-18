@@ -1,0 +1,25 @@
+- id: 162
+  word: "әттең"
+  parent_id: null
+  type: "interjection"
+  transcription: "ætˈteŋ"
+  latin_2017: "ätteng"
+  latin_2021: "ätteñ"
+  latin_my: "ätteŋ"
+  root_word: "әттең"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Тюркское междометие, выражающее неожиданность, удивление, досаду или лёгкое огорчение. Одно из самых частых междометий в казахском языке. Аналог русского 'ой', 'ах', 'эх'."
+  definitions:
+    - meaning: "Таңдану, өкіну білдіретін одағай"
+      translation_ru: "Ой, ах, эх"
+      translation_en: "Oh, ah, oops"
+      examples:
+        - kk: "Әттең, ұмытып қойыппын!"
+          ru: "Ой, я забыл!"
+          en: "Oh, I forgot!"
+        - kk: "Әттең, не істедім?"
+          ru: "Ах, что я наделал?"
+          en: "Oh no, what did I do?"
+        - kk: "Әттең, қайда кетті екен?"
+          ru: "Эх, куда же он делся?"
+          en: "Oh, where did it go?"

@@ -1,0 +1,25 @@
+- id: 160
+  word: "ғажап"
+  parent_id: null
+  type: "interjection"
+  transcription: "ʁɑˈʒɑp"
+  latin_2017: "ğajap"
+  latin_2021: "ğajap"
+  latin_my: "ğajap"
+  root_word: "ғажап"
+  etymology: "Араб тілінен"
+  history: "Из арабского 'عَجَب' (аджаб - удивление, чудо). Пришло в казахский через персидский язык. Выражает сильное удивление, восхищение чем-то необычным или неожиданным."
+  definitions:
+    - meaning: "Таңғалу, қызықтану білдіретін одағай"
+      translation_ru: "Удивительно, чудо, невероятно"
+      translation_en: "Amazing, wonderful, incredible"
+      examples:
+        - kk: "Ғажап! Мұндай болуы мүмкін емес!"
+          ru: "Удивительно! Такого не может быть!"
+          en: "Amazing! This can't be!"
+        - kk: "Ғажап-ай, қалай жасадың?"
+          ru: "Чудо! Как ты это сделал?"
+          en: "Incredible! How did you do it?"
+        - kk: "Ғажап нәрсе!"
+          ru: "Удивительная вещь!"
+          en: "What an amazing thing!"

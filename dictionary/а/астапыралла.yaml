@@ -1,0 +1,26 @@
+- id: 169
+  word: "астапыралла"
+  parent_id: null
+  type: "interjection"
+  transcription: "ɑstɑpərɑlˈlɑ"
+  latin_2017: "astapyralla"
+  latin_2021: "astapyralla"
+  latin_my: "astapyralla"
+  root_word: "астапыралла"
+  etymology: "Орыс тілінен"
+  history: "Заимствовано из русского 'господи' (обращение к Богу). Прошло через народную этимологию и фонетическую адаптацию к казахскому языку, превратившись в 'астапыралла'. Используется преимущественно пожилыми людьми. Выражает удивление, испуг, возмущение. Аналог русского 'батюшки', 'господи'."
+  definitions:
+    - meaning: "Таңдану, қорқыныш білдіретін одағай"
+      translation_ru: "Батюшки, господи (выражение удивления, испуга)"
+      translation_en: "Good heavens, oh Lord"
+      examples:
+        - kk: "Астапыралла, не болды?"
+          ru: "Батюшки, что случилось?"
+          en: "Good heavens, what happened?"
+        - kk: "Астапыралла, қалай болды бұл?"
+          ru: "Господи, как это произошло?"
+          en: "Oh Lord, how did this happen?"
+  synonyms:
+    - word_id: 166
+      word: "тәйірі"
+      note: "Исконное казахское обращение к Богу"

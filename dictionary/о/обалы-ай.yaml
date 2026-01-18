@@ -1,0 +1,22 @@
+- id: 164
+  word: "обалы-ай"
+  parent_id: null
+  type: "interjection"
+  transcription: "obɑˈlə ɑj"
+  latin_2017: "obaly-ay"
+  latin_2021: "obaly-ay"
+  latin_my: "obaly-aî"
+  root_word: "обал"
+  etymology: "обал (горе, беда) + -ы + -ай"
+  history: "Образовано от 'обал' (горе, несчастье, беда) с восклицательной частицей '-ай'. Выражает испуг, тревогу, сильное беспокойство. Используется при неожиданных негативных ситуациях или известиях."
+  definitions:
+    - meaning: "Қорқыныш, мазасыздық білдіретін одағай"
+      translation_ru: "Ой-ой, ах, боже мой (выражение тревоги)"
+      translation_en: "Oh no, oh dear (expression of worry)"
+      examples:
+        - kk: "Обалы-ай, не болып жатыр?"
+          ru: "Ой-ой, что происходит?"
+          en: "Oh dear, what's happening?"
+        - kk: "Обалы-ай, ауырып қалды ғой!"
+          ru: "Ой-ой, ведь заболел же!"
+          en: "Oh no, he got sick!"

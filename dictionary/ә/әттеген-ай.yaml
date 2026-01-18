@@ -1,0 +1,27 @@
+- id: 163
+  word: "әттеген-ай"
+  parent_id: 162
+  type: "interjection"
+  relation: "emphatic"
+  transcription: "ætteˈɡen ɑj"
+  latin_2017: "ättegen-ay"
+  latin_2021: "ättegen-ay"
+  latin_my: "ättegen-aî"
+  root_word: "әттең"
+  etymology: "әттең + -еген (усиление) + -ай (восклицание)"
+  history: "Усиленная форма междометия 'әттең' с добавлением '-еген' (причастная форма для усиления) и '-ай' (восклицательная частица). Выражает более сильное удивление, огорчение или разочарование. Аналог русского 'ой-ой-ой', 'ах-ах-ах'."
+  definitions:
+    - meaning: "Күшті таңдану, өкіну білдіретін одағай"
+      translation_ru: "Ой-ой-ой, ах-ах-ах"
+      translation_en: "Oh my, oh no"
+      examples:
+        - kk: "Әттеген-ай, баға төмендеді!"
+          ru: "Ой-ой-ой, цена упала!"
+          en: "Oh no, the price dropped!"
+        - kk: "Әттеген-ай, не болды?"
+          ru: "Ой-ой-ой, что случилось?"
+          en: "Oh my, what happened?"
+  synonyms:
+    - word_id: 162
+      word: "әттең"
+      note: "Базовая форма"

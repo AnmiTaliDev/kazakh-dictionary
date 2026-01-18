@@ -1,0 +1,25 @@
+- id: 158
+  word: "бәсе"
+  parent_id: null
+  type: "particle"
+  transcription: "bæˈse"
+  latin_2017: "bäse"
+  latin_2021: "bäse"
+  latin_my: "bäse"
+  root_word: "бәсе"
+  etymology: "Түркі тілдерінің ортақ қоры"
+  history: "Тюркское усилительное слово, выражающее подтверждение ранее сказанного. Используется для подчёркивания очевидности или правоты говорящего. Аналог русского 'вот видишь', 'ну вот'."
+  definitions:
+    - meaning: "Айтқанның дұрыстығын растайтын демеулік"
+      translation_ru: "Вот видишь, ну вот, так и есть"
+      translation_en: "You see, there you go, I told you so"
+      examples:
+        - kk: "Бәсе, мен не айттым!"
+          ru: "Вот видишь, что я говорил!"
+          en: "There you go, what did I tell you!"
+        - kk: "Бәсе, солай болады ғой."
+          ru: "Ну вот, так и будет же."
+          en: "You see, that's how it will be."
+        - kk: "Бәсе, келді."
+          ru: "Вот, пришёл."
+          en: "There, he came."

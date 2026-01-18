@@ -1,0 +1,25 @@
+- id: 165
+  word: "ой бай"
+  parent_id: null
+  type: "interjection"
+  transcription: "oj bɑj"
+  latin_2017: "oy bay"
+  latin_2021: "oy bay"
+  latin_my: "oî baî"
+  root_word: "ой бай"
+  etymology: "Составное междометие (ой + бай)"
+  history: "Составное междометие из 'ой' (восклицание) и 'бай' (усиление). Выражает удивление, изумление, восхищение или испуг. Распространённое разговорное восклицание в казахском языке. Аналог русского 'ой боже', 'ой мамочки'."
+  definitions:
+    - meaning: "Таңдану, қорқыныш білдіретін одағай"
+      translation_ru: "Ой боже, ой мамочки, ой-ой"
+      translation_en: "Oh my, oh gosh"
+      examples:
+        - kk: "Ой бай, қандай әдемі!"
+          ru: "Ой боже, как красиво!"
+          en: "Oh my, how beautiful!"
+        - kk: "Ой бай, не болды?"
+          ru: "Ой мамочки, что случилось?"
+          en: "Oh gosh, what happened?"
+        - kk: "Ой бай, қорқып кеттім!"
+          ru: "Ой боже, я испугался!"
+          en: "Oh my, I got scared!"

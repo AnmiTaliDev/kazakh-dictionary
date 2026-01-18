@@ -1,0 +1,25 @@
+- id: 161
+  word: "қап"
+  parent_id: null
+  type: "interjection"
+  transcription: "qɑp"
+  latin_2017: "qap"
+  latin_2021: "qap"
+  latin_my: "qap"
+  root_word: "қап"
+  etymology: "Түркі тілдерінің ортақ қоры (звукоподражание)"
+  history: "Тюркское междометие, звукоподражание резкому хватанию или быстрому действию. Используется для выражения внезапности, быстроты действия. Аналог русского 'хвать', 'хватай', 'цап'."
+  definitions:
+    - meaning: "Кенет әрекет білдіретін одағай"
+      translation_ru: "Хватай, цап, быстро"
+      translation_en: "Grab, quick, suddenly"
+      examples:
+        - kk: "Қап, ұстады!"
+          ru: "Хвать, схватил!"
+          en: "Grab, caught it!"
+        - kk: "Қап, кетті."
+          ru: "Цап - и ушёл."
+          en: "Quick - and gone."
+        - kk: "Қап қап!"
+          ru: "Быстро-быстро!"
+          en: "Quick quick!"

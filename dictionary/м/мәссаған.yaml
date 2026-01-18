@@ -1,0 +1,22 @@
+- id: 159
+  word: "мәссаған"
+  parent_id: null
+  type: "interjection"
+  transcription: "mæssɑˈʁɑn"
+  latin_2017: "mässağan"
+  latin_2021: "mässağan"
+  latin_my: "mässağan"
+  root_word: "мәссаған"
+  etymology: "Сложное междометие"
+  history: "Выражение иронии, сарказма или разочарования. Используется когда хотят сказать 'тоже мне', 'вот так', 'ну и дела'. Может выражать презрение, недовольство или удивление негативного характера."
+  definitions:
+    - meaning: "Мазақ, ренжу білдіретін одағай"
+      translation_ru: "Тоже мне, вот так, ну и дела (ирония)"
+      translation_en: "Big deal, so what (sarcastic)"
+      examples:
+        - kk: "Мәссаған, маман екен!"
+          ru: "Тоже мне, специалист нашёлся!"
+          en: "Big deal, some expert you are!"
+        - kk: "Мәссаған, көмек!"
+          ru: "Вот так помощь!"
+          en: "Some help that is!"
