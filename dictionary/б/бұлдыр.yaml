@@ -1,0 +1,21 @@
+- id: 197
+  word: "Бұлдыр"
+  parent_id: null
+  type: "adjective"
+  transcription: "[bʊldɨr]"
+  latin_my: "būldyr"
+  latin_2017: "Búldyr"
+  latin_2021: "Būldyr"
+  root_word: "бұлдыр"
+  etymology: "Common Turkic root."
+  history: ""
+  definitions:
+    - meaning: "анық емес, көмескі"
+      translation_ru: "туманный, неясный, расплывчатый"
+      translation_en: "misty, vague, blurry"
+      examples:
+        - kk: "Бұлдыр көрініс."
+          ru: "Туманный вид."
+          en: "Misty view."
+  synonyms: []
+  antonyms: []

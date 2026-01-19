@@ -1,0 +1,21 @@
+- id: 196
+  word: "Түн пердесі"
+  parent_id: 22
+  type: "phrase"
+  transcription: "/tyn perdesɪ/"
+  latin_my: "tün perdesi"
+  latin_2017: "Tún perdesi"
+  latin_2021: "Tün perdesi"
+  root_word: "түн"
+  etymology: "From 'түн' (night) and 'перде' (curtain, veil)."
+  history: ""
+  definitions:
+    - meaning: "қараңғы түскен кез, түннің басталуы"
+      translation_ru: "наступление темноты, начало ночи"
+      translation_en: "onset of darkness, beginning of night"
+      examples:
+        - kk: "Түн пердесі түсіп, жұлдыздар жарқырады."
+          ru: "Опустилась завеса ночи, и засияли звезды."
+          en: "The veil of night fell, and the stars shone brightly."
+  synonyms: []
+  antonyms: []

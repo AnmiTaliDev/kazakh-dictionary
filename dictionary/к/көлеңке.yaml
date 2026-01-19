@@ -1,0 +1,21 @@
+- id: 195
+  word: "Көлеңке"
+  parent_id: null
+  type: "noun"
+  transcription: "/køleŋke/"
+  latin_my: "köleŋke"
+  latin_2017: "Kóleńke"
+  latin_2021: "Kóleŋke"
+  root_word: "көлеңке"
+  etymology: "Common Turkic root."
+  history: ""
+  definitions:
+    - meaning: "бір нәрсенің күн сәулесі түспейтін жағы, қараңғы жағы"
+      translation_ru: "тень, затемненное место"
+      translation_en: "shadow, shaded place"
+      examples:
+        - kk: "Ағаштың көлеңкесі."
+          ru: "Тень дерева."
+          en: "The shadow of the tree."
+  synonyms: []
+  antonyms: []

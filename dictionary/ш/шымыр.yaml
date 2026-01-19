@@ -1,0 +1,31 @@
+- id: 199
+  word: "Шымыр"
+  parent_id: null
+  type: "adjective"
+  transcription: "/ɕəməɾ/"
+  latin_my: "şymyr"
+  latin_2017: "Shymyr"
+  latin_2021: "Şymyr"
+  root_word: "шымыр"
+  etymology: "Common Turkic root."
+  history: ""
+  definitions:
+    - meaning: "мықты, денесі шымыр адам"
+      translation_ru: "крепкий, здоровый (о человеке), крепыш"
+      translation_en: "strong, robust (about a person), sturdy"
+      examples:
+        - kk: "Шымыр жігіт."
+          ru: "Крепкий парень."
+          en: "A strong young man."
+    - meaning: "қатты, тығыз, берік"
+      translation_ru: "твердый, плотный, крепкий"
+      translation_en: "hard, dense, firm"
+      examples:
+        - kk: "Шымыр мұз."
+          ru: "Крепкий лед."
+          en: "Hard ice."
+        - kk: "Шымыр топырақ."
+          ru: "Плотная почва."
+          en: "Dense soil."
+  synonyms: []
+  antonyms: []

@@ -1,0 +1,21 @@
+- id: 198
+  word: "Салқындық"
+  parent_id: null
+  type: "noun"
+  transcription: "/sɑɫqɨndɨq/"
+  latin_my: "salqyndyq"
+  latin_2017: "Salqyndyq"
+  latin_2021: "Salqyndyq"
+  root_word: "салқындық"
+  etymology: "От слова 'салқын' (прохладный)."
+  history: ""
+  definitions:
+    - meaning: "жеңіл салқын ауа, прохлада"
+      translation_ru: "прохлада, свежесть"
+      translation_en: "coolness, freshness"
+      examples:
+        - kk: "Кешкі салқындық."
+          ru: "Вечерняя прохлада."
+          en: "Evening coolness."
+  synonyms: []
+  antonyms: []

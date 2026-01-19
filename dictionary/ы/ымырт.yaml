@@ -1,0 +1,21 @@
+- id: 193
+  word: "Ымырт"
+  parent_id: null
+  type: "noun"
+  transcription: "[ɯmɯɾt]"
+  latin_my: "ymyrt"
+  latin_2017: "Ymyrt"
+  latin_2021: "Ymyrt"
+  root_word: "ымырт"
+  etymology: "Common Turkic root."
+  history: ""
+  definitions:
+    - meaning: "кешкі қараңғылық, ымырт түсу"
+      translation_ru: "вечерние сумерки, сумрак"
+      translation_en: "evening twilight, dusk"
+      examples:
+        - kk: "Күн батып, ымырт түсті."
+          ru: "Солнце село, наступили сумерки."
+          en: "The sun set, dusk fell."
+  synonyms: []
+  antonyms: []
