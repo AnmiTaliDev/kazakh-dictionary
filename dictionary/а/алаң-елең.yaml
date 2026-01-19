@@ -1,0 +1,24 @@
+- id: 170
+  word: "алаң-елең"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑˈlɑŋ jeleŋ"
+  latin_2017: "alang-eleng"
+  latin_2021: "alañ-eleñ"
+  latin_my: "alaŋ-eleŋ"
+  root_word: "алаң-елең"
+  etymology: "Казахский термин времени суток"
+  history: "Традиционный казахский термин для обозначения раннего предрассветного времени, когда солнце еще не показалось из-за горизонта, но ночная мгла уже начала отступать. Один из многих точных терминов казахов-кочевников для определения времени по положению солнца."
+  definitions:
+    - meaning: "Таң алдындағы уақыт, күн әлі шықпаған, бірақ түн қараңғысы бәсеңдеген"
+      translation_ru: "Предрассветное время, когда солнце еще не показалось, но ночь отступает"
+      translation_en: "Pre-dawn time when the sun hasn't risen yet but night is receding"
+      examples:
+        - kk: "Алаң-елең уақытта жолға шықты."
+          ru: "Вышел в путь в предрассветное время."
+          en: "Set off on the journey at pre-dawn."
+  synonyms:
+    - word_id: null
+      word: "алагөбе"
+    - word_id: null
+      word: "алаң-ғұлаң"

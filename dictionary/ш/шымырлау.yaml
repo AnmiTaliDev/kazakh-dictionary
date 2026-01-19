@@ -1,0 +1,25 @@
+- id: 177
+  word: "шымырлау"
+  parent_id: null
+  type: "verb"
+  transcription: "ʃəmərˈlɑw"
+  latin_2017: "s'ymyrlau"
+  latin_2021: "şymyrlau"
+  latin_my: "şymyrlau"
+  root_word: "шымыр"
+  etymology: "шымыр (быстрый, проворный) + -лау (глагольный суффикс)"
+  history: "Глагол, образованный от основы 'шымыр' (быстрый, проворный) с глагольным суффиксом '-лау'. Описывает быстрое, ловкое, юркое движение - скользить, шмыгать, быстро перемещаться. Часто используется для описания движения мелких животных, детей или воды."
+  definitions:
+    - meaning: "Тез, шапшаң қозғалу, сырғанау"
+      translation_ru: "Шмыгать, юркать, скользить быстро"
+      translation_en: "To dart, to slip, to glide quickly"
+      examples:
+        - kk: "Тышқан қабырғамен шымырлады."
+          ru: "Мышь шмыгнула вдоль стены."
+          en: "The mouse darted along the wall."
+        - kk: "Су шымырлап ағады."
+          ru: "Вода скользит, течёт быстро."
+          en: "Water glides swiftly."
+        - kk: "Бала қашып шымырлады."
+          ru: "Ребёнок юркнул убегая."
+          en: "The child darted away running."

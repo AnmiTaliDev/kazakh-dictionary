@@ -1,0 +1,22 @@
+- id: 171
+  word: "құлан сәрі"
+  parent_id: null
+  type: "noun"
+  transcription: "qʊˈlɑn sæˈrɪ"
+  latin_2017: "qulan säri"
+  latin_2021: "qūlan särı"
+  latin_my: "qūlan särı"
+  root_word: "құлан сәрі"
+  etymology: "Казахский термин времени суток"
+  history: "Традиционный казахский термин рассвета. Буквально связан с образом кулана - дикого степного осла. Обозначает момент, когда над горизонтом появляется краешек солнца, подобно тому как показывается голова кулана из-за холма. Точное время начала восхода солнца."
+  definitions:
+    - meaning: "Күн шығысындағы уақыт, күннің шеті көкжиектен көрінген кез"
+      translation_ru: "Время рассвета, когда краешек солнца появляется над горизонтом"
+      translation_en: "Dawn time when the edge of the sun appears over the horizon"
+      examples:
+        - kk: "Құлан сәрі малды жайылымға айдады."
+          ru: "На рассвете погнал скот на пастбище."
+          en: "At dawn drove the cattle to pasture."
+  synonyms:
+    - word_id: null
+      word: "құлан иек"

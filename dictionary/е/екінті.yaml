@@ -1,0 +1,19 @@
+- id: 181
+  word: "екінті"
+  parent_id: null
+  type: "noun"
+  transcription: "jekɪnˈtɪ"
+  latin_2017: "ekinti"
+  latin_2021: "ekıntı"
+  latin_my: "ekıntı"
+  root_word: "екі"
+  etymology: "екі (два, второй) + -нті"
+  history: "Казахский термин для обозначения послеполуденного, предвечернего времени между бесін (полуднем) и ақшам (вечером). Буквально связано с 'вторым' периодом дня после полудня."
+  definitions:
+    - meaning: "Түстен кейінгі, кешке дейінгі уақыт"
+      translation_ru: "Послеполуденное, предвечернее время, между полуднем и вечером"
+      translation_en: "Post-noon, pre-evening time, between noon and evening"
+      examples:
+        - kk: "Екінтіде демалды."
+          ru: "Послеобеденное время отдохнул."
+          en: "Rested in the afternoon."

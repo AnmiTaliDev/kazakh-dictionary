@@ -1,0 +1,22 @@
+- id: 176
+  word: "қас қарайғанда"
+  parent_id: null
+  type: "idiom"
+  transcription: "qɑs qɑrɑjˈʁɑndɑ"
+  latin_2017: "qas qarayg'anda"
+  latin_2021: "qas qarayğanda"
+  latin_my: "qas qaraîğanda"
+  root_word: "қас"
+  etymology: "қас (бровь) + қарайу (темнеть, чернеть) + -ғанда (когда)"
+  history: "Традиционное казахское выражение для обозначения сумерек. Буквально означает 'когда брови потемнели' - то есть когда становится так темно, что уже не различаешь брови на лице человека. Поэтическое описание того момента, когда день переходит в ночь, вечерних сумерек."
+  definitions:
+    - meaning: "Кешкі қараңғы түскен кез"
+      translation_ru: "Сумерки, когда стемнело (буквально: когда брови потемнели)"
+      translation_en: "Twilight, dusk (literally: when eyebrows darkened)"
+      examples:
+        - kk: "Қас қарайғанда үйге оралды."
+          ru: "Вернулся домой в сумерках."
+          en: "Returned home at twilight."
+        - kk: "Қас қарайғанда жол жүрме."
+          ru: "Не ходи в пути в сумерках."
+          en: "Don't travel at dusk."

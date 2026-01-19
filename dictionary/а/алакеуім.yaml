@@ -1,0 +1,24 @@
+- id: 179
+  word: "алакеуім"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑlɑkewˈɪm"
+  latin_2017: "alakeuim"
+  latin_2021: "alakeuim"
+  latin_my: "alakeûım"
+  root_word: "алакеуім"
+  etymology: "Казахский термин времени суток"
+  history: "Традиционный казахский термин для обозначения времени когда солнце садится за горизонт и наступают сумерки. Важное время дня в традиционной культуре кочевников, знаменующее окончание дневной работы и начало вечера."
+  definitions:
+    - meaning: "Күн батқан кездегі уақыт, кешкі алақаран"
+      translation_ru: "Время когда солнце садится, сумерки"
+      translation_en: "Time when the sun sets, twilight"
+      examples:
+        - kk: "Алакеуім малды үйге айдады."
+          ru: "В сумерках погнал скот домой."
+          en: "At twilight drove the cattle home."
+  synonyms:
+    - word_id: null
+      word: "ымырт"
+    - word_id: null
+      word: "ақшам"

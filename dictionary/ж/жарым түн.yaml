@@ -1,0 +1,22 @@
+- id: 182
+  word: "жарым түн"
+  parent_id: null
+  type: "noun"
+  transcription: "ʒɑˈrəm tʏn"
+  latin_2017: "jarym tun"
+  latin_2021: "jarym tün"
+  latin_my: "jarym tün"
+  root_word: "жарым"
+  etymology: "жарым (половина) + түн (ночь)"
+  history: "Буквально означает 'половина ночи', то есть середина ночного времени между заходом и восходом солнца. Традиционный казахский термин для обозначения полуночи."
+  definitions:
+    - meaning: "Түннің ортасы, түн жарымы"
+      translation_ru: "Середина ночи, полночь"
+      translation_en: "Middle of the night, midnight"
+      examples:
+        - kk: "Жарым түнде оянды."
+          ru: "Проснулся в полночь."
+          en: "Woke up at midnight."
+        - kk: "Жарым түнге дейін оқыды."
+          ru: "Учился до полуночи."
+          en: "Studied until midnight."
