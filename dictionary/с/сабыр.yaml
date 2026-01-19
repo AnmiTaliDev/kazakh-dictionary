@@ -1,0 +1,21 @@
+- id: 186
+  word: "Сабыр"
+  parent_id: null
+  type: "noun"
+  transcription: "/sɑˈβɯr/"
+  latin_my: "sabyr"
+  latin_2017: "Sabyr"
+  latin_2021: "Sabyr"
+  root_word: "сабыр"
+  etymology: "From Arabic 'صَبْر' (ṣabr)."
+  history: "Borrowed from Arabic."
+  definitions:
+    - meaning: "шыдамдылық, төзімділік"
+      translation_ru: "терпение, сдержанность, спокойствие"
+      translation_en: "patience, endurance, calmness"
+      examples:
+        - kk: "Сабыр түбі - сары алтын."
+          ru: "Терпение - золото."
+          en: "Patience is golden."
+  synonyms: []
+  antonyms: []

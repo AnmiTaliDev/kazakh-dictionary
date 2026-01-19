@@ -1,0 +1,21 @@
+- id: 190
+  word: "мұң"
+  parent_id: null
+  type: "noun"
+  transcription: "/mʊŋ/"
+  latin_my: "mūŋ"
+  latin_2017: "Muń"
+  latin_2021: "Muŋ"
+  root_word: "мұң"
+  etymology: "Common Turkic root."
+  history: ""
+  definitions:
+    - meaning: "терең қайғы, күйініш"
+      translation_ru: "меланхолия, грусть, печаль"
+      translation_en: "melancholy, sadness, sorrow"
+      examples:
+        - kk: "Жүрегімді мұң басты."
+          ru: "Мое сердце охватила печаль."
+          en: "Sadness filled my heart."
+  synonyms: []
+  antonyms: []

@@ -1,0 +1,21 @@
+- id: 183
+  word: "Оңашалану"
+  parent_id: 189
+  type: "verb"
+  transcription: "[oŋɑɕɑlɑˈnʊw]"
+  latin_2017: "Ońashalanu"
+  latin_2021: "Oŋaşalanu"
+  latin_my: "oŋaşalanu"
+  root_word: "оңаша"
+  etymology: "From 'оңаша' (private, secluded), implying a state of becoming private."
+  history: ""
+  definitions:
+    - meaning: "оқшаулану, бөлектену, жалғыз қалу немесе жекелену"
+      translation_ru: "уединяться, уединиться, обособляться, обособиться"
+      translation_en: "to be isolated, to become secluded, to be alone"
+      examples:
+        - kk: "Ол жұрттан оңашаланып қалды."
+          ru: "Он остался в уединении от людей."
+          en: "He became secluded from people."
+  synonyms: []
+  antonyms: []

@@ -1,0 +1,21 @@
+- id: 191
+  word: "Мұңды"
+  parent_id: 190
+  type: "adjective"
+  transcription: "[mʊŋdə]"
+  latin_my: "mūŋdy"
+  latin_2017: "Muńdy"
+  latin_2021: "Muŋdy"
+  root_word: "мұң"
+  etymology: "From 'мұң' (sadness)."
+  history: ""
+  definitions:
+    - meaning: "қайғылы, көңілсіз"
+      translation_ru: "печальный, грустный, меланхоличный"
+      translation_en: "sad, melancholic, sorrowful"
+      examples:
+        - kk: "Ол мұңды ән тыңдады."
+          ru: "Он слушал грустную песню."
+          en: "He listened to a sad song."
+  synonyms: []
+  antonyms: []

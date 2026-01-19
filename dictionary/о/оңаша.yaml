@@ -1,0 +1,21 @@
+- id: 189
+  word: "Оңаша"
+  parent_id: null
+  type: "adjective"
+  transcription: "/oŋɑˈɕɑ/"
+  latin_my: "oŋaşa"
+  latin_2017: "Ońasha"
+  latin_2021: "Oŋaşa"
+  root_word: "оңаша"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "жеке, бөлек"
+      translation_ru: "уединенный, частный, приватный"
+      translation_en: "secluded, private"
+      examples:
+        - kk: "Оңаша бөлмеде отырды."
+          ru: "Он сидел в уединенной комнате."
+          en: "He sat in a secluded room."
+  synonyms: []
+  antonyms: []

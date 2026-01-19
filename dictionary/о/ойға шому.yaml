@@ -1,0 +1,21 @@
+- id: 184
+  word: "Ойға шому"
+  parent_id: 87
+  type: "phrase"
+  transcription: "[ojʁa ɕomu]"
+  latin_2017: "Oıǵa shomý"
+  latin_2021: "Oığa şomu"
+  latin_my: "oîğa şomu"
+  root_word: "ой"
+  etymology: "Phrase from 'ой' (thought) and 'шому' (to dive), literally 'to dive into thought'."
+  history: ""
+  definitions:
+    - meaning: "терең ойға бату, ойлану"
+      translation_ru: "погружение в мысли, задумчивость"
+      translation_en: "immersion in thoughts, thoughtfulness"
+      examples:
+        - kk: "Ол терезеге қарап, ойға шомды."
+          ru: "Он смотрел в окно, погрузившись в мысли."
+          en: "He looked out the window, immersed in thought."
+  synonyms: []
+  antonyms: []

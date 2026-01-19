@@ -1,0 +1,21 @@
+- id: 185
+  word: "Сырласу"
+  parent_id: 95
+  type: "verb"
+  transcription: "/sərlɑˈsu/"
+  latin_2017: "Syrlasý"
+  latin_2021: "Syrlasw"
+  latin_my: "syrlasu"
+  root_word: "сыр"
+  etymology: "From 'сыр' (secret), verb for sharing secrets."
+  history: ""
+  definitions:
+    - meaning: "құпия ойлармен, сезімдермен бөлісу"
+      translation_ru: "делиться секретами, вести сокровенную беседу"
+      translation_en: "to share secrets, to have a heart-to-heart talk"
+      examples:
+        - kk: "Екі дос ұзақ сырласты."
+          ru: "Два друга долго беседовали по душам."
+          en: "The two friends had a long heart-to-heart talk."
+  synonyms: []
+  antonyms: []

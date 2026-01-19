@@ -1,0 +1,21 @@
+- id: 188
+  word: "Аңсау"
+  parent_id: null
+  type: "verb"
+  transcription: "/aɴsaw/"
+  latin_my: "aŋsau"
+  latin_2017: "Ańsaý"
+  latin_2021: "Aŋsaw"
+  root_word: "аңсау"
+  etymology: "Common Turkic root."
+  history: ""
+  definitions:
+    - meaning: "бір нәрсені қатты қалау, зарығу"
+      translation_ru: "сильно желать, тосковать, страстно стремиться"
+      translation_en: "to long for, to yearn for, to crave"
+      examples:
+        - kk: "Ол туған жерін аңсады."
+          ru: "Он тосковал по своей родной земле."
+          en: "He longed for his homeland."
+  synonyms: []
+  antonyms: []

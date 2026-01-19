@@ -1,0 +1,21 @@
+- id: 192
+  word: "Мұңайып отыру"
+  parent_id: 190
+  type: "phrase"
+  transcription: "/mʊŋɑjəp otəɾu/"
+  latin_my: "mūŋaiyp otyru"
+  latin_2017: "Muńaıyp otyrý"
+  latin_2021: "Muŋaiyp otyrw"
+  root_word: "мұң"
+  etymology: "From 'мұң' (sadness), a phrase describing the state of being sad."
+  history: ""
+  definitions:
+    - meaning: "көңілсіз, ойға батып отыру"
+      translation_ru: "сидеть в меланхоличном настроении, грустить"
+      translation_en: "to sit in a melancholic mood, to be sad"
+      examples:
+        - kk: "Ол терезе алдында мұңайып отыр."
+          ru: "Он сидит у окна в печали."
+          en: "He is sitting by the window in a melancholic mood."
+  synonyms: []
+  antonyms: []

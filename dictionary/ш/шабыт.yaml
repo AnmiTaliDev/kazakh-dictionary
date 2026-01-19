@@ -1,0 +1,21 @@
+- id: 187
+  word: "Шабыт"
+  parent_id: null
+  type: "noun"
+  transcription: "/ɕɑbɯt/"
+  latin_my: "şabyt"
+  latin_2017: "Shabyt"
+  latin_2021: "Şabyt"
+  root_word: "шабыт"
+  etymology: "From Arabic 'شوق' (šawq) meaning 'longing, desire'."
+  history: "Borrowed from Arabic."
+  definitions:
+    - meaning: "шығармашылық күй, рухтану"
+      translation_ru: "вдохновение, воодушевление"
+      translation_en: "inspiration, enthusiasm"
+      examples:
+        - kk: "Ақынға шабыт келді."
+          ru: "К поэту пришло вдохновение."
+          en: "Inspiration came to the poet."
+  synonyms: []
+  antonyms: []
