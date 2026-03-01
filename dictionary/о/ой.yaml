@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "oj"
-  latin_2017: "oy"
-  latin_2021: "oy"
-  latin_my: "oî"
+  writing_systems:
+    latin_2017: "oy"
+    latin_2021: "oy"
+    latin_my: "oî"
   root_word: "ой"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'oy/uy' түрінде келген. Түркі тілдерінде: түрік 'düşünce', өзб. 'o'y/fikr', тат. 'уй', әзірб. 'fikir', қырғ. 'ой'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Ақыл-ой жұмысының нәтижесі"
       translation_ru: "Мысль, идея"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɪˈnɪ"
-  latin_2017: "ini"
-  latin_2021: "ini"
-  latin_my: "ını"
+  writing_systems:
+    latin_2017: "ini"
+    latin_2021: "ini"
+    latin_my: "ını"
   root_word: "іні"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'ini' түрінде келген. Барлық түркі тілдерінде бар: түрік 'küçük kardeş', өзб. 'uka', тат. 'кече', әзірб. 'kiçik qardaş', қырғ. 'ини'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Кіші ер сіңлісі"
       translation_ru: "Младший брат"

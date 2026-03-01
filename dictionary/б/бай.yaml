@@ -3,12 +3,13 @@
   parent_id: null
   type: "adjective"
   transcription: "bɑj"
-  latin_2017: "bay"
-  latin_2021: "bay"
-  latin_my: "baî"
+  writing_systems:
+    latin_2017: "bay"
+    latin_2021: "bay"
+    latin_my: "baî"
   root_word: "бай"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'bay' түрінде келген. Түркі тілдерінде: түрік 'zengin/bay', өзб. 'boy', тат. 'бай', әзірб. 'zəngin/bay', қырғ. 'бай'. Көшпелі қазақтарда малы көп адам 'бай' аталған."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Мүлкі көп, дәулетті"
       translation_ru: "Богатый, зажиточный"

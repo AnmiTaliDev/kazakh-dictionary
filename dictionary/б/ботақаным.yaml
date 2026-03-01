@@ -4,12 +4,13 @@
   type: "noun"
   relation: "diminutive_endearment"
   transcription: "botɑqɑˈnəm"
-  latin_2017: "botaqanym"
-  latin_2021: "botaqanym"
-  latin_my: "botaqanym"
+  writing_systems:
+    latin_2017: "botaqanym"
+    latin_2021: "botaqanym"
+    latin_my: "botaqanym"
   root_word: "бота"
-  etymology: "бота (верблюжонок) + -қан (уменьшительный суффикс) + -ым (притяжательный суффикс 1-го лица)"
-  history: "Образовано от 'бота' (верблюжонок) с уменьшительно-ласкательным суффиксом '-қан' и притяжательным суффиксом '-ым' (мой). Усиленная форма нежности от 'ботам', выражает ещё большую нежность, заботу и привязанность. Часто используется по отношению к маленьким детям."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Балаға аса мейірімді қаратылатын сөз"
       translation_ru: "Мой верблюжоночек (очень ласковое обращение)"

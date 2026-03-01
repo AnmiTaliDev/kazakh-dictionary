@@ -3,11 +3,12 @@
   parent_id: null
   type: "adjective"
   transcription: "/ɕəməɾ/"
-  latin_my: "şymyr"
-  latin_2017: "Shymyr"
-  latin_2021: "Şymyr"
+  writing_systems:
+    latin_2017: "Shymyr"
+    latin_2021: "Şymyr"
+    latin_my: "şymyr"
   root_word: "шымыр"
-  etymology: "Common Turkic root."
+  etymology: ""
   history: ""
   definitions:
     - meaning: "мықты, денесі шымыр адам"

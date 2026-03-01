@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ʊl"
-  latin_2017: "ul"
-  latin_2021: "ul"
-  latin_my: "ūl"
+  writing_systems:
+    latin_2017: "ul"
+    latin_2021: "ul"
+    latin_my: "ūl"
   root_word: "ұл"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'oğul/ul' түрінде келген. Барлық түркі тілдерінде бар: түрік 'oğul', өзб. 'o'g'il', тат. 'ул', әзірб. 'oğul', қырғ. 'уул'. Орхон-Енисей жазбаларында 'oğul' деп жазылған."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Ер жыныстағы бала"
       translation_ru: "Сын, мальчик"

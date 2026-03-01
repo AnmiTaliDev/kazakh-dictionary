@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "kʏˈjew"
-  latin_2017: "küyeu"
-  latin_2021: "küyeu"
-  latin_my: "küîeu"
+  writing_systems:
+    latin_2017: "küyeu"
+    latin_2021: "küyeu"
+    latin_my: "küîeu"
   root_word: "күйеу"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'küyev/güvey' түрінде келген. Түрік 'damat/güvey', өзб. 'kuyov', тат. 'кияү', әзірб. 'kürəkən', қырғ. 'күйөө'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Әйелдің ері"
       translation_ru: "Муж"

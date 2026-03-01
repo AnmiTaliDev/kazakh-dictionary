@@ -3,12 +3,13 @@
   parent_id: null
   type: "particle"
   transcription: "bæˈse"
-  latin_2017: "bäse"
-  latin_2021: "bäse"
-  latin_my: "bäse"
+  writing_systems:
+    latin_2017: "bäse"
+    latin_2021: "bäse"
+    latin_my: "bäse"
   root_word: "бәсе"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Тюркское усилительное слово, выражающее подтверждение ранее сказанного. Используется для подчёркивания очевидности или правоты говорящего. Аналог русского 'вот видишь', 'ну вот'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Айтқанның дұрыстығын растайтын демеулік"
       translation_ru: "Вот видишь, ну вот, так и есть"

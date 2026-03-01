@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɑˈʁɑ"
-  latin_2017: "ağa"
-  latin_2021: "ağa"
-  latin_my: "ağa"
+  writing_systems:
+    latin_2017: "ağa"
+    latin_2021: "ağa"
+    latin_my: "ağa"
   root_word: "аға"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'aγa' (ересек ер адам, ақылман) түрінде келген. Барлық түркі тілдерінде кездеседі: түрік ağa (ағасы), өзб. aka, тат. ага, әзірб. ağa. Монғол тілінде 'axa' (аға) түрінде өткен."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Әкенің баласы, ер сіңлісі"
       translation_ru: "Старший брат"

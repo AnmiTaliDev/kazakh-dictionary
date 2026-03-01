@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "køˈŋɪl"
-  latin_2017: "köñil"
-  latin_2021: "köñil"
-  latin_my: "köŋıl"
+  writing_systems:
+    latin_2017: "köñil"
+    latin_2021: "köñil"
+    latin_my: "köŋıl"
   root_word: "көңіл"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі 'köŋül/gönül' түрінде келген. Түрік 'gönül'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Жан-дүние, сезім"
       translation_ru: "Настроение, душа, сердце"

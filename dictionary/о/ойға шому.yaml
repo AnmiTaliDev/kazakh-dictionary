@@ -3,11 +3,12 @@
   parent_id: 87
   type: "phrase"
   transcription: "[ojʁa ɕomu]"
-  latin_2017: "Oıǵa shomý"
-  latin_2021: "Oığa şomu"
-  latin_my: "oîğa şomu"
+  writing_systems:
+    latin_2017: "Oıǵa shomý"
+    latin_2021: "Oığa şomu"
+    latin_my: "oîğa şomu"
   root_word: "ой"
-  etymology: "Phrase from 'ой' (thought) and 'шому' (to dive), literally 'to dive into thought'."
+  etymology: ""
   history: ""
   definitions:
     - meaning: "терең ойға бату, ойлану"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "jes"
-  latin_2017: "es"
-  latin_2021: "es"
-  latin_my: "es"
+  writing_systems:
+    latin_2017: "es"
+    latin_2021: "es"
+    latin_my: "es"
   root_word: "ес"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'es/is' түрінде келген. Түркі тілдерінде: түрік 'akıl/us', өзб. 'es/ong', тат. 'ис', әзірб. 'ağıl', қырғ. 'эс'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Санада сақтау қабілеті"
       translation_ru: "Память, сознание"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "adverb"
   transcription: "ʒɑj"
-  latin_2017: "jay"
-  latin_2021: "jay"
-  latin_my: "jaî"
+  writing_systems:
+    latin_2017: "jay"
+    latin_2021: "jay"
+    latin_my: "jaî"
   root_word: "жай"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі 'yay/jay' түрінде келген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Қарапайым түрде"
       translation_ru: "Просто, тихо, медленно"

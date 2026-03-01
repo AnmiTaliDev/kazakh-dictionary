@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "dɑˈwəs"
-  latin_2017: "dauys"
-  latin_2021: "dauys"
-  latin_my: "dauys"
+  writing_systems:
+    latin_2017: "dauys"
+    latin_2021: "dauys"
+    latin_my: "dauys"
   root_word: "дауыс"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен 'tawuş/davış' түрінде келген. Түркі тілдерінде: түрік 'ses', өзб. 'ovoz', тат. 'тавыш', әзірб. 'səs', қырғ. 'добуш/үн'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Адамның сөйлеу дыбысы"
       translation_ru: "Голос"

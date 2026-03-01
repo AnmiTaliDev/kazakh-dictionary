@@ -3,12 +3,13 @@
   parent_id: null
   type: "adverb"
   transcription: "keʃ"
-  latin_2017: "keş"
-  latin_2021: "keş"
-  latin_my: "keş"
+  writing_systems:
+    latin_2017: "keş"
+    latin_2021: "keş"
+    latin_my: "keş"
   root_word: "кеш"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'keč' түрінде келген. Түркі тілдерінде: түрік 'geç', өзб. 'kech', тат. 'кич', әзірб. 'gec', қырғ. 'кеч'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Белгілі уақыттан кейін"
       translation_ru: "Поздно"

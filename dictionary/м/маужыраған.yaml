@@ -3,12 +3,13 @@
   parent_id: null
   type: "adjective"
   transcription: "mɑwʒərɑˈʁɑn"
-  latin_2017: "maujyragan"
-  latin_2021: "maujyrağan"
-  latin_my: "maûjyrağan"
+  writing_systems:
+    latin_2017: "maujyragan"
+    latin_2021: "maujyrağan"
+    latin_my: "maûjyrağan"
   root_word: "мауыж"
-  etymology: "мауыж (волна, бурление) + -ыра (суффикс) + -ған (причастие)"
-  history: "Образовано от корня 'мауыж' (волна, бурление, волнение) через глагол 'маужырау' (бурлить, волноваться) в форме причастия прошедшего времени. Описывает состояние бурления, волнения, кипения - как воды, так и эмоций. Богатое поэтическое слово для описания динамичного, бурного состояния."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Толқып, қайнап тұрған"
       translation_ru: "Бурлящий, волнующийся, кипящий"

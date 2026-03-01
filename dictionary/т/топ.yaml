@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "top"
-  latin_2017: "top"
-  latin_2021: "top"
-  latin_my: "top"
+  writing_systems:
+    latin_2017: "top"
+    latin_2021: "top"
+    latin_my: "top"
   root_word: "топ"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі 'top' (жиын, топтама) түрінде келген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Адамдар немесе заттардың жиынтығы"
       translation_ru: "Группа"

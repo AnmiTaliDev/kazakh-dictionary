@@ -3,13 +3,14 @@
   parent_id: 118
   type: "noun"
   transcription: "ɑwtorˈlɑs"
-  latin_2017: "autorlas"
-  latin_2021: "autorlas"
-  latin_my: "autorlas"
+  writing_systems:
+    latin_2017: "autorlas"
+    latin_2021: "autorlas"
+    latin_my: "autorlas"
   root_word: "автор"
   relation: "co-author"
-  etymology: "автор + -лас (суффикс совместности)"
-  history: "Қазақ тілінде 'автор' сөзіне '-лас/-лес' (бірге істеу мағынасындағы жұрнақ) қосылып жасалған. Осы жұрнақ 'жолдас', 'серіктес' сияқты сөздерде де қолданылады."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Бірге жазатын автор"
       translation_ru: "Соавтор"

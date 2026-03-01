@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "kʏʃ"
-  latin_2017: "küş"
-  latin_2021: "küş"
-  latin_my: "küş"
+  writing_systems:
+    latin_2017: "küş"
+    latin_2021: "küş"
+    latin_my: "küş"
   root_word: "күш"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі 'küç/güç' түрінде келген. Түрік 'güç'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Қуат, қуаттылық"
       translation_ru: "Сила"

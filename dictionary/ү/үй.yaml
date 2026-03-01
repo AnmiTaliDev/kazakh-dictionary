@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ʏj"
-  latin_2017: "üy"
-  latin_2021: "üy"
-  latin_my: "üî"
+  writing_systems:
+    latin_2017: "üy"
+    latin_2021: "üy"
+    latin_my: "üî"
   root_word: "үй"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'ev/üy' түрінде келген. Түркі тілдерінде: түрік 'ev', өзб. 'uy', тат. 'өй', әзірб. 'ev', қырғ. 'үй'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Адамдар тұратын ғимарат"
       translation_ru: "Дом"

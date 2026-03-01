@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "qʊˈdɑj"
-  latin_2017: "quday"
-  latin_2021: "quday"
-  latin_my: "qūdaî"
+  writing_systems:
+    latin_2017: "quday"
+    latin_2021: "quday"
+    latin_my: "qūdaî"
   root_word: "құдай"
-  etymology: "Түркі-монғол тілдерінен"
-  history: "Көне түркі 'quday/koday' түрінде келген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Жаратушы, Алла"
       translation_ru: "Бог"

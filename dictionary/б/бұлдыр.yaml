@@ -3,11 +3,12 @@
   parent_id: null
   type: "adjective"
   transcription: "[bʊldɨr]"
-  latin_my: "būldyr"
-  latin_2017: "Búldyr"
-  latin_2021: "Būldyr"
+  writing_systems:
+    latin_2017: "Búldyr"
+    latin_2021: "Būldyr"
+    latin_my: "būldyr"
   root_word: "бұлдыр"
-  etymology: "Common Turkic root."
+  etymology: ""
   history: ""
   definitions:
     - meaning: "анық емес, көмескі"

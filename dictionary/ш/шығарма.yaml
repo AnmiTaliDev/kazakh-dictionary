@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ʃəʁɑrˈmɑ"
-  latin_2017: "şyğarma"
-  latin_2021: "şyğarma"
-  latin_my: "şyğarma"
+  writing_systems:
+    latin_2017: "şyğarma"
+    latin_2021: "şyğarma"
+    latin_my: "şyğarma"
   root_word: "шық"
-  etymology: "шық (выходить) + -арма"
-  history: "Түркі 'шық-' (шығу, туу) етістігінен '-арма' жұрнағымен жасалған. 'Шығарылған, жаратылған нәрсе' мағынасын білдіреді. Түркі тілдерінде көбінесе 'шығарма, туынды' деп аталады."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Әдеби немесе ғылыми жазба"
       translation_ru: "Сочинение, произведение"

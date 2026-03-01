@@ -3,12 +3,13 @@
   parent_id: null
   type: "adjective"
   transcription: "mʲejɪrɪmˈdɪ"
-  latin_2017: "meyirimdi"
-  latin_2021: "meyirimdi"
-  latin_my: "meîırımdı"
+  writing_systems:
+    latin_2017: "meyirimdi"
+    latin_2021: "meyirimdi"
+    latin_my: "meîırımdı"
   root_word: "мейір"
-  etymology: "мейір (милость, милосердие) + -імді (суффикс прилагательного)"
-  history: "Образовано от арабского заимствования 'мейір' (از محبت - mahabbat, милость) с казахским суффиксом -імді, обозначающим наличие качества."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Жанашырлық танытатын, қамқор"
       translation_ru: "Добрый, милосердный, заботливый"

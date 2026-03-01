@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "qɑˈzɑq"
-  latin_2017: "qazaq"
-  latin_2021: "qazaq"
-  latin_my: "qazaq"
+  writing_systems:
+    latin_2017: "qazaq"
+    latin_2021: "qazaq"
+    latin_my: "qazaq"
   root_word: "қазақ"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Сөздің шығу тегі туралы бірнеше теория бар: 1) 'qaz' (кезу, жорық жасау) + 'aq' (еркін, тәуелсіз) = еркін адам. 2) 'қаз-ақ' - ақ қаз, ақ құс. 15 ғасырда Жәнібек және Керей сұлтандар өз халқын 'қазақ' деп атаған. Өзб. 'qozoq', тат. 'казак', орыс. 'казах'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Қазақстанның негізгі халқы"
       translation_ru: "Казах"

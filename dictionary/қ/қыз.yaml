@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "qəz"
-  latin_2017: "qyz"
-  latin_2021: "qyz"
-  latin_my: "qyz"
+  writing_systems:
+    latin_2017: "qyz"
+    latin_2021: "qyz"
+    latin_my: "qyz"
   root_word: "қыз"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'qız' түрінде келген. Барлық түркі тілдерінде бар: түрік 'kız', өзб. 'qiz', тат. 'кыз', әзірб. 'qız', қырғ. 'кыз'. Орхон-Енисей жазбаларында кездеседі."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Аналық жыныстағы бала"
       translation_ru: "Девочка"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "tʏs"
-  latin_2017: "tüs"
-  latin_2021: "tüs"
-  latin_my: "tüs"
+  writing_systems:
+    latin_2017: "tüs"
+    latin_2021: "tüs"
+    latin_my: "tüs"
   root_word: "түс"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен. Үш негізгі мағынасы бар."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Ұйқыдағы көрініс"
       translation_ru: "Сон"

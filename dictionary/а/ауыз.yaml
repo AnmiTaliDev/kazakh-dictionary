@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɑˈwəz"
-  latin_2017: "auyz"
-  latin_2021: "auyz"
-  latin_my: "auyz"
+  writing_systems:
+    latin_2017: "auyz"
+    latin_2021: "auyz"
+    latin_my: "auyz"
   root_word: "ауыз"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'ağız/awız' түрінде келген. Барлық түркі тілдерінде бар: түрік 'ağız', өзб. 'og'iz', тат. 'авыз', әзірб. 'ağız', қырғ. 'ооз'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Тамақ ішетін, сөйлейтін мүше"
       translation_ru: "Рот"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "æˈjel"
-  latin_2017: "äyel"
-  latin_2021: "äyel"
-  latin_my: "äîel"
+  writing_systems:
+    latin_2017: "äyel"
+    latin_2021: "äyel"
+    latin_my: "äîel"
   root_word: "әйел"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'evli/eyli' (үйленген, отбасылы) түрінен шыққан деген пікір бар. Түркі тілдерінде: түрік 'kadın', өзб. 'ayol', тат. 'хатын', әзірб. 'qadın', қырғ. 'аял'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Ересек адамның аналық жағы"
       translation_ru: "Женщина"

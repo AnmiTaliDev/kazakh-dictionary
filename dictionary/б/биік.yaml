@@ -3,12 +3,13 @@
   parent_id: null
   type: "adjective"
   transcription: "bɪˈjɪk"
-  latin_2017: "biyik"
-  latin_2021: "biyik"
-  latin_my: "biîık"
+  writing_systems:
+    latin_2017: "biyik"
+    latin_2021: "biyik"
+    latin_my: "biîık"
   root_word: "биік"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен 'buyuk/büyük' (үлкен, биік) түбірінен шыққан. Түркі тілдерінде: түрік 'yüksek', өзб. 'baland', тат. 'биек', әзірб. 'hündür', қырғ. 'бийик'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Ұзындығы көп, жоғары"
       translation_ru: "Высокий"

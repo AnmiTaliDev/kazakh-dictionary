@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "qəmbɑtˈtəm"
-  latin_2017: "qymbattym"
-  latin_2021: "qymbattym"
-  latin_my: "qymbattym"
+  writing_systems:
+    latin_2017: "qymbattym"
+    latin_2021: "qymbattym"
+    latin_my: "qymbattym"
   root_word: "қымбат"
-  etymology: "қымбат (дорогой, ценный) + -тым (притяжательный суффикс 1-го лица)"
-  history: "Образовано от 'қымбат' (дорогой, драгоценный, ценный) с притяжательным суффиксом '-тым' (мой). Прямое выражение ценности и дороговизны любимого человека. Универсальное обращение, подходящее для любого близкого и дорогого человека."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Өте құнды адамға мейірім білдіретін сөз"
       translation_ru: "Мой дорогой/моя дорогая (ласковое обращение)"

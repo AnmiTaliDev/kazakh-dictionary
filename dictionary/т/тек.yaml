@@ -3,12 +3,13 @@
   parent_id: null
   type: "adverb"
   transcription: "tek"
-  latin_2017: "tek"
-  latin_2021: "tek"
-  latin_my: "tek"
+  writing_systems:
+    latin_2017: "tek"
+    latin_2021: "tek"
+    latin_my: "tek"
   root_word: "тек"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі 'tek' түрінде келген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Бекер, еш нәтижесіз"
       translation_ru: "Зря, напрасно"

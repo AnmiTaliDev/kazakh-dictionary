@@ -1,0 +1,22 @@
+- id: 211
+  word: "Қолжетімділік"
+  parent_id: null
+  type: "noun"
+  transcription: "/qolʒetɪmdɪˈlɪk/"
+  writing_systems:
+    latin_2017: "Qoljetimdilik"
+    latin_2021: "Qoljetimdilik"
+    latin_my: "qoljetımdılık"
+  root_word: "қолжетімділік"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "ресурстарға немесе ақпаратқа қол жеткізу мүмкіндігі"
+      translation_ru: "доступность, права доступа"
+      translation_en: "accessibility, access rights"
+      examples:
+        - kk: "Файлға қолжетімділік."
+          ru: "Доступность файла."
+          en: "File accessibility."
+  synonyms: []
+  antonyms: []

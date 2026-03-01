@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "nemeˈre"
-  latin_2017: "nemere"
-  latin_2021: "nemere"
-  latin_my: "nemere"
+  writing_systems:
+    latin_2017: "nemere"
+    latin_2021: "nemere"
+    latin_my: "nemere"
   root_word: "немере"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен 'nemere' түрінде келген. Түрік 'torun', өзб. 'nevara', тат. 'оныклар', әзірб. 'nəvə', қырғ. 'небере'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Баланың баласы"
       translation_ru: "Внук, внучка"

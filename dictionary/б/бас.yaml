@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "bɑs"
-  latin_2017: "bas"
-  latin_2021: "bas"
-  latin_my: "bas"
+  writing_systems:
+    latin_2017: "bas"
+    latin_2021: "bas"
+    latin_my: "bas"
   root_word: "бас"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'baş' түрінде келген. Барлық түркі тілдерінде бар: түрік 'baş', өзб. 'bosh', тат. 'баш', әзірб. 'baş', қырғ. 'баш'. Орхон-Енисей жазбаларында кездеседі."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Адам немесе жануардың мойынның үстіңгі бөлігі"
       translation_ru: "Голова"

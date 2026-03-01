@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "qɑˈjən"
-  latin_2017: "qayyn"
-  latin_2021: "qayyn"
-  latin_my: "qaîyn"
+  writing_systems:
+    latin_2017: "qayyn"
+    latin_2021: "qayyn"
+    latin_my: "qaîyn"
   root_word: "қайын"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен 'qayın' (күйеудің немесе келіннің туыстары) түрінде келген. Түрік 'kayın', өзб. 'qayin', тат. 'кайын', қырғ. 'кайын'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Күйеу немесе келіннің туыстары"
       translation_ru: "Родственники супруга/супруги"

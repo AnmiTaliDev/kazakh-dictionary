@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɑwˈtor"
-  latin_2017: "autor"
-  latin_2021: "autor"
-  latin_my: "autor"
+  writing_systems:
+    latin_2017: "autor"
+    latin_2021: "autor"
+    latin_my: "autor"
   root_word: "автор"
-  etymology: "Латын тілінен (еуропа тілдері арқылы)"
-  history: "Латын тілінің 'auctor' (жаратушы, автор) сөзінен шыққан. Орыс тілі арқылы қазақ тіліне енген. Барлық еуропа тілдерінде бар: ағылш. 'author', нем. 'Autor', фр. 'auteur'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Шығарманың жазушысы, жаратушысы"
       translation_ru: "Автор"

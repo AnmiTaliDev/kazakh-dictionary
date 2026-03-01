@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "æˈʒe"
-  latin_2017: "äje"
-  latin_2021: "äje"
-  latin_my: "äje"
+  writing_systems:
+    latin_2017: "äje"
+    latin_2021: "äje"
+    latin_my: "äje"
   root_word: "әже"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен 'eje/äje' түрінде келген. Түрік тілінде 'büyükanne', өзб. 'buvi', тат. 'әби', әзірб. 'nənə', қырғ. 'эже/чоң эне'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Әкенің немесе ананың анасы"
       translation_ru: "Бабушка"

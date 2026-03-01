@@ -1,0 +1,22 @@
+- id: 210
+  word: "Үлестіру"
+  parent_id: null
+  type: "noun"
+  transcription: "[ʏlestɪɾu]"
+  writing_systems:
+    latin_2017: "Úlestirý"
+    latin_2021: "Úlestirý"
+    latin_my: "ülestiru"
+  root_word: "үлес"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "ресурстарды немесе тапсырмаларды тарату"
+      translation_ru: "распределение (ресурсов, задач)"
+      translation_en: "distribution (of resources, tasks)"
+      examples:
+        - kk: "Жүктемені үлестіру."
+          ru: "Распределение нагрузки."
+          en: "Load distribution."
+  synonyms: []
+  antonyms: []

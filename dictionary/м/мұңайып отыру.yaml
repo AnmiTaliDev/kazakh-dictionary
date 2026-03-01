@@ -3,11 +3,12 @@
   parent_id: 190
   type: "phrase"
   transcription: "/mʊŋɑjəp otəɾu/"
-  latin_my: "mūŋaiyp otyru"
-  latin_2017: "Muńaıyp otyrý"
-  latin_2021: "Muŋaiyp otyrw"
+  writing_systems:
+    latin_2017: "Muńaıyp otyrý"
+    latin_2021: "Muŋaiyp otyrw"
+    latin_my: "mūŋaiyp otyru"
   root_word: "мұң"
-  etymology: "From 'мұң' (sadness), a phrase describing the state of being sad."
+  etymology: ""
   history: ""
   definitions:
     - meaning: "көңілсіз, ойға батып отыру"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "adjective"
   transcription: "ɪˈɡɪ"
-  latin_2017: "igi"
-  latin_2021: "igi"
-  latin_my: "ıgı"
+  writing_systems:
+    latin_2017: "igi"
+    latin_2021: "igi"
+    latin_my: "ıgı"
   root_word: "игі"
-  etymology: "Көне түркі тілінен"
-  history: "Көне түркі тілінен 'edgü/igü' (жақсы, пайдалы) түрінде келген. Орхон-Енисей жазбаларында кездеседі."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Жақсы, пайдалы (формалды стиль)"
       translation_ru: "Добрый, благой, полезный"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "interjection"
   transcription: "pælɪ"
-  latin_2017: "päli"
-  latin_2021: "pälı"
-  latin_my: "pälı"
+  writing_systems:
+    latin_2017: "päli"
+    latin_2021: "pälı"
+    latin_my: "pälı"
   root_word: "пәлі"
-  etymology: "Неясной этимологии"
-  history: "Междометие неясного происхождения, возможно от тюркского корня или заимствование. Выражает недоумение, возмущение, иронию. Используется в вопросах типа 'что за...?', 'какой...?'. Аналог русского 'что за', 'вот так', 'ишь ты'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Таңдану, ыржайлау білдіретін одағай"
       translation_ru: "Что за, вот так, ишь ты"

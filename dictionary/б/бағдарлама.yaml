@@ -1,0 +1,22 @@
+- id: 200
+  word: "Бағдарлама"
+  parent_id: null
+  type: "noun"
+  transcription: "/bɑʁdɑɾlɑmɑ/"
+  writing_systems:
+    latin_2017: "Baǵdarlama"
+    latin_2021: "Baǵdarlama"
+    latin_my: "bağdarlama"
+  root_word: "бағдарлама"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "белгілі бір әрекетті орындауға арналған нұсқаулар жиынтығы"
+      translation_ru: "программа"
+      translation_en: "program, software"
+      examples:
+        - kk: "Бағдарламалау тілі."
+          ru: "Язык программирования."
+          en: "Programming language."
+  synonyms: []
+  antonyms: []

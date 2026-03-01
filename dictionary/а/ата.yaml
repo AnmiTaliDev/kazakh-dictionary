@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɑˈtɑ"
-  latin_2017: "ata"
-  latin_2021: "ata"
-  latin_my: "ata"
+  writing_systems:
+    latin_2017: "ata"
+    latin_2021: "ata"
+    latin_my: "ata"
   root_word: "ата"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'ata' (әке, ата) түрінде келген. Барлық түркі тілдерінде бар: түрік 'ata', өзб. 'ota', тат. 'ата', әзірб. 'ata', қырғ. 'ата'. Монғол тілінде 'эцэг' (әке) деп аталады."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Әкенің әкесі немесе анасының әкесі"
       translation_ru: "Дед, дедушка"

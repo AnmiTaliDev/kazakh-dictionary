@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɑˈdɑm"
-  latin_2017: "adam"
-  latin_2021: "adam"
-  latin_my: "adam"
+  writing_systems:
+    latin_2017: "adam"
+    latin_2021: "adam"
+    latin_my: "adam"
   root_word: "адам"
-  etymology: "Араб-еврей тілдерінен"
-  history: "Арабтың 'ādam' (آدم - Адам, бірінші адам, адамзат) сөзінен шыққан, ол өз кезегінде еврей тілінің 'adam' (אָדָם - адам) сөзінен алынған. Ислам және христиан дінінің таралуымен бірге түркі тілдеріне енген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Ақыл-ойлы, еңбек құралдарын жасай алатын жоғары тіршілік иесі"
       translation_ru: "Человек"

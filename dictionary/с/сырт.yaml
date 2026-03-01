@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "sərt"
-  latin_2017: "syrt"
-  latin_2021: "syrt"
-  latin_my: "syrt"
+  writing_systems:
+    latin_2017: "syrt"
+    latin_2021: "syrt"
+    latin_my: "syrt"
   root_word: "сырт"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'sırt' түрінде келген. Түркі тілдерінде: түрік 'sırt', өзб. 'sirt', тат. 'сырт', әзірб. 'sırt', қырғ. 'сырт'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Заттың сыртқы жағы"
       translation_ru: "Внешность, внешняя сторона"

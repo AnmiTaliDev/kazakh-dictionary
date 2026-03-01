@@ -3,11 +3,12 @@
   parent_id: null
   type: "noun"
   transcription: "/sɑɫqɨndɨq/"
-  latin_my: "salqyndyq"
-  latin_2017: "Salqyndyq"
-  latin_2021: "Salqyndyq"
+  writing_systems:
+    latin_2017: "Salqyndyq"
+    latin_2021: "Salqyndyq"
+    latin_my: "salqyndyq"
   root_word: "салқындық"
-  etymology: "От слова 'салқын' (прохладный)."
+  etymology: ""
   history: ""
   definitions:
     - meaning: "жеңіл салқын ауа, прохлада"

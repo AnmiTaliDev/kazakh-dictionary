@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɪˈŋɪr"
-  latin_2017: "ingir"
-  latin_2021: "ıñır"
-  latin_my: "ıŋır"
+  writing_systems:
+    latin_2017: "ingir"
+    latin_2021: "ıñır"
+    latin_my: "ıŋır"
   root_word: "іңір"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Древний тюркский термин для обозначения захода солнца и начала сумерек. В традиционной казахской культуре іңір - важный момент суток, когда солнце начинает заходить и начинает темнеть."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Күн батысы, қараңғылай бастаған уақыт"
       translation_ru: "Заход солнца, начинает темнеть"

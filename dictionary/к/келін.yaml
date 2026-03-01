@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "kelɪn"
-  latin_2017: "kelin"
-  latin_2021: "kelin"
-  latin_my: "kelın"
+  writing_systems:
+    latin_2017: "kelin"
+    latin_2021: "kelin"
+    latin_my: "kelın"
   root_word: "кел"
-  etymology: "кел (приходить) + -ін"
-  history: "Түркі 'kel-' (келу) етістігінен жасалған. 'Келген қыз' мағынасында. Барлық түркі тілдерінде бар: түрік 'gelin', өзб. 'kelin', тат. 'килен', әзірб. 'gəlin', қырғ. 'келин'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Үйленген ұлдың әйелі"
       translation_ru: "Невестка, сноха"

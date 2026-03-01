@@ -1,0 +1,22 @@
+- id: 213
+  word: "Басқарушы бағдарлама"
+  parent_id: 200
+  type: "phrase"
+  transcription: "[bɑsqɑˈruʃɯ bɑʁdɑrˈlɑmɑ]"
+  writing_systems:
+    latin_2017: "Basqarýshy baǵdarlama"
+    latin_2021: "Basqarýshy baǵdarlama"
+    latin_my: "basqaruşy bağdarlama"
+  root_word: "бағдарлама"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "аппараттық құрылғыны басқаратын бағдарлама"
+      translation_ru: "управляющая программа, драйвер"
+      translation_en: "control program, driver"
+      examples:
+        - kk: "Құрылғының басқарушы бағдарламасы."
+          ru: "Управляющая программа устройства."
+          en: "Device driver."
+  synonyms: []
+  antonyms: []

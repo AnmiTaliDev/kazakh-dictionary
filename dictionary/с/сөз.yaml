@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "søz"
-  latin_2017: "söz"
-  latin_2021: "söz"
-  latin_my: "söz"
+  writing_systems:
+    latin_2017: "söz"
+    latin_2021: "söz"
+    latin_my: "söz"
   root_word: "сөз"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'söz' түрінде келген. Барлық түркі тілдерінде бар: түрік 'söz', өзб. 'so'z', тат. 'сүз', әзірб. 'söz', қырғ. 'söz'. Орхон-Енисей жазбаларында 'söz' деп жазылған."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Ойды жеткізетін тіл бірлігі"
       translation_ru: "Слово"

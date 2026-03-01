@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "øˈner"
-  latin_2017: "öner"
-  latin_2021: "öner"
-  latin_my: "öner"
+  writing_systems:
+    latin_2017: "öner"
+    latin_2021: "öner"
+    latin_my: "öner"
   root_word: "өнер"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен 'öner/hüner' (өнер, шеберлік) түрінде келген. Түрік тілінде 'sanat/hüner', өзб. 'san'at', тат. 'сәнгать', әзірб. 'sənət', қырғ. 'өнөр'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Көркем шығармашылық салалары"
       translation_ru: "Искусство"

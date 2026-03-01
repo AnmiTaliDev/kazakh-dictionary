@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "/sɑˈβɯr/"
-  latin_my: "sabyr"
-  latin_2017: "Sabyr"
-  latin_2021: "Sabyr"
+  writing_systems:
+    latin_2017: "Sabyr"
+    latin_2021: "Sabyr"
+    latin_my: "sabyr"
   root_word: "сабыр"
-  etymology: "From Arabic 'صَبْر' (ṣabr)."
-  history: "Borrowed from Arabic."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "шыдамдылық, төзімділік"
       translation_ru: "терпение, сдержанность, спокойствие"

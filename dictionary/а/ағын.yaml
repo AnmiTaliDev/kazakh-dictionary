@@ -1,0 +1,22 @@
+- id: 207
+  word: "Ағын"
+  parent_id: null
+  type: "noun"
+  transcription: "[ɑʁɯn]"
+  writing_systems:
+    latin_2017: "Aǵyn"
+    latin_2021: "Aǵyn"
+    latin_my: "ağyn"
+  root_word: "ағын"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "бірнеше тапсырманы бір уақытта орындауға мүмкіндік беретін орындалу жолы"
+      translation_ru: "поток (в программировании)"
+      translation_en: "thread (in programming)"
+      examples:
+        - kk: "Көп ағынды бағдарлама."
+          ru: "Многопоточная программа."
+          en: "Multithreaded program."
+  synonyms: []
+  antonyms: []

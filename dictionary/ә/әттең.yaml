@@ -3,12 +3,13 @@
   parent_id: null
   type: "interjection"
   transcription: "ætˈteŋ"
-  latin_2017: "ätteng"
-  latin_2021: "ätteñ"
-  latin_my: "ätteŋ"
+  writing_systems:
+    latin_2017: "ätteng"
+    latin_2021: "ätteñ"
+    latin_my: "ätteŋ"
   root_word: "әттең"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Тюркское междометие, выражающее неожиданность, удивление, досаду или лёгкое огорчение. Одно из самых частых междометий в казахском языке. Аналог русского 'ой', 'ах', 'эх'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Таңдану, өкіну білдіретін одағай"
       translation_ru: "Ой, ах, эх"

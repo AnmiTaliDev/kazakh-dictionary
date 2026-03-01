@@ -3,12 +3,13 @@
   parent_id: null
   type: "adverb"
   transcription: "tɑp"
-  latin_2017: "tap"
-  latin_2021: "tap"
-  latin_my: "tap"
+  writing_systems:
+    latin_2017: "tap"
+    latin_2021: "tap"
+    latin_my: "tap"
   root_word: "тап"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі 'tap' (дәл, тура) түрінде келген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Дәл келетін"
       translation_ru: "Точь-в-точь, в самый раз"

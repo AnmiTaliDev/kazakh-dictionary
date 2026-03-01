@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɑj"
-  latin_2017: "ay"
-  latin_2021: "ay"
-  latin_my: "aî"
+  writing_systems:
+    latin_2017: "ay"
+    latin_2021: "ay"
+    latin_my: "aî"
   root_word: "ай"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'ay' түрінде келген. Барлық түркі тілдерінде бар: түрік ay, өзб. oy, тат. ай, әзірб. ay, қырғ. ай. Орхон-Енисей жазбаларында 'ay' (ай, луна) деп жазылған. Монғол тілінде 'саран' деп аталады."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Жердің табиғи серігі, түнде жарық шашатын аспан денесі"
       translation_ru: "Луна"

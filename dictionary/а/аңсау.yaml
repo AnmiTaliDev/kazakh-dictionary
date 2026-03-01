@@ -3,11 +3,12 @@
   parent_id: null
   type: "verb"
   transcription: "/aɴsaw/"
-  latin_my: "aŋsau"
-  latin_2017: "Ańsaý"
-  latin_2021: "Aŋsaw"
+  writing_systems:
+    latin_2017: "Ańsaý"
+    latin_2021: "Aŋsaw"
+    latin_my: "aŋsau"
   root_word: "аңсау"
-  etymology: "Common Turkic root."
+  etymology: ""
   history: ""
   definitions:
     - meaning: "бір нәрсені қатты қалау, зарығу"

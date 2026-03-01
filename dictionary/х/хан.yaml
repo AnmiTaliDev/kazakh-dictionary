@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "xɑn"
-  latin_2017: "han"
-  latin_2021: "han"
-  latin_my: "xan"
+  writing_systems:
+    latin_2017: "han"
+    latin_2021: "han"
+    latin_my: "xan"
   root_word: "хан"
-  etymology: "Монғол тілінен"
-  history: "Монғол 'xaan' (хан, билеуші) сөзінен шыққан."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Билеуші, әмірші"
       translation_ru: "Хан"

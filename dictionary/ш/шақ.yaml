@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ʃɑq"
-  latin_2017: "şaq"
-  latin_2021: "şaq"
-  latin_my: "şaq"
+  writing_systems:
+    latin_2017: "şaq"
+    latin_2021: "şaq"
+    latin_my: "şaq"
   root_word: "шақ"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі 'şaq/çağ' түрінде келген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Уақыт кезеңі"
       translation_ru: "Время, период"

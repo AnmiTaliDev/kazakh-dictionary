@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɑlɑkewˈɪm"
-  latin_2017: "alakeuim"
-  latin_2021: "alakeuim"
-  latin_my: "alakeûım"
+  writing_systems:
+    latin_2017: "alakeuim"
+    latin_2021: "alakeuim"
+    latin_my: "alakeûım"
   root_word: "алакеуім"
-  etymology: "Казахский термин времени суток"
-  history: "Традиционный казахский термин для обозначения времени когда солнце садится за горизонт и наступают сумерки. Важное время дня в традиционной культуре кочевников, знаменующее окончание дневной работы и начало вечера."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Күн батқан кездегі уақыт, кешкі алақаран"
       translation_ru: "Время когда солнце садится, сумерки"

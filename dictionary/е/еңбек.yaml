@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "jeŋˈbek"
-  latin_2017: "eñbek"
-  latin_2021: "eñbek"
-  latin_my: "eŋbek"
+  writing_systems:
+    latin_2017: "eñbek"
+    latin_2021: "eñbek"
+    latin_my: "eŋbek"
   root_word: "еңбек"
-  etymology: "Түркі-монғол тілдерінен"
-  history: "Монғол тілінің 'хөдөлмөр' (еңбек) немесе түркі тілдерінің 'emgek/ömek' түрінен шыққан деген пікір бар. Қазақ тілінде 'еңбек' (қажырлы жұмыс, еңбек ету) мағынасында қолданылады."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Адамның қажырлы жұмысы"
       translation_ru: "Труд, работа"

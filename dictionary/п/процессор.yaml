@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "protseˈsor"
-  latin_2017: "protsesor"
-  latin_2021: "protsesor"
-  latin_my: "procesor"
+  writing_systems:
+    latin_2017: "protsesor"
+    latin_2021: "protsesor"
+    latin_my: "procesor"
   root_word: "процессор"
-  etymology: "Ағылшын тілінен (латын негізінде)"
-  history: "Ағылшын тілінің 'processor' (өңдеуші) сөзінен шыққан, латын 'processus' (процесс, өңдеу) + '-or' (істеуші жұрнағы). 20 ғасырдың екінші жартысында компьютерлік техниканың дамуымен бірге орыс тілі арқылы қазақ тіліне енген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Компьютердің орталық есептеу құрылғысы"
       translation_ru: "Процессор"

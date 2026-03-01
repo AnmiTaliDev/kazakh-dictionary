@@ -1,3 +1,6 @@
 [submodule "references/latin-proposal"]
 	path = references/latin-proposal
 	url = https://github.com/AnmiTaliDev/new-kazakh-latin-proposal.git
+[submodule "3rd/docs"]
+	path = 3rd/docs
+	url = https://github.com/AnmiTaliDev/yalf

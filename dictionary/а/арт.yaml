@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɑrt"
-  latin_2017: "art"
-  latin_2021: "art"
-  latin_my: "art"
+  writing_systems:
+    latin_2017: "art"
+    latin_2021: "art"
+    latin_my: "art"
   root_word: "арт"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'art' (арт, артқы) түрінде келген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Артқы жағы"
       translation_ru: "Зад, задняя сторона"

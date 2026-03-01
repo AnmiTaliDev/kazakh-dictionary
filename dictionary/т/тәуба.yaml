@@ -3,12 +3,13 @@
   parent_id: null
   type: "interjection"
   transcription: "tæwˈbɑ"
-  latin_2017: "täuba"
-  latin_2021: "täuba"
-  latin_my: "täuba"
+  writing_systems:
+    latin_2017: "täuba"
+    latin_2021: "täuba"
+    latin_my: "täuba"
   root_word: "тәуба"
-  etymology: "Араб тілінен"
-  history: "Из арабского 'تَوْبَة' (тауба - покаяние, раскаяние). Исламский термин, означающий покаяние перед Аллахом. В разговорном языке используется как междометие, выражающее испуг, отвращение, желание избежать чего-то плохого. Аналог русского 'боже упаси', 'избави боже', 'не дай бог'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Қорқыныш, жексұрыну білдіретін одағай"
       translation_ru: "Боже упаси, не дай бог, избави господи"

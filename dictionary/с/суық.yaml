@@ -3,12 +3,13 @@
   parent_id: null
   type: "adjective"
   transcription: "sʊˈjəq"
-  latin_2017: "suyq"
-  latin_2021: "suyq"
-  latin_my: "suîyq"
+  writing_systems:
+    latin_2017: "suyq"
+    latin_2021: "suyq"
+    latin_my: "suîyq"
   root_word: "суық"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'soğuq/suuq' түрінде келген. Түркі тілдерінде: түрік 'soğuk', өзб. 'sovuq', тат. 'салкын', әзірб. 'soyuq', қырғ. 'муздак/суук'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Жылуы жоқ, салқын"
       translation_ru: "Холодный"

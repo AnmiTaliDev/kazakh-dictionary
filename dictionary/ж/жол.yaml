@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ʒol"
-  latin_2017: "jol"
-  latin_2021: "jol"
-  latin_my: "jol"
+  writing_systems:
+    latin_2017: "jol"
+    latin_2021: "jol"
+    latin_my: "jol"
   root_word: "жол"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'yol' түрінде келген. Барлық түркі тілдерінде бар: түрік 'yol', өзб. 'yo'l', тат. 'юл', әзірб. 'yol', қырғ. 'жол'. Орхон-Енисей жазбаларында 'yol' деп жазылған."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Бір жерден екінші жерге баратын жер"
       translation_ru: "Дорога, путь"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "æŋˈɡɪme"
-  latin_2017: "äñgime"
-  latin_2021: "äñgime"
-  latin_my: "äŋgıme"
+  writing_systems:
+    latin_2017: "äñgime"
+    latin_2021: "äñgime"
+    latin_my: "äŋgıme"
   root_word: "әңгіме"
-  etymology: "Монғол тілінен"
-  history: "Монғол тілінің 'ярих' (сөйлесу) немесе түркі-монғол аралас сөз. Қазақ тілінде 'сөйлесу, әңгімелесу' мағынасында қолданылады."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Сөйлесу, сұхбат"
       translation_ru: "Беседа, разговор"

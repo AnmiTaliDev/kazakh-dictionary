@@ -3,12 +3,13 @@
   parent_id: null
   type: "adjective"
   transcription: "qɑˈrɑ"
-  latin_2017: "qara"
-  latin_2021: "qara"
-  latin_my: "qara"
+  writing_systems:
+    latin_2017: "qara"
+    latin_2021: "qara"
+    latin_my: "qara"
   root_word: "қара"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'qara' түрінде келген. Барлық түркі тілдерінде бар: түрік 'kara', өзб. 'qora', тат. 'кара', әзірб. 'qara', қырғ. 'кара'. Орхон-Енисей жазбаларында кездеседі."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Ең қара түс"
       translation_ru: "Чёрный"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "kʏj"
-  latin_2017: "küy"
-  latin_2021: "küy"
-  latin_my: "küî"
+  writing_systems:
+    latin_2017: "küy"
+    latin_2021: "küy"
+    latin_my: "küî"
   root_word: "күй"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен. Екі негізгі мағынасы: 1) музыкалық күй 2) жағдай, күй."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Қазақтың аспаптық музыкасы"
       translation_ru: "Кюй, мелодия"

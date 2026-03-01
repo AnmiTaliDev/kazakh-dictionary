@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "qʊˈdɑ"
-  latin_2017: "quda"
-  latin_2021: "quda"
-  latin_my: "qūda"
+  writing_systems:
+    latin_2017: "quda"
+    latin_2021: "quda"
+    latin_my: "qūda"
   root_word: "құда"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'quda' түрінде келген. Барлық түркі тілдерінде бар: түрік 'dünür', өзб. 'quda', тат. 'кода', әзірб. 'quda', қырғ. 'куда'. Қазақ мәдениетінде құдалық қатынас өте маңызды орын алады."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Күйеу мен қалыңдықтың әкелері бір-біріне"
       translation_ru: "Сват (отец жениха и невесты друг другу)"

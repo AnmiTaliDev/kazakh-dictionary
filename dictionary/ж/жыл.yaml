@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ʒəl"
-  latin_2017: "jyl"
-  latin_2021: "jyl"
-  latin_my: "jyl"
+  writing_systems:
+    latin_2017: "jyl"
+    latin_2021: "jyl"
+    latin_my: "jyl"
   root_word: "жыл"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'yıl' түрінде келген. Барлық түркі тілдерінде бар: түрік 'yıl', өзб. 'yil', тат. 'ел', әзірб. 'il', қырғ. 'жыл'. Орхон-Енисей жазбаларында 'yıl' деп жазылған."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "365 (366) күнді қамтитын уақыт кезеңі"
       translation_ru: "Год"

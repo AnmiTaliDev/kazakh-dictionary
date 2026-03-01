@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "køz"
-  latin_2017: "köz"
-  latin_2021: "köz"
-  latin_my: "köz"
+  writing_systems:
+    latin_2017: "köz"
+    latin_2021: "köz"
+    latin_my: "köz"
   root_word: "көз"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'köz' түрінде келген. Барлық түркі тілдерінде бар: түрік 'göz', өзб. 'ko'z', тат. 'күз', әзірб. 'göz', қырғ. 'көз'. Орхон-Енисей жазбаларында кездеседі."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Көру мүшесі"
       translation_ru: "Глаз"

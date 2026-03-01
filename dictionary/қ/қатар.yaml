@@ -3,12 +3,13 @@
   parent_id: null
   type: "adverb"
   transcription: "qɑˈtɑr"
-  latin_2017: "qatar"
-  latin_2021: "qatar"
-  latin_my: "qatar"
+  writing_systems:
+    latin_2017: "qatar"
+    latin_2021: "qatar"
+    latin_my: "qatar"
   root_word: "қатар"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі 'qatar/katar' түрінде келген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Жанында, бірге"
       translation_ru: "Рядом, наряду"

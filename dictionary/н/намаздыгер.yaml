@@ -3,11 +3,12 @@
   parent_id: null
   type: "noun"
   transcription: "[nɑmɑzdɯɡeɾ]"
-  latin_my: "namazdyger"
-  latin_2017: "Namazdyger"
-  latin_2021: "Namazdyger"
+  writing_systems:
+    latin_2017: "Namazdyger"
+    latin_2021: "Namazdyger"
+    latin_my: "namazdyger"
   root_word: "намаздыгер"
-  etymology: "From Arabic 'صلاة' (salat) through 'намаз' (namaz, prayer), related to Islamic prayer times."
+  etymology: ""
   history: ""
   definitions:
     - meaning: "бесін намазы мен ақшам намазы арасындағы уақыт"

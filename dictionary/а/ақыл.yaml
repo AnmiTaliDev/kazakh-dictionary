@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɑˈqəl"
-  latin_2017: "aqyl"
-  latin_2021: "aqyl"
-  latin_my: "aqyl"
+  writing_systems:
+    latin_2017: "aqyl"
+    latin_2021: "aqyl"
+    latin_my: "aqyl"
   root_word: "ақыл"
-  etymology: "Араб тілінен"
-  history: "Арабтың 'ʿaql' (عَقْل - ақыл, ой, зейін) сөзінен шыққан. Ислам мәдениетімен бірге түркі тілдеріне енген: түрік 'akıl', өзб. 'aql', тат. 'акыл', әзірб. 'ağıl'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Ойлау, түсіну қабілеті"
       translation_ru: "Ум, разум, интеллект"

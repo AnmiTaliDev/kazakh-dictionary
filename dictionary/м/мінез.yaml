@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "mɪˈnez"
-  latin_2017: "minez"
-  latin_2021: "minez"
-  latin_my: "mınez"
+  writing_systems:
+    latin_2017: "minez"
+    latin_2021: "minez"
+    latin_my: "mınez"
   root_word: "мінез"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен 'miniz/minz' түрінде келген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Адамның жеке қасиеттері"
       translation_ru: "Характер"

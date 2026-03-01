@@ -1,0 +1,22 @@
+- id: 214
+  word: "Төменгі деңгейлі"
+  parent_id: null
+  type: "phrase"
+  transcription: "[tømenˈgɪ deŋgejˈlɪ]"
+  writing_systems:
+    latin_2017: "Tómengi deńgeıli"
+    latin_2021: "Tómengi deńgeıli"
+    latin_my: "tömengi deŋgeîli"
+  root_word: "деңгей"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "компьютердің аппараттық құралдарына жақын бағдарламалау"
+      translation_ru: "низкоуровневый (о программировании)"
+      translation_en: "low-level (programming)"
+      examples:
+        - kk: "Төменгі деңгейлі бағдарламалау."
+          ru: "Низкоуровневое программирование."
+          en: "Low-level programming."
+  synonyms: []
+  antonyms: []

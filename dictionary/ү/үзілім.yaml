@@ -1,0 +1,22 @@
+- id: 208
+  word: "Үзілім"
+  parent_id: null
+  type: "noun"
+  transcription: "/yˈzɪlɪm/"
+  writing_systems:
+    latin_2017: "Úzilim"
+    latin_2021: "Úzilim"
+    latin_my: "üzilim"
+  root_word: "үзу"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "процессордың ағымдағы операцияны тоқтатып, жоғары приоритетті оқиғаны өңдеуіне себеп болатын сигнал"
+      translation_ru: "прерывание (в операционных системах)"
+      translation_en: "interrupt (in operating systems)"
+      examples:
+        - kk: "Аппараттық үзілім."
+          ru: "Аппаратное прерывание."
+          en: "Hardware interrupt."
+  synonyms: []
+  antonyms: []

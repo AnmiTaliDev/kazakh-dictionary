@@ -3,12 +3,13 @@
   parent_id: null
   type: "adjective"
   transcription: "rɑs"
-  latin_2017: "ras"
-  latin_2021: "ras"
-  latin_my: "ras"
+  writing_systems:
+    latin_2017: "ras"
+    latin_2021: "ras"
+    latin_my: "ras"
   root_word: "рас"
-  etymology: "Перс тілінен"
-  history: "Парсы тілінің 'rāst' (راست - дұрыс, шын) сөзінен шыққан. Барлық түркі тілдеріне парсы тілі арқылы енген: түрік 'doğru', өзб. 'to'g'ri/rost', тат. 'дөрес', әзірб. 'doğru'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Шындыққа сәйкес"
       translation_ru: "Правдивый, истинный"

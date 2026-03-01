@@ -4,12 +4,13 @@
   relation: "application"
   type: "noun"
   transcription: "sɑnʁələmˈləq qoltɑŋˈbɑ"
-  latin_2017: "sang'ylymlyq qoltang'ba"
-  latin_2021: "sanğylymlyq qoltañba"
-  latin_my: "sanğylymlyq qoltaŋba"
+  writing_systems:
+    latin_2017: "sang'ylymlyq qoltang'ba"
+    latin_2021: "sanğylymlyq qoltañba"
+    latin_my: "sanğylymlyq qoltaŋba"
   root_word: "санғылым"
-  etymology: "Қазақ тілінен (композиция)"
-  history: "Авторлық неологизм (AnmiTaliDev, 2026), 'санғылым' (цифровая сфера) және 'қолтаңба' (қол таңбасы - подпись, буквально 'отпечаток руки') сөздерінен құралған. 'Электрондық цифрлық қолтаңба' (ЭЦҚ) немесе 'цифровая подпись' терминінің қысқа және нақты қазақша баламасы. Криптографияда құжаттың түпнұсқалығын және автордың жеке басын растау үшін қолданылады."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Электрондық құжаттың түпнұсқалығын және автордың жеке басын растайтын криптографиялық сандық деректер"
       translation_ru: "Цифровая подпись, электронная цифровая подпись (ЭЦП)"

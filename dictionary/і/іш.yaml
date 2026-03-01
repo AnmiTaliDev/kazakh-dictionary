@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɪʃ"
-  latin_2017: "iş"
-  latin_2021: "iş"
-  latin_my: "ış"
+  writing_systems:
+    latin_2017: "iş"
+    latin_2021: "iş"
+    latin_my: "ış"
   root_word: "іш"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'iç' түрінде келген. Барлық түркі тілдерінде бар: түрік 'iç', өзб. 'ich', тат. 'эч', әзірб. 'iç', қырғ. 'ич'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Заттың ішкі бөлігі"
       translation_ru: "Внутренняя часть, нутро"

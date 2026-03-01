@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "jel"
-  latin_2017: "el"
-  latin_2021: "el"
-  latin_my: "el"
+  writing_systems:
+    latin_2017: "el"
+    latin_2021: "el"
+    latin_my: "el"
   root_word: "ел"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'el/il' түрінде келген. Барлық түркі тілдерінде бар: түрік 'il', өзб. 'el', тат. 'ил', әзірб. 'el', қырғ. 'эл'. Орхон-Енисей жазбаларында 'el' (халық, мемлекет) деп жазылған."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Халық, ұлт"
       translation_ru: "Народ, нация"

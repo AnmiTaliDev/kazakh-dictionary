@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ʒʊˈbɑj"
-  latin_2017: "jubay"
-  latin_2021: "jubay"
-  latin_my: "jūbaî"
+  writing_systems:
+    latin_2017: "jubay"
+    latin_2021: "jubay"
+    latin_my: "jūbaî"
   root_word: "жұп"
-  etymology: "жұп (пара) + -ай"
-  history: "Түркі 'juft/jup' (жұп, қос) сөзінен жасалған. 'Жұп, серік' мағынасында қолданылады."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Некеде тұрған екі адам"
       translation_ru: "Супруги, чета"

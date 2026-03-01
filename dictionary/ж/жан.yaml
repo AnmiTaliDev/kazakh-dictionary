@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ʒɑn"
-  latin_2017: "jan"
-  latin_2021: "jan"
-  latin_my: "jan"
+  writing_systems:
+    latin_2017: "jan"
+    latin_2021: "jan"
+    latin_my: "jan"
   root_word: "жан"
-  etymology: "Перс тілінен"
-  history: "Парсы тілінің 'jān' (جان - жан, өмір, тіршілік) сөзінен шыққан. Барлық түркі тілдеріне парсы тілі арқылы енген: түрік 'can', өзб. 'jon', тат. 'җан', әзірб. 'can'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Адамның ішкі әлемі, рухы"
       translation_ru: "Душа, дух"

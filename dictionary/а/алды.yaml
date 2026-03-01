@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɑlˈdə"
-  latin_2017: "aldy"
-  latin_2021: "aldy"
-  latin_my: "aldy"
+  writing_systems:
+    latin_2017: "aldy"
+    latin_2021: "aldy"
+    latin_my: "aldy"
   root_word: "ал"
-  etymology: "ал (брать) + -ды"
-  history: "Түркі 'al-' (алу) етістігінен жасалған."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Алдыңғы жағы"
       translation_ru: "Перед, передняя часть"

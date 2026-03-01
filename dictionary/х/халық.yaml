@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "xɑˈləq"
-  latin_2017: "halyq"
-  latin_2021: "halyq"
-  latin_my: "xalyq"
+  writing_systems:
+    latin_2017: "halyq"
+    latin_2021: "halyq"
+    latin_my: "xalyq"
   root_word: "халық"
-  etymology: "Араб тілінен"
-  history: "Арабтың 'xalq' (خَلْق - жаратылыс, адамдар, халық) сөзінен шыққан. Ислам мәдениетімен бірге түркі тілдеріне енген: түрік 'halk', өзб. 'xalq', тат. 'халык', әзірб. 'xalq'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Белгілі бір аумақта тұратын адамдар жиынтығы"
       translation_ru: "Народ, население"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ʏlˈɡɪ"
-  latin_2017: "ülgi"
-  latin_2021: "ülgi"
-  latin_my: "ülgı"
+  writing_systems:
+    latin_2017: "ülgi"
+    latin_2021: "ülgi"
+    latin_my: "ülgı"
   root_word: "үлгі"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі 'ülgi/örnek' түрінде келген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Еліктейтін нұсқа"
       translation_ru: "Пример, образец"

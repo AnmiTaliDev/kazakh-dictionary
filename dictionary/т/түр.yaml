@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "tʏr"
-  latin_2017: "tür"
-  latin_2021: "tür"
-  latin_my: "tür"
+  writing_systems:
+    latin_2017: "tür"
+    latin_2021: "tür"
+    latin_my: "tür"
   root_word: "түр"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі 'tür' түрінде келген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Сыртқы пішін"
       translation_ru: "Вид, форма"

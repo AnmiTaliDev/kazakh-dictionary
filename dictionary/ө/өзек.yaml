@@ -1,0 +1,22 @@
+- id: 204
+  word: "Өзек"
+  parent_id: null
+  type: "noun"
+  transcription: "/œˈzek/"
+  writing_systems:
+    latin_2017: "Ózek"
+    latin_2021: "Ózek"
+    latin_my: "özek"
+  root_word: "өзек"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "бір нәрсенің орталық бөлігі, негізі"
+      translation_ru: "стержень, сердцевина, ядро"
+      translation_en: "core, pivot, kernel"
+      examples:
+        - kk: "Істің өзегі."
+          ru: "Суть дела."
+          en: "The core of the matter."
+  synonyms: []
+  antonyms: []

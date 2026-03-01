@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "bɑˈlɑ"
-  latin_2017: "bala"
-  latin_2021: "bala"
-  latin_my: "bala"
+  writing_systems:
+    latin_2017: "bala"
+    latin_2021: "bala"
+    latin_my: "bala"
   root_word: "бала"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'bala' түрінде келген. Барлық түркі тілдерінде бар: түрік 'çocuk/evlat', өзб. 'bola', тат. 'бала', әзірб. 'bala/uşaq', қырғ. 'бала'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Кішкентай адам, әлі үлкен болмаған жас"
       translation_ru: "Ребёнок"

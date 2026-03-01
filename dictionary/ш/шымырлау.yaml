@@ -3,12 +3,13 @@
   parent_id: null
   type: "verb"
   transcription: "ʃəmərˈlɑw"
-  latin_2017: "s'ymyrlau"
-  latin_2021: "şymyrlau"
-  latin_my: "şymyrlau"
+  writing_systems:
+    latin_2017: "s'ymyrlau"
+    latin_2021: "şymyrlau"
+    latin_my: "şymyrlau"
   root_word: "шымыр"
-  etymology: "шымыр (быстрый, проворный) + -лау (глагольный суффикс)"
-  history: "Глагол, образованный от основы 'шымыр' (быстрый, проворный) с глагольным суффиксом '-лау'. Описывает быстрое, ловкое, юркое движение - скользить, шмыгать, быстро перемещаться. Часто используется для описания движения мелких животных, детей или воды."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Тез, шапшаң қозғалу, сырғанау"
       translation_ru: "Шмыгать, юркать, скользить быстро"

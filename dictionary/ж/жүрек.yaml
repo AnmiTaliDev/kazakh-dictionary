@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ʒʏˈrek"
-  latin_2017: "jürek"
-  latin_2021: "jürek"
-  latin_my: "jürek"
+  writing_systems:
+    latin_2017: "jürek"
+    latin_2021: "jürek"
+    latin_my: "jürek"
   root_word: "жүрек"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'yürek/cürek' түрінде келген. Түркі тілдерінде: түрік 'yürek', өзб. 'yurak', тат. 'йөрәк', әзірб. 'ürək', қырғ. 'жүрөк'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Қан айналымын қамтамасыз ететін ағза"
       translation_ru: "Сердце"

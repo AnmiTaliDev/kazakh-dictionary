@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "tɑs"
-  latin_2017: "tas"
-  latin_2021: "tas"
-  latin_my: "tas"
+  writing_systems:
+    latin_2017: "tas"
+    latin_2021: "tas"
+    latin_my: "tas"
   root_word: "тас"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'taş' түрінде келген. Барлық түркі тілдерінде бар: түрік 'taş', өзб. 'tosh', тат. 'таш', әзірб. 'daş', қырғ. 'таш'. Орхон-Енисей жазбаларында кездеседі."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Қатты минерал зат"
       translation_ru: "Камень"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ʒer"
-  latin_2017: "jer"
-  latin_2021: "jer"
-  latin_my: "jer"
+  writing_systems:
+    latin_2017: "jer"
+    latin_2021: "jer"
+    latin_my: "jer"
   root_word: "жер"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'yer' түрінде келген. Барлық түркі тілдерінде бар: түрік 'yer', өзб. 'yer', тат. 'җир', әзірб. 'yer', қырғ. 'жер'. Монғол тілінде 'газар' деп аталады."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Адамдар мен жануарлар, өсімдіктер өмір сүретін планета"
       translation_ru: "Земля"

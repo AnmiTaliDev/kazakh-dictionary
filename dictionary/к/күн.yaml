@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "kʏn"
-  latin_2017: "kün"
-  latin_2021: "kün"
-  latin_my: "kün"
+  writing_systems:
+    latin_2017: "kün"
+    latin_2021: "kün"
+    latin_my: "kün"
   root_word: "күн"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'kün' (күн, қүн) түрінде келген. Барлық түркі тілдерінде бар: түрік 'gün', өзб. 'kun', тат. 'көн', әзірб. 'gün', қырғ. 'күн'. Орхон-Енисей жазбаларында кездеседі."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Аспандағы жарық беретін жұлдыз"
       translation_ru: "Солнце"

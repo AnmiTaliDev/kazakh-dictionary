@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "oˈrən"
-  latin_2017: "oryn"
-  latin_2021: "oryn"
-  latin_my: "oryn"
+  writing_systems:
+    latin_2017: "oryn"
+    latin_2021: "oryn"
+    latin_my: "oryn"
   root_word: "орын"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'orun/orın' түрінде келген. Түркі тілдерінде: түрік 'yer', өзб. 'o'rin', тат. 'урын', әзірб. 'yer', қырғ. 'орун'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Жер, аймақ"
       translation_ru: "Место"

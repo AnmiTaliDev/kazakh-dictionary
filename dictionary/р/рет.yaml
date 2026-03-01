@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ret"
-  latin_2017: "ret"
-  latin_2021: "ret"
-  latin_my: "ret"
+  writing_systems:
+    latin_2017: "ret"
+    latin_2021: "ret"
+    latin_my: "ret"
   root_word: "рет"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі 'ret/sıra' түрінде келген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Тізбек, қатар"
       translation_ru: "Ряд, порядок"

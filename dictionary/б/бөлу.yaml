@@ -1,0 +1,22 @@
+- id: 209
+  word: "Бөлу"
+  parent_id: null
+  type: "noun"
+  transcription: "[bœlʏ]"
+  writing_systems:
+    latin_2017: "Bólý"
+    latin_2021: "Bólý"
+    latin_my: "bölu"
+  root_word: "бөлу"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "ресурстарды немесе жадты үлестіру"
+      translation_ru: "разделение, распределение (ресурсов, памяти)"
+      translation_en: "division, allocation (of resources, memory)"
+      examples:
+        - kk: "Жадты бөлу."
+          ru: "Распределение памяти."
+          en: "Memory allocation."
+  synonyms: []
+  antonyms: []

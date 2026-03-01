@@ -19,21 +19,15 @@ dictionary/
 
 Each Cyrillic letter has its own directory. Each word is stored in a separate YAML file named `{word}.yaml`.
 
-## YAML Structure
+## YALF Structure (YALF format, v1.0.0)
+
+Format spec: `3rd/docs/docs/specification.md`
 
 ### Required Fields
 ```yaml
 - id: <unique_number>           # Unique identifier (integer)
   word: "слово"                  # Word in Cyrillic
-  parent_id: null                # ID of parent word (for derivatives) or null
   type: "noun"                   # Part of speech
-  transcription: "IPA"           # IPA transcription
-  latin_2017: "text"             # Latin script (2017 standard)
-  latin_2021: "text"             # Latin script (2021 standard)
-  latin_my: "text"               # AnmiTaliDev's Latin proposal
-  root_word: "root"              # Morphological root
-  etymology: "source"            # Etymology source
-  history: "detailed history"    # Detailed etymological history
   definitions:
     - meaning: "definition"      # Definition in Kazakh
       translation_ru: "перевод"  # Russian translation
@@ -46,11 +40,19 @@ Each Cyrillic letter has its own directory. Each word is stored in a separate YA
 
 ### Optional Fields
 ```yaml
+  parent_id: null                # ID of parent word (for derivatives) or null
+  transcription: "IPA"           # IPA transcription
+  writing_systems:               # Latin script variants
+    latin_2017: "text"           # Latin script (2017 standard)
+    latin_2021: "text"           # Latin script (2021 standard)
+    latin_my: "text"             # AnmiTaliDev's Latin proposal
+  root_word: "root"              # Morphological root
+  etymology: "source"            # Etymology source
+  history: "detailed history"    # Detailed etymological history
   synonyms:                      # List of synonyms
     - word_id: <id>              # ID if word exists in dictionary
       word: "synonym"            # The synonym word
       note: "context note"       # Optional usage note
-
   antonyms:                      # List of antonyms
     - word_id: <id>
       word: "antonym"
@@ -144,9 +146,9 @@ Key mappings:
 - For loanwords, specify source language and original form
 
 ### 7. Transcription Guidelines
-- IPA: Use standard IPA notation
-- latin_2017 & latin_2021: Follow official Kazakhstan standards
-- latin_my: **Always check** `references/latin-proposal/character_mapping.md`
+- IPA: Use standard IPA notation for `transcription`
+- `writing_systems.latin_2017` & `writing_systems.latin_2021`: Follow official Kazakhstan standards
+- `writing_systems.latin_my`: **Always check** `references/latin-proposal/character_mapping.md`
 
 ### 8. Quality Standards
 - Double-check all transcriptions

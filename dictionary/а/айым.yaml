@@ -4,12 +4,13 @@
   type: "noun"
   relation: "possessive_endearment"
   transcription: "ɑˈjəm"
-  latin_2017: "ayym"
-  latin_2021: "ayym"
-  latin_my: "aîym"
+  writing_systems:
+    latin_2017: "ayym"
+    latin_2021: "ayym"
+    latin_my: "aîym"
   root_word: "ай"
-  etymology: "ай (луна) + -ым (притяжательный суффикс 1-го лица)"
-  history: "Образовано от тюркского 'ай' (луна, месяц) с притяжательным суффиксом '-ым' (мой). Сравнение с луной подчёркивает красоту, таинственность и романтичность любимого человека. В тюркской поэзии луна традиционно ассоциируется с женской красотой и нежностью."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Әсем адамға романтикалық қаратылатын сөз"
       translation_ru: "Моя луна (ласковое обращение)"

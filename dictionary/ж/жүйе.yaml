@@ -1,0 +1,22 @@
+- id: 201
+  word: "Жүйе"
+  parent_id: null
+  type: "noun"
+  transcription: "/ʑyje/"
+  writing_systems:
+    latin_2017: "Júıe"
+    latin_2021: "Júıe"
+    latin_my: "jüîe"
+  root_word: "жүйе"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "белгілі бір мақсатқа жету үшін өзара байланысқан элементтер жиынтығы"
+      translation_ru: "система"
+      translation_en: "system"
+      examples:
+        - kk: "Операциялық жүйе."
+          ru: "Операционная система."
+          en: "Operating system."
+  synonyms: []
+  antonyms: []

@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ʒʏz"
-  latin_2017: "jüz"
-  latin_2021: "jüz"
-  latin_my: "jüz"
+  writing_systems:
+    latin_2017: "jüz"
+    latin_2021: "jüz"
+    latin_my: "jüz"
   root_word: "жүз"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'yüz' түрінде келген. Түркі тілдерінде екі мағынасы бар: 1) бет (лицо), 2) жүз (сто). Түрік 'yüz', өзб. 'yuz', тат. 'йөз', әзірб. 'üz', қырғ. 'жүз'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Адамның беті"
       translation_ru: "Лицо"

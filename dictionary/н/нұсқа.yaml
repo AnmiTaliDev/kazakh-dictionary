@@ -1,0 +1,22 @@
+- id: 203
+  word: "Нұсқа"
+  parent_id: null
+  type: "noun"
+  transcription: "/nusqa/"
+  writing_systems:
+    latin_2017: "Nusqa"
+    latin_2021: "Nusqa"
+    latin_my: "nūsqa"
+  root_word: "нұсқа"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "бір нәрсенің өзгеше түрі, варианты"
+      translation_ru: "версия, вариант, экземпляр"
+      translation_en: "version, variant, copy"
+      examples:
+        - kk: "Жаңа нұсқа."
+          ru: "Новая версия."
+          en: "New version."
+  synonyms: []
+  antonyms: []

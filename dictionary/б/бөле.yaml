@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "bøˈle"
-  latin_2017: "böle"
-  latin_2021: "böle"
-  latin_my: "böle"
+  writing_systems:
+    latin_2017: "böle"
+    latin_2021: "böle"
+    latin_my: "böle"
   root_word: "бөле"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен 'böle' түрінде келген. Қазақ тілінде екінші буын туыстарды білдіреді."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Ата-әженің немересі, екінші буын туыстар"
       translation_ru: "Двоюродный брат/сестра"

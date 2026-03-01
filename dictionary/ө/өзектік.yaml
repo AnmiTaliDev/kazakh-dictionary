@@ -1,0 +1,22 @@
+- id: 205
+  word: "Өзектік"
+  parent_id: 204
+  type: "adjective"
+  transcription: "/øzekˈtɪk/"
+  writing_systems:
+    latin_2017: "Ózektik"
+    latin_2021: "Ózektik"
+    latin_my: "özektyk"
+  root_word: "өзек"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "негізгі, орталық бөлікке қатысты"
+      translation_ru: "ядерный, основной, стержневой (в IT-контексте)"
+      translation_en: "kernel, core (in IT context)"
+      examples:
+        - kk: "Өзектік деңгей."
+          ru: "Уровень ядра."
+          en: "Kernel space."
+  synonyms: []
+  antonyms: []

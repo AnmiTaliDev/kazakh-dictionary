@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɑltəˈnəm"
-  latin_2017: "altynym"
-  latin_2021: "altynym"
-  latin_my: "altynym"
+  writing_systems:
+    latin_2017: "altynym"
+    latin_2021: "altynym"
+    latin_my: "altynym"
   root_word: "алтын"
-  etymology: "алтын (золото) + -ым (притяжательный суффикс 1-го лица)"
-  history: "Образовано от тюркского 'алтын' (золото, драгоценный металл) с притяжательным суффиксом '-ым' (мой). Выражает высокую ценность любимого человека, сравнивая его с золотом - самым драгоценным металлом. Используется для выражения глубокой привязанности и ценности отношений."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Құнды адамға мейірім білдіретін сөз"
       translation_ru: "Моё золото (ласковое обращение)"

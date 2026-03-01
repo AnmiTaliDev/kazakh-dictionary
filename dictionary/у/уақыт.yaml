@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "wɑˈqət"
-  latin_2017: "uaqyt"
-  latin_2021: "uaqyt"
-  latin_my: "uaqyt"
+  writing_systems:
+    latin_2017: "uaqyt"
+    latin_2021: "uaqyt"
+    latin_my: "uaqyt"
   root_word: "уақыт"
-  etymology: "Араб тілінен"
-  history: "Арабтың 'waqt' (وَقْت - уақыт, мезгіл) сөзінен шыққан. Ислам мәдениетімен бірге түркі тілдеріне енген: түрік 'vakit', өзб. 'vaqt', тат. 'вакыт', әзірб. 'vaxt'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Оқиғалар өту ұзақтығын өлшейтін физикалық шама"
       translation_ru: "Время"

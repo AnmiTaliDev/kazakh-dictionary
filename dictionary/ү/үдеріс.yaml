@@ -1,0 +1,22 @@
+- id: 206
+  word: "Үдеріс"
+  parent_id: null
+  type: "noun"
+  transcription: "[ʏdeɾɪs]"
+  writing_systems:
+    latin_2017: "Úderis"
+    latin_2021: "Úderis"
+    latin_my: "üderis"
+  root_word: "үдеріс"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "белгілі бір нәтижеге жетуге бағытталған әрекеттер жиынтығы"
+      translation_ru: "процесс"
+      translation_en: "process"
+      examples:
+        - kk: "Жүйелік үдерістер."
+          ru: "Системные процессы."
+          en: "System processes."
+  synonyms: []
+  antonyms: []

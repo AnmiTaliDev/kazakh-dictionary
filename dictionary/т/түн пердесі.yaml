@@ -3,11 +3,12 @@
   parent_id: 22
   type: "phrase"
   transcription: "/tyn perdesɪ/"
-  latin_my: "tün perdesi"
-  latin_2017: "Tún perdesi"
-  latin_2021: "Tün perdesi"
+  writing_systems:
+    latin_2017: "Tún perdesi"
+    latin_2021: "Tün perdesi"
+    latin_my: "tün perdesi"
   root_word: "түн"
-  etymology: "From 'түн' (night) and 'перде' (curtain, veil)."
+  etymology: ""
   history: ""
   definitions:
     - meaning: "қараңғы түскен кез, түннің басталуы"

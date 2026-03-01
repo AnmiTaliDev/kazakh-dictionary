@@ -3,12 +3,13 @@
   parent_id: null
   type: "adjective"
   transcription: "ʒɑqˈsə"
-  latin_2017: "jaqsy"
-  latin_2021: "jaqsy"
-  latin_my: "jaqsy"
+  writing_systems:
+    latin_2017: "jaqsy"
+    latin_2021: "jaqsy"
+    latin_my: "jaqsy"
   root_word: "жақсы"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'yaxşı/yақшы' түрінде келген. Барлық түркі тілдерінде кездеседі (тат. яхшы, өзб. yaxshi, түрік iyi)."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Сапасы, қасиеті жағынан талапқа сай, ұнамды"
       translation_ru: "Хороший, добрый"

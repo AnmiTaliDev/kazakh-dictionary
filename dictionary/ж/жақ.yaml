@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ʒɑq"
-  latin_2017: "jaq"
-  latin_2021: "jaq"
-  latin_my: "jaq"
+  writing_systems:
+    latin_2017: "jaq"
+    latin_2021: "jaq"
+    latin_my: "jaq"
   root_word: "жақ"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі 'yaq/jaq' (жақ, тарап) түрінде келген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Қандай да бір тарап"
       translation_ru: "Сторона"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "nɑˈʁɑʃə"
-  latin_2017: "nağaşy"
-  latin_2021: "nağaşy"
-  latin_my: "nağaşy"
+  writing_systems:
+    latin_2017: "nağaşy"
+    latin_2021: "nağaşy"
+    latin_my: "nağaşy"
   root_word: "нағашы"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен. Қазақ тілінде ана жағынан туыстарды білдіреді."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Ана жағынан туыстар"
       translation_ru: "Родственники по матери"

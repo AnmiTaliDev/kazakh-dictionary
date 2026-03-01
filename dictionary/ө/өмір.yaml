@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ømɪr"
-  latin_2017: "ömir"
-  latin_2021: "ömir"
-  latin_my: "ömır"
+  writing_systems:
+    latin_2017: "ömir"
+    latin_2021: "ömir"
+    latin_my: "ömır"
   root_word: "өмір"
-  etymology: "Араб тілінен"
-  history: "Арабтың 'ʿumr' (عُمْر - өмір, жас) сөзінен шыққан. Ислам мәдениетінің таралуымен бірге түркі тілдеріне енген: түрік 'ömür', өзб. 'umr', тат. 'гомер', әзірб. 'ömür'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Тіршілік ету, тірі болу күйі"
       translation_ru: "Жизнь"

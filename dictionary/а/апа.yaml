@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɑˈpɑ"
-  latin_2017: "apa"
-  latin_2021: "apa"
-  latin_my: "apa"
+  writing_systems:
+    latin_2017: "apa"
+    latin_2021: "apa"
+    latin_my: "apa"
   root_word: "апа"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'apa/epa' (апа, әпке) түрінде келген. Түркі тілдерінде: түрік 'abla', өзб. 'opa', тат. 'апа', әзірб. 'bacı', қырғ. 'эже'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Үлкен әйел туысы, әпке"
       translation_ru: "Старшая сестра, тетя"

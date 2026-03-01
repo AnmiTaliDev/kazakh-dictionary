@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "sɪŋˈlɪ"
-  latin_2017: "siñli"
-  latin_2021: "siñli"
-  latin_my: "sıŋlı"
+  writing_systems:
+    latin_2017: "siñli"
+    latin_2021: "siñli"
+    latin_my: "sıŋlı"
   root_word: "сіңлі"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен 'siŋli/siŋil' түрінде келген. Түрік 'küçük kız kardeş', өзб. 'singil', тат. 'сеңел', қырғ. 'сиңди'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Кіші әйел туысы"
       translation_ru: "Младшая сестра"

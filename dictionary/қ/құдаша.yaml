@@ -3,13 +3,14 @@
   parent_id: 138
   type: "noun"
   transcription: "qʊdɑˈʃɑ"
-  latin_2017: "qudaşa"
-  latin_2021: "qudaşa"
-  latin_my: "qūdaşa"
+  writing_systems:
+    latin_2017: "qudaşa"
+    latin_2021: "qudaşa"
+    latin_my: "qūdaşa"
   root_word: "құда"
   relation: "feminine"
-  etymology: "құда + -ша (суффикс женского рода)"
-  history: "Қазақ тілінде 'құда' сөзіне '-ша' (әйел жынысын білдіретін жұрнақ) қосылып жасалған. Орыс тілінде 'сватья'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Күйеу мен қалыңдықтың аналары бір-біріне"
       translation_ru: "Сватья (матери жениха и невесты друг другу)"

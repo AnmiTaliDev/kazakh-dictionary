@@ -4,12 +4,13 @@
   type: "interjection"
   relation: "emphatic"
   transcription: "ætteˈɡen ɑj"
-  latin_2017: "ättegen-ay"
-  latin_2021: "ättegen-ay"
-  latin_my: "ättegen-aî"
+  writing_systems:
+    latin_2017: "ättegen-ay"
+    latin_2021: "ättegen-ay"
+    latin_my: "ättegen-aî"
   root_word: "әттең"
-  etymology: "әттең + -еген (усиление) + -ай (восклицание)"
-  history: "Усиленная форма междометия 'әттең' с добавлением '-еген' (причастная форма для усиления) и '-ай' (восклицательная частица). Выражает более сильное удивление, огорчение или разочарование. Аналог русского 'ой-ой-ой', 'ах-ах-ах'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Күшті таңдану, өкіну білдіретін одағай"
       translation_ru: "Ой-ой-ой, ах-ах-ах"

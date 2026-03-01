@@ -3,12 +3,13 @@
   parent_id: null
   type: "interjection"
   transcription: "qɑp"
-  latin_2017: "qap"
-  latin_2021: "qap"
-  latin_my: "qap"
+  writing_systems:
+    latin_2017: "qap"
+    latin_2021: "qap"
+    latin_my: "qap"
   root_word: "қап"
-  etymology: "Түркі тілдерінің ортақ қоры (звукоподражание)"
-  history: "Тюркское междометие, звукоподражание резкому хватанию или быстрому действию. Используется для выражения внезапности, быстроты действия. Аналог русского 'хвать', 'хватай', 'цап'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Кенет әрекет білдіретін одағай"
       translation_ru: "Хватай, цап, быстро"

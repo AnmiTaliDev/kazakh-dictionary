@@ -3,11 +3,12 @@
   parent_id: null
   type: "noun"
   transcription: "/køleŋke/"
-  latin_my: "köleŋke"
-  latin_2017: "Kóleńke"
-  latin_2021: "Kóleŋke"
+  writing_systems:
+    latin_2017: "Kóleńke"
+    latin_2021: "Kóleŋke"
+    latin_my: "köleŋke"
   root_word: "көлеңке"
-  etymology: "Common Turkic root."
+  etymology: ""
   history: ""
   definitions:
     - meaning: "бір нәрсенің күн сәулесі түспейтін жағы, қараңғы жағы"

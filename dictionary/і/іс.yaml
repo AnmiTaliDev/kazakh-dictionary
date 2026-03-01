@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɪs"
-  latin_2017: "is"
-  latin_2021: "is"
-  latin_my: "ıs"
+  writing_systems:
+    latin_2017: "is"
+    latin_2021: "is"
+    latin_my: "ıs"
   root_word: "іс"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'iş/is' түрінде келген. Барлық түркі тілдерінде бар: түрік 'iş', өзб. 'ish', тат. 'эш', әзірб. 'iş', қырғ. 'иш'. Орхон-Енисей жазбаларында кездеседі."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Атқарылатын жұмыс, шаруа"
       translation_ru: "Дело, работа"

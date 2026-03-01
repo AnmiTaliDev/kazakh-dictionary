@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "kez"
-  latin_2017: "kez"
-  latin_2021: "kez"
-  latin_my: "kez"
+  writing_systems:
+    latin_2017: "kez"
+    latin_2021: "kez"
+    latin_my: "kez"
   root_word: "кез"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен 'kez' (кезең, уақыт) түрінде келген. Түрік тілінде 'vakit/an', өзб. 'vaqt/payt', тат. 'вакыт', әзірб. 'vaxt', қырғ. 'учур'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Белгілі бір уақыт аралығы"
       translation_ru: "Момент, время, период"

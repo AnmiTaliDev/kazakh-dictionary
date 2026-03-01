@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "æn"
-  latin_2017: "än"
-  latin_2021: "än"
-  latin_my: "än"
+  writing_systems:
+    latin_2017: "än"
+    latin_2021: "än"
+    latin_my: "än"
   root_word: "ән"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'en/an' түрінде келген. Түркі тілдерінде: түрік 'şarkı', өзб. 'qo'shiq/ashula', тат. 'җыр', әзірб. 'mahnı', қырғ. 'ыр'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Музыкамен орындалатын поэзиялық шығарма"
       translation_ru: "Песня, мотив"

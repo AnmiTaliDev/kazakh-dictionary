@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "oˈrəs"
-  latin_2017: "orys"
-  latin_2021: "orys"
-  latin_my: "orys"
+  writing_systems:
+    latin_2017: "orys"
+    latin_2021: "orys"
+    latin_my: "orys"
   root_word: "орыс"
-  etymology: "Орыс < Рус"
-  history: "Орыс халқының атауынан. 'Рус' сөзінен қазақ тілінде 'орыс' болып өзгерген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Славян халқының бір тармағы"
       translation_ru: "Русский"

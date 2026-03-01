@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "dʏˈnɪje"
-  latin_2017: "düniye"
-  latin_2021: "düniye"
-  latin_my: "dünıîe"
+  writing_systems:
+    latin_2017: "düniye"
+    latin_2021: "düniye"
+    latin_my: "dünıîe"
   root_word: "дүние"
-  etymology: "Араб тілінен"
-  history: "Арабтың 'dunya' (دُنْيَا - дүние, әлем) сөзінен шыққан. Түркі тілдеріне ислам мәдениетімен бірге енген: түрік 'dünya', өзб. 'dunyo', тат. 'дөнья', әзірб. 'dünya'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Әлем, ғалам"
       translation_ru: "Мир, вселенная"

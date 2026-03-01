@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "dos"
-  latin_2017: "dos"
-  latin_2021: "dos"
-  latin_my: "dos"
+  writing_systems:
+    latin_2017: "dos"
+    latin_2021: "dos"
+    latin_my: "dos"
   root_word: "дос"
-  etymology: "Перс тілінен"
-  history: "Парсы тілінің 'dōst' (دوست - друг, любимый) сөзінен шыққан. Барлық түркі тілдеріне парсы тілі арқылы енген: түрік 'dost', өзб. 'do'st', әзірб. 'dost', тат. 'дус'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Жақын, сенімді адам"
       translation_ru: "Друг"

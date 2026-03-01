@@ -1,0 +1,22 @@
+- id: 212
+  word: "Драйвер"
+  parent_id: null
+  type: "noun"
+  transcription: "[ˈdrajvʲɪr]"
+  writing_systems:
+    latin_2017: "Draıver"
+    latin_2021: "Draıver"
+    latin_my: "draîver"
+  root_word: "драйвер"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "операциялық жүйенің аппараттық құрылғымен өзара әрекеттесуіне мүмкіндік беретін бағдарламалық жасақтама"
+      translation_ru: "драйвер"
+      translation_en: "driver"
+      examples:
+        - kk: "Дыбыс картасының драйвері."
+          ru: "Драйвер звуковой карты."
+          en: "Sound card driver."
+  synonyms: []
+  antonyms: []

@@ -3,9 +3,10 @@
   parent_id: null
   type: "adjective"
   transcription: "/oŋɑˈɕɑ/"
-  latin_my: "oŋaşa"
-  latin_2017: "Ońasha"
-  latin_2021: "Oŋaşa"
+  writing_systems:
+    latin_2017: "Ońasha"
+    latin_2021: "Oŋaşa"
+    latin_my: "oŋaşa"
   root_word: "оңаша"
   etymology: ""
   history: ""

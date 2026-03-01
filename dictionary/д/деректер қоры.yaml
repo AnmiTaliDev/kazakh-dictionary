@@ -1,0 +1,22 @@
+- id: 202
+  word: "Деректер қоры"
+  parent_id: null
+  type: "phrase"
+  transcription: "/deɾekter qoɾə/"
+  writing_systems:
+    latin_2017: "Derekter qory"
+    latin_2021: "Derekter qory"
+    latin_my: "derekter qory"
+  root_word: "деректер қоры"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "құрылымдалған ақпарат жиынтығы"
+      translation_ru: "база данных"
+      translation_en: "database"
+      examples:
+        - kk: "Деректер қорының жүйесі."
+          ru: "Система базы данных."
+          en: "Database system."
+  synonyms: []
+  antonyms: []

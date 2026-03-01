@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "tʏn"
-  latin_2017: "tün"
-  latin_2021: "tün"
-  latin_my: "tün"
+  writing_systems:
+    latin_2017: "tün"
+    latin_2021: "tün"
+    latin_my: "tün"
   root_word: "түн"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'tün' түрінде келген. Барлық түркі тілдерінде бар: түрік 'gece', өзб. 'tun', тат. 'төн', әзірб. 'gecə', қырғ. 'түн'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Күннің батуынан шығуына дейінгі уақыт"
       translation_ru: "Ночь"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ʏsˈtɪ"
-  latin_2017: "üsti"
-  latin_2021: "üsti"
-  latin_my: "üstı"
+  writing_systems:
+    latin_2017: "üsti"
+    latin_2021: "üsti"
+    latin_my: "üstı"
   root_word: "үс"
-  etymology: "үс + -ті"
-  history: "Түркі 'üst' (жоғары) сөзінен '-ті' жалғауымен жасалған."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Жоғарғы бөлігі"
       translation_ru: "Верхняя часть, поверхность"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "tɑŋsæˈrɪ"
-  latin_2017: "tangsäri"
-  latin_2021: "tañsärı"
-  latin_my: "taŋsärı"
+  writing_systems:
+    latin_2017: "tangsäri"
+    latin_2021: "tañsärı"
+    latin_my: "taŋsärı"
   root_word: "таң"
-  etymology: "таң (рассвет) + -сәрі"
-  history: "Казахский термин времени суток, обозначающий рассвет когда лучи солнца уже осветили землю и становится светло. Один из наиболее важных моментов дня для кочевников, знаменующий начало активной деятельности."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Таң атқаннан кейін, күннің сәулесі жерді жарықтандырған уақыт"
       translation_ru: "Рассвет, когда лучи солнца уже осветили землю, становится светло"

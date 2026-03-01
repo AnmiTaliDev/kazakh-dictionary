@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɑt"
-  latin_2017: "at"
-  latin_2021: "at"
-  latin_my: "at"
+  writing_systems:
+    latin_2017: "at"
+    latin_2021: "at"
+    latin_my: "at"
   root_word: "ат"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'at' түрінде келген. Екі негізгі мағынасы бар: 1) жылқы (конь), 2) есім (имя). Барлық түркі тілдерінде кездеседі: түрік 'at', өзб. 'ot', тат. 'ат', әзірб. 'at'. Орхон-Енисей жазбаларында 'at' деп жазылған."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Жылқы, мініс жануар"
       translation_ru: "Конь, лошадь"

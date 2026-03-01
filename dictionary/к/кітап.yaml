@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "kɪˈtɑp"
-  latin_2017: "kitap"
-  latin_2021: "kitap"
-  latin_my: "kıtap"
+  writing_systems:
+    latin_2017: "kitap"
+    latin_2021: "kitap"
+    latin_my: "kıtap"
   root_word: "кітап"
-  etymology: "Араб тілінен"
-  history: "Арабтың 'kitab' (کتاب) сөзінен шыққан. Бастапқыда 'жазылған нәрсе' мағынасында қолданылған, кейіннен басылым өнеркәсібінің дамуымен бірге қазіргі мағынасын алды."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Басылып шыққан әдеби, ғылыми немесе оқу туындысы"
       translation_ru: "Книга"

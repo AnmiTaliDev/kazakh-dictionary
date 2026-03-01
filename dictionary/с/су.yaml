@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "sʊ"
-  latin_2017: "su"
-  latin_2021: "su"
-  latin_my: "su"
+  writing_systems:
+    latin_2017: "su"
+    latin_2021: "su"
+    latin_my: "su"
   root_word: "су"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'suv/su' түрінде келген. Барлық түркі тілдерінде бар: түрік 'su', өзб. 'suv', тат. 'су', әзірб. 'su', қырғ. 'суу'. Орхон-Енисей жазбаларында 'sub' деп жазылған."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Түссіз, иіссіз сұйық зат"
       translation_ru: "Вода"

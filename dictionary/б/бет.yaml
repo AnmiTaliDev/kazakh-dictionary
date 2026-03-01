@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "bet"
-  latin_2017: "bet"
-  latin_2021: "bet"
-  latin_my: "bet"
+  writing_systems:
+    latin_2017: "bet"
+    latin_2021: "bet"
+    latin_my: "bet"
   root_word: "бет"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'bet/yüz' түрінде келген. Түркі тілдерінде: түрік 'yüz' (бет), өзб. 'yuz', тат. 'йөз', әзірб. 'üz', қырғ. 'бет/жүз'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Басының алдыңғы жағы"
       translation_ru: "Лицо"

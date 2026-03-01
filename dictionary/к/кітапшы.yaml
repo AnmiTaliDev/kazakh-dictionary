@@ -3,13 +3,14 @@
   parent_id: 1  # Ссылка на "кітап"
   type: "noun"
   transcription: "kɪtɑpˈʃə"
-  latin_2017: "kitapşy"
-  latin_2021: "kitapşy"
-  latin_my: "kıtapşı"
+  writing_systems:
+    latin_2017: "kitapşy"
+    latin_2021: "kitapşy"
+    latin_my: "kıtapşı"
   root_word: "кітап"
   relation: "profession"  # Указывает тип связи с корневым словом
-  etymology: "кітап + -шы (суффикс профессии)"
-  history: "Образовано от слова 'кітап' с помощью тюркского суффикса профессии '-шы/-ші'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Кітап сататын адам, кітап дүкенінің иесі"
       translation_ru: "Книготорговец, книгопродавец"

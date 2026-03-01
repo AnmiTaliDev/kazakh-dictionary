@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "qɑˈləp"
-  latin_2017: "qalyp"
-  latin_2021: "qalyp"
-  latin_my: "qalyp"
+  writing_systems:
+    latin_2017: "qalyp"
+    latin_2021: "qalyp"
+    latin_my: "qalyp"
   root_word: "қал"
-  etymology: "қал (оставаться) + -ып"
-  history: "Қазақ тілінде 'қалу' етістігінен жасалған."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Жағдай, ахуал"
       translation_ru: "Состояние, положение"

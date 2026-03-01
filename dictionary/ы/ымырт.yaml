@@ -3,11 +3,12 @@
   parent_id: null
   type: "noun"
   transcription: "[ɯmɯɾt]"
-  latin_my: "ymyrt"
-  latin_2017: "Ymyrt"
-  latin_2021: "Ymyrt"
+  writing_systems:
+    latin_2017: "Ymyrt"
+    latin_2021: "Ymyrt"
+    latin_my: "ymyrt"
   root_word: "ымырт"
-  etymology: "Common Turkic root."
+  etymology: ""
   history: ""
   definitions:
     - meaning: "кешкі қараңғылық, ымырт түсу"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ʒʊˈməs"
-  latin_2017: "jumys"
-  latin_2021: "jumys"
-  latin_my: "jūmys"
+  writing_systems:
+    latin_2017: "jumys"
+    latin_2021: "jumys"
+    latin_my: "jūmys"
   root_word: "жұмыс"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен 'iş/jumış' түрінде келген деген пікір бар. Түрік тілінде 'iş' (жұмыс), өзб. 'ish', тат. 'эш', әзірб. 'iş', қырғ. 'иш/жумуш'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Қызмет, еңбек"
       translation_ru: "Работа, труд"

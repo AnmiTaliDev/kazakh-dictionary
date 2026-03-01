@@ -3,12 +3,13 @@
   parent_id: null
   type: "adjective"
   transcription: "ʒøn"
-  latin_2017: "jön"
-  latin_2021: "jön"
-  latin_my: "jön"
+  writing_systems:
+    latin_2017: "jön"
+    latin_2021: "jön"
+    latin_my: "jön"
   root_word: "жөн"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен 'yön/jön' түрінде келген."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Дұрыс, орынды"
       translation_ru: "Правильно, хорошо"

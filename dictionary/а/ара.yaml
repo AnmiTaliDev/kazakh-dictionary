@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "ɑˈrɑ"
-  latin_2017: "ara"
-  latin_2021: "ara"
-  latin_my: "ara"
+  writing_systems:
+    latin_2017: "ara"
+    latin_2021: "ara"
+    latin_my: "ara"
   root_word: "ара"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі тілдерінен. Үш негізгі мағынасы бар."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Екі нәрсенің ортасындағы кеңістік"
       translation_ru: "Промежуток, расстояние"

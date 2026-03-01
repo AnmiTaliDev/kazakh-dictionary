@@ -3,11 +3,12 @@
   parent_id: 190
   type: "adjective"
   transcription: "[mʊŋdə]"
-  latin_my: "mūŋdy"
-  latin_2017: "Muńdy"
-  latin_2021: "Muŋdy"
+  writing_systems:
+    latin_2017: "Muńdy"
+    latin_2021: "Muŋdy"
+    latin_my: "mūŋdy"
   root_word: "мұң"
-  etymology: "From 'мұң' (sadness)."
+  etymology: ""
   history: ""
   definitions:
     - meaning: "қайғылы, көңілсіз"

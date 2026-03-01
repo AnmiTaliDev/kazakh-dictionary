@@ -3,12 +3,13 @@
   parent_id: null
   type: "idiom"
   transcription: "qɑs qɑrɑjˈʁɑndɑ"
-  latin_2017: "qas qarayg'anda"
-  latin_2021: "qas qarayğanda"
-  latin_my: "qas qaraîğanda"
+  writing_systems:
+    latin_2017: "qas qarayg'anda"
+    latin_2021: "qas qarayğanda"
+    latin_my: "qas qaraîğanda"
   root_word: "қас"
-  etymology: "қас (бровь) + қарайу (темнеть, чернеть) + -ғанда (когда)"
-  history: "Традиционное казахское выражение для обозначения сумерек. Буквально означает 'когда брови потемнели' - то есть когда становится так темно, что уже не различаешь брови на лице человека. Поэтическое описание того момента, когда день переходит в ночь, вечерних сумерек."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Кешкі қараңғы түскен кез"
       translation_ru: "Сумерки, когда стемнело (буквально: когда брови потемнели)"

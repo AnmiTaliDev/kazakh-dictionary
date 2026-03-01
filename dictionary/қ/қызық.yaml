@@ -3,12 +3,13 @@
   parent_id: null
   type: "adjective"
   transcription: "qəˈzəq"
-  latin_2017: "qyzyq"
-  latin_2021: "qyzyq"
-  latin_my: "qyzyq"
+  writing_systems:
+    latin_2017: "qyzyq"
+    latin_2021: "qyzyq"
+    latin_my: "qyzyq"
   root_word: "қыз"
-  etymology: "қыз + -ық"
-  history: "Түркі 'қызу/қызық' (қызықты, қуанышты) түбірінен шыққан. Түркі тілдерінде 'қызық' (қызығушылық, мазмұнды) мағынасында қолданылады."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Қызығушылық тудыратын"
       translation_ru: "Интересный, занимательный"

@@ -3,12 +3,13 @@
   parent_id: null
   type: "interjection"
   transcription: "ɑstɑpərɑlˈlɑ"
-  latin_2017: "astapyralla"
-  latin_2021: "astapyralla"
-  latin_my: "astapyralla"
+  writing_systems:
+    latin_2017: "astapyralla"
+    latin_2021: "astapyralla"
+    latin_my: "astapyralla"
   root_word: "астапыралла"
-  etymology: "Орыс тілінен"
-  history: "Заимствовано из русского 'господи' (обращение к Богу). Прошло через народную этимологию и фонетическую адаптацию к казахскому языку, превратившись в 'астапыралла'. Используется преимущественно пожилыми людьми. Выражает удивление, испуг, возмущение. Аналог русского 'батюшки', 'господи'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Таңдану, қорқыныш білдіретін одағай"
       translation_ru: "Батюшки, господи (выражение удивления, испуга)"

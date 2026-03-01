@@ -3,12 +3,13 @@
   parent_id: null
   type: "adverb"
   transcription: "bʏˈɡɪn"
-  latin_2017: "bügin"
-  latin_2021: "bügin"
-  latin_my: "bügın"
+  writing_systems:
+    latin_2017: "bügin"
+    latin_2021: "bügin"
+    latin_my: "bügın"
   root_word: "бу күн"
-  etymology: "бу (это) + күн (день)"
-  history: "Қазақ тілінде 'бу күні' (осы күні) тіркесінен қысқарып 'бүгін' болып қалыптасқан. Түркі тілдерінде: түрік 'bugün', өзб. 'bugun', тат. 'бүген', әзірб. 'bu gün', қырғ. 'бүгүн'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Осы күні"
       translation_ru: "Сегодня"

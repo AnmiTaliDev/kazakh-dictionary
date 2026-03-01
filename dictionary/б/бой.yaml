@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "boj"
-  latin_2017: "boy"
-  latin_2021: "boy"
-  latin_my: "boî"
+  writing_systems:
+    latin_2017: "boy"
+    latin_2021: "boy"
+    latin_my: "boî"
   root_word: "бой"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Түркі 'boy' (бойы, ұзындық) түрінде келген. Түрік 'boy'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Адамның ұзындығы"
       translation_ru: "Рост"

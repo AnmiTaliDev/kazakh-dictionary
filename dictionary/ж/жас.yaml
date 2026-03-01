@@ -3,12 +3,13 @@
   parent_id: null
   type: "adjective"
   transcription: "ʒɑs"
-  latin_2017: "jas"
-  latin_2021: "jas"
-  latin_my: "jas"
+  writing_systems:
+    latin_2017: "jas"
+    latin_2021: "jas"
+    latin_my: "jas"
   root_word: "жас"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'yaş' түрінде келген. Түркі тілдерінде: түрік 'genç/yaş', өзб. 'yosh', тат. 'яшь', әзірб. 'cavan/yaş', қырғ. 'жаш'."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Әлі өспеген, жас кезінде"
       translation_ru: "Молодой, юный"

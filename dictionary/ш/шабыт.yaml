@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "/ɕɑbɯt/"
-  latin_my: "şabyt"
-  latin_2017: "Shabyt"
-  latin_2021: "Şabyt"
+  writing_systems:
+    latin_2017: "Shabyt"
+    latin_2021: "Şabyt"
+    latin_my: "şabyt"
   root_word: "шабыт"
-  etymology: "From Arabic 'شوق' (šawq) meaning 'longing, desire'."
-  history: "Borrowed from Arabic."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "шығармашылық күй, рухтану"
       translation_ru: "вдохновение, воодушевление"

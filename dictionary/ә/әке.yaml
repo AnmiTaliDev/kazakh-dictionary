@@ -3,12 +3,13 @@
   parent_id: null
   type: "noun"
   transcription: "æˈke"
-  latin_2017: "äke"
-  latin_2021: "äke"
-  latin_my: "äke"
+  writing_systems:
+    latin_2017: "äke"
+    latin_2021: "äke"
+    latin_my: "äke"
   root_word: "әке"
-  etymology: "Түркі тілдерінің ортақ қоры"
-  history: "Көне түркі тілінен 'äkä/eke' түрінде келген. Барлық түркі тілдерінде кездеседі: түрік 'baba' (әке), өзб. 'ota', тат. 'әти', әзірб. 'ata'. Монғол тілінде 'аав' деп аталады."
+  etymology: ""
+  history: ""
   definitions:
     - meaning: "Баланың ата-анасының еркек жағы"
       translation_ru: "Отец"
