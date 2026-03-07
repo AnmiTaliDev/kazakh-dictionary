@@ -1,0 +1,27 @@
+- id: 215
+  word: "гүл"
+  parent_id: null
+  type: "noun"
+  transcription: "ɡʏl"
+  writing_systems:
+    latin_2017: "gül"
+    latin_2021: "gül"
+    latin_my: "gül"
+  root_word: "гүл"
+  etymology: "From Persian 'gol' (گل) meaning 'flower', 'rose'."
+  history: "Borrowed from Persian into many Turkic languages. Traditionally used as a general term for flowers and a symbol of beauty in poetry."
+  definitions:
+    - meaning: "Өсімдіктің әдемі, түсті бөлігі"
+      translation_ru: "Цветок"
+      translation_en: "Flower"
+      examples:
+        - kk: "Гүл шоғы."
+          ru: "Букет цветов."
+          en: "Bouquet of flowers."
+        - kk: "Раушан гүлі."
+          ru: "Цветок розы."
+          en: "Rose flower."
+  synonyms:
+    - word_id: null
+      word: "шешек"
+      note: "Blossom"
