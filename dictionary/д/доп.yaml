@@ -1,0 +1,23 @@
+- id: 216
+  word: "доп"
+  parent_id: null
+  type: "noun"
+  transcription: "dɔp"
+  writing_systems:
+    latin_2017: "dop"
+    latin_2021: "dop"
+    latin_my: "dop"
+  root_word: "доп"
+  etymology: "From Proto-Turkic *top ('ball', 'round object', 'lump'). Cognate with Turkish 'top' (ball, cannonball), Kyrgyz 'top'."
+  history: "Ancient Turkic word describing a spherical object. Originally could mean a lump or a compact mass (like felt or wool compressed into a ball)."
+  definitions:
+    - meaning: "Ойынға арналған домалақ зат"
+      translation_ru: "Мяч"
+      translation_en: "Ball"
+      examples:
+        - kk: "Доп ойнау."
+          ru: "Играть в мяч."
+          en: "To play ball."
+        - kk: "Футбол добы."
+          ru: "Футбольный мяч."
+          en: "Soccer ball."
