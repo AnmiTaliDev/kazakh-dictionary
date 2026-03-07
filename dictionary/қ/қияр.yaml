@@ -1,0 +1,27 @@
+- id: 218
+  word: "қияр"
+  parent_id: null
+  type: "noun"
+  transcription: "qəˈjɑr"
+  writing_systems:
+    latin_2017: "qıyar"
+    latin_2021: "qıyar"
+    latin_my: "qiîar"
+  root_word: "қияр"
+  etymology: "From Persian 'khiyar' (خیار) meaning 'cucumber'."
+  history: "Borrowed from Persian. A common vegetable in Central Asian cuisine."
+  definitions:
+    - meaning: "Бақшада өсетін сопақша көкөніс"
+      translation_ru: "Огурец"
+      translation_en: "Cucumber"
+      examples:
+        - kk: "Тұздалған қияр."
+          ru: "Соленый огурец."
+          en: "Pickled cucumber."
+        - kk: "Қияр салаты."
+          ru: "Салат из огурцов."
+          en: "Cucumber salad."
+  synonyms:
+    - word_id: null
+      word: "бәдірен"
+      note: "Dialectal (South)"
