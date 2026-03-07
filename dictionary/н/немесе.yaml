@@ -1,0 +1,30 @@
+- id: 213
+  word: "немесе"
+  parent_id: null
+  type: "conjunction"
+  transcription: "nemeˈse"
+  writing_systems:
+    latin_2017: "nemese"
+    latin_2021: "nemese"
+    latin_my: "nemese"
+  root_word: "немесе"
+  etymology: "From Turkic 'ne' (what) + interrogative suffix '-me' + conditional suffix '-se'. Literally 'if what', evolving to mean 'or'."
+  history: "A native Turkic conjunction used to express alternatives. Unlike Persian borrowings like 'ya', 'nemese' is rooted in Turkic grammatical structures."
+  definitions:
+    - meaning: "Екі немесе одан да көп затты, құбылысты, іс-әрекетті салыстыру немесе таңдау үшін қолданылатын шылау"
+      translation_ru: "Или, либо"
+      translation_en: "Or"
+      examples:
+        - kk: "Бүгін немесе ертең."
+          ru: "Сегодня или завтра."
+          en: "Today or tomorrow."
+        - kk: "Шай немесе кофе ішесіз бе?"
+          ru: "Будете пить чай или кофе?"
+          en: "Will you drink tea or coffee?"
+  synonyms:
+    - word_id: null
+      word: "я"
+      note: "From Persian"
+    - word_id: null
+      word: "әлде"
+      note: "Used in questions"
