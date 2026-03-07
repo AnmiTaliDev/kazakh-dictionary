@@ -1,0 +1,30 @@
+- id: 217
+  word: "ем"
+  parent_id: null
+  type: "noun"
+  transcription: "jem"
+  writing_systems:
+    latin_2017: "em"
+    latin_2021: "em"
+    latin_my: "em"
+  root_word: "ем"
+  etymology: "From Proto-Turkic *em ('medicine', 'cure'). Cognate with Turkish 'em' (cure), Yakut 'em'."
+  history: "Ancient term for healing and medicine in Turkic languages. Related to the verb *emle- (to cure) and possibly *em- (to suck/absorb medicine)."
+  definitions:
+    - meaning: "Ауруды жазатын дәрі немесе шара"
+      translation_ru: "Лечение, лекарство"
+      translation_en: "Cure, treatment, remedy"
+      examples:
+        - kk: "Ем іздеу."
+          ru: "Искать лечение."
+          en: "To seek a cure."
+        - kk: "Ем болу."
+          ru: "Быть лекарством (исцелять)."
+          en: "To be a cure."
+  synonyms:
+    - word_id: null
+      word: "дәрі"
+      note: "Medicine (Persian loan)"
+    - word_id: null
+      word: "шипа"
+      note: "Healing (Arabic loan)"
