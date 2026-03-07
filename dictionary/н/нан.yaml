@@ -1,0 +1,27 @@
+- id: 221
+  word: "нан"
+  parent_id: null
+  type: "noun"
+  transcription: "nɑn"
+  writing_systems:
+    latin_2017: "nan"
+    latin_2021: "nan"
+    latin_my: "nan"
+  root_word: "нан"
+  etymology: "From Persian 'nān' (نان) meaning 'bread'. Cognate with Turkish 'nan', Uzbek 'non'."
+  history: "Borrowed from Persian. The word spread widely across Central Asia, replacing or coexisting with native Turkic terms like 'ötmek' (now archaic or dialectal)."
+  definitions:
+    - meaning: "Ұннан пісірілген тағам"
+      translation_ru: "Хлеб"
+      translation_en: "Bread"
+      examples:
+        - kk: "Нан сатып алу."
+          ru: "Покупать хлеб."
+          en: "To buy bread."
+        - kk: "Қара нан."
+          ru: "Черный хлеб."
+          en: "Black bread."
+  synonyms:
+    - word_id: null
+      word: "бөлке"
+      note: "Loaf"
