@@ -1,0 +1,23 @@
+- id: 219
+  word: "лақ"
+  parent_id: null
+  type: "noun"
+  transcription: "lɑq"
+  writing_systems:
+    latin_2017: "laq"
+    latin_2021: "laq"
+    latin_my: "laq"
+  root_word: "лақ"
+  etymology: "From Proto-Turkic *ulak/*lak ('young of a goat', 'kid'). Cognate with Turkish 'oğlak'."
+  history: "Ancient Turkic term. Possibly onomatopoeic from the sound 'la-la' made by young goats, or related to the root *ul- (son/child)."
+  definitions:
+    - meaning: "Ешкінің төлі"
+      translation_ru: "Козлёнок"
+      translation_en: "Kid (young goat)"
+      examples:
+        - kk: "Лақ ойнақтап жүр."
+          ru: "Козлёнок резвится."
+          en: "The kid is playing."
+        - kk: "Ешкі мен лақ."
+          ru: "Коза и козлёнок."
+          en: "Goat and kid."
