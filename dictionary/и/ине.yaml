@@ -1,0 +1,27 @@
+- id: 220
+  word: "ине"
+  parent_id: null
+  type: "noun"
+  transcription: "iˈne"
+  writing_systems:
+    latin_2017: "ine"
+    latin_2021: "ine"
+    latin_my: "ine"
+  root_word: "ине"
+  etymology: "From Proto-Turkic *yigne/*ine ('needle'). Cognate with Turkish 'iğne', Uzbek 'nina', Tatar 'inə'."
+  history: "An ancient word for a sewing tool. The initial 'y-' was lost in Kazakh (yigne -> ine), a common phonetic shift (compare *yilan -> jylan, but *yigne -> ine?). Actually *yigne -> ine is a specific shift in Kipchak branch."
+  definitions:
+    - meaning: "Тігуге арналған жіңішке металл құрал"
+      translation_ru: "Игла, иголка"
+      translation_en: "Needle"
+      examples:
+        - kk: "Ине мен жіп."
+          ru: "Иголка и нитка."
+          en: "Needle and thread."
+        - kk: "Ине сабақтау."
+          ru: "Вдевать нитку в иголку."
+          en: "To thread a needle."
+  synonyms:
+    - word_id: null
+      word: "тебен"
+      note: "Large needle"
