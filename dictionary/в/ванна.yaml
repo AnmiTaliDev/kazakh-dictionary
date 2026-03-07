@@ -1,0 +1,23 @@
+- id: 214
+  word: "ванна"
+  parent_id: null
+  type: "noun"
+  transcription: "ˈvan.na"
+  writing_systems:
+    latin_2017: "vanna"
+    latin_2021: "vanna"
+    latin_my: "vanna"
+  root_word: "ванна"
+  etymology: "From Russian 'ванна', from German 'Wanne', from Latin 'vannus' ('winnowing basket', later 'tub')."
+  history: "Borrowed into Kazakh via Russian during the Soviet era. Originally referred to a winnowing fan, the meaning shifted to a bathing vessel in German."
+  definitions:
+    - meaning: "Шомылуға арналған үлкен ыдыс"
+      translation_ru: "Ванна"
+      translation_en: "Bathtub"
+      examples:
+        - kk: "Ванна қабылдау."
+          ru: "Принимать ванну."
+          en: "To take a bath."
+        - kk: "Ванна бөлмесі."
+          ru: "Ванная комната."
+          en: "Bathroom."
