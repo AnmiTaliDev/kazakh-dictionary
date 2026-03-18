@@ -1,0 +1,17 @@
+- id: 242
+  word: ашық қызыл
+  parent_id: null
+  type: adjective
+  transcription: aşyq qyzyl
+  writing_systems:
+    latin_2017: aşyq qyzyl
+    latin_2021: aşyq qyzyl
+    latin_my: aşyq qyzyl
+  root_word: ашық қызыл
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: светло-красный
+    translation_ru: светло-красный
+    translation_en: light red
+    examples: []
