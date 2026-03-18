@@ -1,0 +1,20 @@
+- id: 222
+  word: "ақ"
+  parent_id: null
+  type: "adjective"
+  transcription: "ɑq"
+  writing_systems:
+    latin_2017: "aq"
+    latin_2021: "aq"
+    latin_my: "aq"
+  root_word: "ақ"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "Қардың түсіндей, ең жарық түс"
+      translation_ru: "Белый"
+      translation_en: "White"
+      examples:
+        - kk: "Ақ қағаз."
+          ru: "Белая бумага."
+          en: "White paper."
