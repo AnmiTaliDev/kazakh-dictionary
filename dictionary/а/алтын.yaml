@@ -1,0 +1,17 @@
+- id: 255
+  word: алтын
+  parent_id: null
+  type: adjective
+  transcription: altyn
+  writing_systems:
+    latin_2017: altyn
+    latin_2021: altyn
+    latin_my: altyn
+  root_word: алтын
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: золотой
+    translation_ru: золотой
+    translation_en: gold
+    examples: []
