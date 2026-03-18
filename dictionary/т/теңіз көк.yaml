@@ -1,0 +1,17 @@
+- id: 235
+  word: теңіз көк
+  parent_id: null
+  type: adjective
+  transcription: teŋız kök
+  writing_systems:
+    latin_2017: teŋız kök
+    latin_2021: teŋız kök
+    latin_my: teŋız kök
+  root_word: теңіз көк
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: морской синий
+    translation_ru: морской синий
+    translation_en: sea blue/navy
+    examples: []
