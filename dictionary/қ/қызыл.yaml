@@ -1,0 +1,20 @@
+- id: 223
+  word: "қызыл"
+  parent_id: null
+  type: "adjective"
+  transcription: "qəˈzəl"
+  writing_systems:
+    latin_2017: "qyzyl"
+    latin_2021: "qyzyl"
+    latin_my: "qyzyl"
+  root_word: "қызыл"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "Қанның түсіндей"
+      translation_ru: "Красный"
+      translation_en: "Red"
+      examples:
+        - kk: "Қызыл алма."
+          ru: "Красное яблоко."
+          en: "Red apple."
