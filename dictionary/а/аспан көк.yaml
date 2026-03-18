@@ -1,0 +1,17 @@
+- id: 234
+  word: аспан көк
+  parent_id: null
+  type: adjective
+  transcription: aspan kök
+  writing_systems:
+    latin_2017: aspan kök
+    latin_2021: aspan kök
+    latin_my: aspan kök
+  root_word: аспан көк
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: небесно-голубой
+    translation_ru: небесно-голубой
+    translation_en: sky blue
+    examples: []
