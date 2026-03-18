@@ -1,0 +1,17 @@
+- id: 236
+  word: жасыл-көк
+  parent_id: null
+  type: adjective
+  transcription: jasyl-kök
+  writing_systems:
+    latin_2017: jasyl-kök
+    latin_2021: jasyl-kök
+    latin_my: jasyl-kök
+  root_word: жасыл-көк
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: сине-зелёный (бирюзовый)
+    translation_ru: сине-зелёный (бирюзовый)
+    translation_en: blue-green/turquoise
+    examples: []
