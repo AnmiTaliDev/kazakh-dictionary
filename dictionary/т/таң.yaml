@@ -1,0 +1,23 @@
+- id: 268
+  word: "таң"
+  parent_id: null
+  type: "noun"
+  transcription: "tɑŋ"
+  writing_systems:
+    latin_2017: "tań"
+    latin_2021: "taŋ"
+    latin_my: "taŋ"
+  root_word: "таң"
+  etymology: "Көне түркі тілінен *taŋ ('таң', 'ертеңгілік уақыт')."
+  history: "Барлық түркі тілдерінде кездесетін ортақ түбір."
+  definitions:
+    - meaning: "Күн шығар алдындағы мезгіл, шапақ"
+      translation_ru: "Рассвет, заря, утро"
+      translation_en: "Dawn, daybreak, morning"
+      examples:
+        - kk: "Таң атты."
+          ru: "Наступил рассвет."
+          en: "Dawn has broken."
+        - kk: "Ерте таңда."
+          ru: "Ранним утром."
+          en: "Early in the morning."
