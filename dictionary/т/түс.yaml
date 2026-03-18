@@ -11,24 +11,92 @@
   etymology: ""
   history: ""
   definitions:
-    - meaning: "Ұйқыдағы көрініс"
-      translation_ru: "Сон"
+    - meaning: "Ұйқыдағы көрініс, аян"
+      translation_ru: "Сон, сновидение"
       translation_en: "Dream"
       examples:
         - kk: "Түс көру."
           ru: "Видеть сон."
-          en: "To see a dream."
-    - meaning: "Күннің ортасы"
-      translation_ru: "Полдень"
-      translation_en: "Noon"
-      examples:
-        - kk: "Түске дейін."
-          ru: "До полудня."
-          en: "Before noon."
-    - meaning: "Жарық спектрі"
+          en: "To have a dream."
+        - kk: "Жақсы түс."
+          ru: "Хороший сон."
+          en: "Good dream."
+
+- id: 265
+  word: "түс"
+  parent_id: null
+  type: "noun"
+  transcription: "tʏs"
+  writing_systems:
+    latin_2017: "tüs"
+    latin_2021: "tüs"
+    latin_my: "tüs"
+  root_word: "түс"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "Заттың бояуы, реңі"
       translation_ru: "Цвет"
       translation_en: "Color"
       examples:
         - kk: "Қызыл түс."
           ru: "Красный цвет."
           en: "Red color."
+        - kk: "Түсі оңу."
+          ru: "Выцветать."
+          en: "To fade."
+    - meaning: "Адамның өңі, келбеті"
+      translation_ru: "Лицо, вид, облик"
+      translation_en: "Face, appearance, look"
+      examples:
+        - kk: "Түсі суық адам."
+          ru: "Человек с холодным взглядом/лицом."
+          en: "A person with a cold look."
+
+- id: 266
+  word: "түс"
+  parent_id: null
+  type: "noun"
+  transcription: "tʏs"
+  writing_systems:
+    latin_2017: "tüs"
+    latin_2021: "tüs"
+    latin_my: "tüs"
+  root_word: "түс"
+  etymology: "Мүмкін *tü:s ('көрініс') түбірінен шыққан ('күннің анық көрінуі')."
+  history: ""
+  definitions:
+    - meaning: "Күннің ортасы, мезгіл"
+      translation_ru: "Полдень"
+      translation_en: "Noon, midday"
+      examples:
+        - kk: "Түс болды."
+          ru: "Наступил полдень."
+          en: "It is noon."
+        - kk: "Түскі ас."
+          ru: "Обед."
+          en: "Lunch."
+
+- id: 267
+  word: "түс"
+  parent_id: null
+  type: "verb"
+  transcription: "tʏs"
+  writing_systems:
+    latin_2017: "tüs"
+    latin_2021: "tüs"
+    latin_my: "tüs"
+  root_word: "түсу"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "Төмен қарай қозғалу (бұйрық рай)"
+      translation_ru: "Спускайся, слезай"
+      translation_en: "Get down, descend (imperative)"
+      examples:
+        - kk: "Аттан түс!"
+          ru: "Слезай с коня!"
+          en: "Get off the horse!"
+        - kk: "Төмен түс."
+          ru: "Спускайся вниз."
+          en: "Go down."
