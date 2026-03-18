@@ -1,0 +1,20 @@
+- id: 225
+  word: "көк"
+  parent_id: null
+  type: "adjective"
+  transcription: "køk"
+  writing_systems:
+    latin_2017: "kök"
+    latin_2021: "kök"
+    latin_my: "kök"
+  root_word: "көк"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "Аспанның түсі"
+      translation_ru: "Синий, голубой"
+      translation_en: "Blue, sky blue"
+      examples:
+        - kk: "Көк аспан."
+          ru: "Синее небо."
+          en: "Blue sky."
