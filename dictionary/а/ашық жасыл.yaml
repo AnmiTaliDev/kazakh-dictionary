@@ -1,0 +1,17 @@
+- id: 237
+  word: ашық жасыл
+  parent_id: null
+  type: adjective
+  transcription: aşyq jasyl
+  writing_systems:
+    latin_2017: aşyq jasyl
+    latin_2021: aşyq jasyl
+    latin_my: aşyq jasyl
+  root_word: ашық жасыл
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: светло-зелёный
+    translation_ru: светло-зелёный
+    translation_en: light green
+    examples: []
