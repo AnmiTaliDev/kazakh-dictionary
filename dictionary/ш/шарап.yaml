@@ -1,0 +1,17 @@
+- id: 261
+  word: шарап
+  parent_id: null
+  type: adjective
+  transcription: şarap
+  writing_systems:
+    latin_2017: şarap
+    latin_2021: şarap
+    latin_my: şarap
+  root_word: шарап
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: винный
+    translation_ru: винный
+    translation_en: wine (color)
+    examples: []
