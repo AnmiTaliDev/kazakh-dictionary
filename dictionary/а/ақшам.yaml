@@ -1,0 +1,30 @@
+- id: 269
+  word: "ақшам"
+  parent_id: null
+  type: "noun"
+  transcription: "ɑqˈʃɑm"
+  writing_systems:
+    latin_2017: "aqşam"
+    latin_2021: "aqşam"
+    latin_my: "aqşam"
+  root_word: "ақшам"
+  etymology: "From Persian 'aksham' (shom), 'evening'. Often related to prayer time."
+  history: "Түрікмен, Әзербайжан, Түрік тілдерінде де қолданылады."
+  definitions:
+    - meaning: "Кеш, күн батқаннан кейінгі мезгіл"
+      translation_ru: "Вечер, сумерки"
+      translation_en: "Evening, dusk, twilight"
+      examples:
+        - kk: "Ақшам түсті."
+          ru: "Наступил вечер."
+          en: "Evening has fallen."
+        - kk: "Ақшам намазы."
+          ru: "Вечерняя молитва."
+          en: "Evening prayer."
+  synonyms:
+    - word_id: null
+      word: "кеш"
+    - word_id: 179
+      word: "алакеуім"
+    - word_id: null
+      word: "ымырт"
