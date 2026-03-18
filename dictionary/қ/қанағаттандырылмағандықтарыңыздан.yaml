@@ -1,0 +1,20 @@
+- id: 229
+  word: "қанағаттандырылмағандықтарыңыздан"
+  parent_id: null
+  type: "noun"
+  transcription: "qɑnɑʁɑttɑndəɾəlmɑʁɑndəqtɑɾəŋəzdɑn"
+  writing_systems:
+    latin_2017: "qanaғattandyrylmaғandyqtaryńyzdan"
+    latin_2021: "qanağattandyrylmağandyqtaryŋyzdan"
+    latin_my: "qanağattandyrylmağandyqtaryŋyzdan"
+  root_word: "қанағат"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "Сіздердің риза болмағандықтарыңыздан (ең ұзақ сөз)"
+      translation_ru: "Из-за вашего (мн.ч.) недовольства/неудовлетворения"
+      translation_en: "Because of your (plural) dissatisfaction"
+      examples:
+        - kk: "Бұл жағдай сіздердің қанағаттандырылмағандықтарыңыздан туындады."
+          ru: "Эта ситуация возникла из-за вашего недовольства."
+          en: "This situation arose because of your dissatisfaction."
