@@ -1,0 +1,20 @@
+- id: 227
+  word: "қоңыр"
+  parent_id: null
+  type: "adjective"
+  transcription: "qoˈŋər"
+  writing_systems:
+    latin_2017: "qońyr"
+    latin_2021: "qoŋyr"
+    latin_my: "qoŋyr"
+  root_word: "қоңыр"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "Топырақтың түсі"
+      translation_ru: "Коричневый"
+      translation_en: "Brown"
+      examples:
+        - kk: "Қоңыр аю."
+          ru: "Бурый медведь."
+          en: "Brown bear."
