@@ -1,0 +1,20 @@
+- id: 226
+  word: "сары"
+  parent_id: null
+  type: "adjective"
+  transcription: "sɑˈrə"
+  writing_systems:
+    latin_2017: "sary"
+    latin_2021: "sary"
+    latin_my: "sary"
+  root_word: "сары"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "Алтынның, күннің түсі"
+      translation_ru: "Желтый"
+      translation_en: "Yellow"
+      examples:
+        - kk: "Сары жапырақ."
+          ru: "Желтый лист."
+          en: "Yellow leaf."
