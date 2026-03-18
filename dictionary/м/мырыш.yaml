@@ -1,0 +1,17 @@
+- id: 256
+  word: мырыш
+  parent_id: null
+  type: adjective
+  transcription: myryş
+  writing_systems:
+    latin_2017: myryş
+    latin_2021: myryş
+    latin_my: myryş
+  root_word: мырыш
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: цинковый (серо-синий)
+    translation_ru: цинковый (серо-синий)
+    translation_en: zinc (grey-blue)
+    examples: []
