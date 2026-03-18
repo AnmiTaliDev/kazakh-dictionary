@@ -1,0 +1,20 @@
+- id: 228
+  word: "сұр"
+  parent_id: null
+  type: "adjective"
+  transcription: "sʊr"
+  writing_systems:
+    latin_2017: "sūr"
+    latin_2021: "sūr"
+    latin_my: "sūr"
+  root_word: "сұр"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "Күлдің түсі"
+      translation_ru: "Серый"
+      translation_en: "Grey"
+      examples:
+        - kk: "Сұр бұлт."
+          ru: "Серое облако."
+          en: "Grey cloud."
