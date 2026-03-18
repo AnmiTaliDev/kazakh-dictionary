@@ -1,0 +1,20 @@
+- id: 224
+  word: "жасыл"
+  parent_id: null
+  type: "adjective"
+  transcription: "ʒɑˈsəl"
+  writing_systems:
+    latin_2017: "jasyl"
+    latin_2021: "jasyl"
+    latin_my: "jasyl"
+  root_word: "жасыл"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "Шөптің, жапырақтың түсі"
+      translation_ru: "Зеленый"
+      translation_en: "Green"
+      examples:
+        - kk: "Жасыл шөп."
+          ru: "Зеленая трава."
+          en: "Green grass."
