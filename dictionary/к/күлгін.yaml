@@ -1,0 +1,20 @@
+- id: 231
+  word: "күлгін"
+  parent_id: null
+  type: "adjective"
+  transcription: "kʏlˈɡɪn"
+  writing_systems:
+    latin_2017: "külgin"
+    latin_2021: "külgin"
+    latin_my: "külgın"
+  root_word: "күлгін"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "Күлдің немесе шегіргүлдің түсі"
+      translation_ru: "Фиолетовый"
+      translation_en: "Purple, violet"
+      examples:
+        - kk: "Күлгін көйлек."
+          ru: "Фиолетовое платье."
+          en: "Purple dress."
