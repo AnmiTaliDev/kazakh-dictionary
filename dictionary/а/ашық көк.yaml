@@ -1,0 +1,17 @@
+- id: 232
+  word: ашық көк
+  parent_id: null
+  type: adjective
+  transcription: aşyq kök
+  writing_systems:
+    latin_2017: aşyq kök
+    latin_2021: aşyq kök
+    latin_my: aşyq kök
+  root_word: ашық көк
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: светло-синий
+    translation_ru: светло-синий
+    translation_en: light blue
+    examples: []
