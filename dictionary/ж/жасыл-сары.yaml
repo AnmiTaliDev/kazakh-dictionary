@@ -1,0 +1,17 @@
+- id: 259
+  word: жасыл-сары
+  parent_id: null
+  type: adjective
+  transcription: jasyl-sary
+  writing_systems:
+    latin_2017: jasyl-sary
+    latin_2021: jasyl-sary
+    latin_my: jasyl-sary
+  root_word: жасыл-сары
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: жёлто-зелёный (салатовый)
+    translation_ru: жёлто-зелёный (салатовый)
+    translation_en: yellow-green/chartreuse
+    examples: []
