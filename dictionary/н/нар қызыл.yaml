@@ -1,0 +1,17 @@
+- id: 246
+  word: нар қызыл
+  parent_id: null
+  type: adjective
+  transcription: nar qyzyl
+  writing_systems:
+    latin_2017: nar qyzyl
+    latin_2021: nar qyzyl
+    latin_my: nar qyzyl
+  root_word: нар қызыл
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: гранатовый
+    translation_ru: гранатовый
+    translation_en: garnet red
+    examples: []
