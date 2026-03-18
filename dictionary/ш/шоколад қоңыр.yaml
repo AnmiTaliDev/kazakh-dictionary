@@ -1,0 +1,17 @@
+- id: 250
+  word: шоколад қоңыр
+  parent_id: null
+  type: adjective
+  transcription: şokolad qoŋyr
+  writing_systems:
+    latin_2017: şokolad qoŋyr
+    latin_2021: şokolad qoŋyr
+    latin_my: şokolad qoŋyr
+  root_word: шоколад қоңыр
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: шоколадный
+    translation_ru: шоколадный
+    translation_en: chocolate brown
+    examples: []
