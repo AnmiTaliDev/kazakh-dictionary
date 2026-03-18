@@ -1,0 +1,17 @@
+- id: 264
+  word: аша көк
+  parent_id: null
+  type: adjective
+  transcription: aşa kök
+  writing_systems:
+    latin_2017: aşa kök
+    latin_2021: aşa kök
+    latin_my: aşa kök
+  root_word: аша көк
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: бирюзовый
+    translation_ru: бирюзовый
+    translation_en: turquoise/cyan
+    examples: []
