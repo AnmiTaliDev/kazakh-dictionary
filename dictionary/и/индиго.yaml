@@ -1,0 +1,17 @@
+- id: 258
+  word: индиго
+  parent_id: null
+  type: noun
+  transcription: indigo
+  writing_systems:
+    latin_2017: indigo
+    latin_2021: indigo
+    latin_my: indigo
+  root_word: индиго
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: индиго
+    translation_ru: индиго
+    translation_en: indigo
+    examples: []
