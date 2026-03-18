@@ -1,0 +1,17 @@
+- id: 241
+  word: лимон сары
+  parent_id: null
+  type: adjective
+  transcription: limon sary
+  writing_systems:
+    latin_2017: limon sary
+    latin_2021: limon sary
+    latin_my: limon sary
+  root_word: лимон сары
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: лимонно-жёлтый
+    translation_ru: лимонно-жёлтый
+    translation_en: lemon yellow
+    examples: []
