@@ -1,0 +1,20 @@
+- id: 230
+  word: "қызғылт"
+  parent_id: null
+  type: "adjective"
+  transcription: "qəzˈʁəlt"
+  writing_systems:
+    latin_2017: "qyzğylt"
+    latin_2021: "qyzğylt"
+    latin_my: "qyzğylt"
+  root_word: "қызғылт"
+  etymology: ""
+  history: ""
+  definitions:
+    - meaning: "Қызыл мен ақ түстің араласуынан шыққан түс"
+      translation_ru: "Розовый"
+      translation_en: "Pink"
+      examples:
+        - kk: "Қызғылт гүл."
+          ru: "Розовый цветок."
+          en: "Pink flower."
