@@ -1,0 +1,17 @@
+- id: 240
+  word: алтын сары
+  parent_id: null
+  type: adjective
+  transcription: altyn sary
+  writing_systems:
+    latin_2017: altyn sary
+    latin_2021: altyn sary
+    latin_my: altyn sary
+  root_word: алтын сары
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: золотисто-жёлтый
+    translation_ru: золотисто-жёлтый
+    translation_en: golden yellow
+    examples: []
