@@ -1,0 +1,17 @@
+- id: 262
+  word: піскен өрік сары
+  parent_id: null
+  type: adjective
+  transcription: pısken örık sary
+  writing_systems:
+    latin_2017: pısken örık sary
+    latin_2021: pısken örık sary
+    latin_my: pısken örık sary
+  root_word: піскен өрік сары
+  etymology: ''
+  history: ''
+  definitions:
+  - meaning: персиковый
+    translation_ru: персиковый
+    translation_en: peach (color)
+    examples: []
