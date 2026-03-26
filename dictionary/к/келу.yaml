@@ -1,0 +1,26 @@
+- id: 275
+  word: "келу"
+  parent_id: null
+  type: "verb"
+  transcription: "ceˈlʉ"
+  writing_systems:
+    latin_2017: "kelu"
+    latin_2021: "kelw"
+    latin_my: "kelu"
+  root_word: "кел"
+  etymology: "Old Turkic 'kel-'"
+  history: "Inherited from Common Turkic *kel-. Cognate with Turkish 'gelmek', Kyrgyz 'kelüü', Tatar 'kilü'. Standard verb for movement toward the speaker."
+  definitions:
+    - meaning: "Бір жерге жетіп келу, жету"
+      translation_ru: "Приходить, приезжать, прибывать"
+      translation_en: "To come, to arrive"
+      examples:
+        - kk: "Ол үйге кеше келді."
+          ru: "Он пришел домой вчера."
+          en: "He came home yesterday."
+        - kk: "Қонақтар келіп қалды."
+          ru: "Гости уже прибыли."
+          en: "The guests have arrived."
+  antonyms:
+    - word_id: 271
+      word: "бару"
