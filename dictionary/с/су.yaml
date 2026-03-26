@@ -4,12 +4,12 @@
   type: "noun"
   transcription: "sʊ"
   writing_systems:
-    latin_2017: "su"
+    latin_2017: "sý"
     latin_2021: "su"
     latin_my: "su"
   root_word: "су"
-  etymology: ""
-  history: ""
+  etymology: "Old Turkic 'suv'"
+  history: "Inherited from Common Turkic *sub / *suv. Cognate with Turkish 'su', Uzbek 'suv', Kyrgyz 'suu'. One of the most stable core vocabulary items in Turkic languages, representing water and life."
   definitions:
     - meaning: "Түссіз, иіссіз сұйық зат"
       translation_ru: "Вода"
