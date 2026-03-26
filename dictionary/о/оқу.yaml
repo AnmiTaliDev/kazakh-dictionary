@@ -1,0 +1,27 @@
+- id: 272
+  word: "оқу"
+  parent_id: null
+  type: "verb"
+  transcription: "oˈqʊ"
+  writing_systems:
+    latin_2017: "o'qu"
+    latin_2021: "oqw"
+    latin_my: "oqu"
+  root_word: "оқы"
+  etymology: "Old Turkic 'oku-'"
+  history: "Inherited from Common Turkic *oku- (to call, to read aloud). Cognate with Turkish 'okumak', Kyrgyz 'okuu'. The original sense was 'to call' or 'to invite', which evolved into 'reading' (calling out signs)."
+  definitions:
+    - meaning: "Жазуды тану, түсіну"
+      translation_ru: "Читать"
+      translation_en: "To read"
+      examples:
+        - kk: "Кітап оқу — пайдалы іс."
+          ru: "Читать книги — полезное дело."
+          en: "Reading books is a useful activity."
+    - meaning: "Білім алу, мектепте немесе жоғары оқу орнында тәлім алу"
+      translation_ru: "Учиться, обучаться"
+      translation_en: "To study, to learn"
+      examples:
+        - kk: "Мен университетте оқимын."
+          ru: "Я учусь в университете."
+          en: "I study at the university."
