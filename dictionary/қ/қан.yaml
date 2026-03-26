@@ -1,0 +1,23 @@
+- id: 283
+  word: "қан"
+  parent_id: null
+  type: "noun"
+  transcription: "qɑn"
+  writing_systems:
+    latin_2017: "qan"
+    latin_2021: "qan"
+    latin_my: "qan"
+  root_word: "қан"
+  etymology: "Old Turkic 'qān'"
+  history: "Inherited from Common Turkic *qān (blood). Cognate with Turkish 'kan', Kyrgyz 'qan', Tatar 'qan'. Stable root in all branches of the Turkic family."
+  definitions:
+    - meaning: "Ағзадағы қызыл түсті сұйықтық"
+      translation_ru: "Кровь"
+      translation_en: "Blood"
+      examples:
+        - kk: "Қан тапсыру."
+          ru: "Сдавать кровь."
+          en: "To donate blood."
+        - kk: "Оның қаны таза."
+          ru: "У него чистая кровь."
+          en: "His blood is clean."
