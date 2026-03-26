@@ -1,0 +1,23 @@
+- id: 279
+  word: "сөйлеу"
+  parent_id: null
+  type: "verb"
+  transcription: "søjˈly"
+  writing_systems:
+    latin_2017: "so'i'ley"
+    latin_2021: "söylew"
+    latin_my: "söyleu"
+  root_word: "сөйле"
+  etymology: "From Turkic 'söz' (word) + '-le' verbalizer"
+  history: "Derived from the root *söz. Cognate with Turkish 'söylemek', Kyrgyz 'süylöö', Tatar 'sөylәү'. The suffix *-le is a common way to derive verbs from nouns in Turkic languages."
+  definitions:
+    - meaning: "Ойды тілмен білдіру, пікір айту"
+      translation_ru: "Говорить, разговаривать"
+      translation_en: "To speak, to talk"
+      examples:
+        - kk: "Ол қазақша жақсы сөйлейді."
+          ru: "Он хорошо говорит по-казахски."
+          en: "He speaks Kazakh well."
+        - kk: "Дауыстап сөйлеу."
+          ru: "Говорить громко."
+          en: "To speak loudly."
