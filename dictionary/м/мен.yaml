@@ -1,0 +1,23 @@
+- id: 274
+  word: "мен"
+  parent_id: null
+  type: "pronoun"
+  transcription: "men"
+  writing_systems:
+    latin_2017: "men"
+    latin_2021: "men"
+    latin_my: "men"
+  root_word: "мен"
+  etymology: "Old Turkic 'ben' / 'men'"
+  history: "Inherited from Common Turkic *be- / *me-. Initial 'm' is characteristic of the Kipchak branch (Kazakh, Kyrgyz, Tatar), whereas Oghuz languages (Turkish, Turkmen) use 'b'."
+  definitions:
+    - meaning: "Бірінші жақтағы жекеше есімдік"
+      translation_ru: "Я"
+      translation_en: "I"
+      examples:
+        - kk: "Мен қазақша сөйлеймін."
+          ru: "Я говорю по-казахски."
+          en: "I speak Kazakh."
+        - kk: "Менің атым — Илдар."
+          ru: "Меня зовут Илдар."
+          en: "My name is Ildar."
