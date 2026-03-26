@@ -1,0 +1,30 @@
+- id: 273
+  word: "үлкен"
+  parent_id: null
+  type: "adjective"
+  transcription: "ʏlˈken"
+  writing_systems:
+    latin_2017: "u'lken"
+    latin_2021: "ülken"
+    latin_my: "ülken"
+  root_word: "үлкен"
+  etymology: "Derived from Turkic 'ulu' (great)"
+  history: "Related to Common Turkic *ulug (big, great). The suffix -ken is a characteristic Kipchak development. Cognate with Nogai 'ülken', Kyrgyz 'choŋ' (though 'uluu' exists as well)."
+  definitions:
+    - meaning: "Көлемі, мөлшері зор"
+      translation_ru: "Большой, крупный"
+      translation_en: "Big, large"
+      examples:
+        - kk: "Біздің үйіміз өте үлкен."
+          ru: "Наш дом очень большой."
+          en: "Our house is very big."
+    - meaning: "Жасы ересек"
+      translation_ru: "Старший, взрослый"
+      translation_en: "Senior, elder"
+      examples:
+        - kk: "Ол менен бес жас үлкен."
+          ru: "Он на пять лет старше меня."
+          en: "He is five years older than me."
+  antonyms:
+    - word_id: null
+      word: "кіші"
