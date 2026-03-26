@@ -1,0 +1,26 @@
+- id: 271
+  word: "бару"
+  parent_id: null
+  type: "verb"
+  transcription: "bɑˈru"
+  writing_systems:
+    latin_2017: "baru"
+    latin_2021: "baru"
+    latin_my: "baru"
+  root_word: "бар"
+  etymology: "Old Turkic 'bar-'"
+  history: "Inherited from Common Turkic *bar- (to go, to arrive). Cognate with Turkish 'varmak', Kyrgyz 'baru', Tatar 'baru'. In Kazakh, it is the standard verb for movement away from the speaker."
+  definitions:
+    - meaning: "Бір жерге бет алу, қозғалу"
+      translation_ru: "Идти, ехать, направляться"
+      translation_en: "To go, to head for"
+      examples:
+        - kk: "Мен ертең жұмысқа барамын."
+          ru: "Я завтра пойду на работу."
+          en: "I will go to work tomorrow."
+        - kk: "Ол мектепке барып келді."
+          ru: "Он сходил в школу и вернулся."
+          en: "He went to school and came back."
+  antonyms:
+    - word_id: null
+      word: "келу"
