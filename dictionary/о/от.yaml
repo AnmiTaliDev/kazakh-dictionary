@@ -1,0 +1,27 @@
+- id: 270
+  word: "от"
+  parent_id: null
+  type: "noun"
+  transcription: "ot"
+  writing_systems:
+    latin_2017: "ot"
+    latin_2021: "ot"
+    latin_my: "ot"
+  root_word: "от"
+  etymology: "Old Turkic 'ōt'"
+  history: "Inherited from Common Turkic *ōt. Cognate with Turkish 'od' (archaic/dialectal), Kyrgyz 'ot', Uzbek 'o't'. Originally referred to both fire and grass/fodder in some contexts, but in Kazakh 'от' is fire, while 'от' (grass) is usually 'от-шөп'."
+  definitions:
+    - meaning: "Жану процесі, жалын"
+      translation_ru: "Огонь, пламя"
+      translation_en: "Fire, flame"
+      examples:
+        - kk: "Орманға от жағуға болмайды."
+          ru: "В лесу нельзя разжигать огонь."
+          en: "It is not allowed to light a fire in the forest."
+    - meaning: "Шешуші кезең, қауіп"
+      translation_ru: "Огонь (переносно: опасность, пыл)"
+      translation_en: "Fire (figurative: danger, passion)"
+      examples:
+        - kk: "Махаббат оты."
+          ru: "Огонь любви."
+          en: "Fire of love."
