@@ -1,31 +1,32 @@
-# Kazakh Dictionary / Қазақ Сөздігі / Казахский Словарь
+# Kazakh Dictionary (Қазақ Сөздігі)
 
 [![License: CC0](https://img.shields.io/badge/License-CC0-blue.svg)](LICENSE)
 [![Language: Kazakh](https://img.shields.io/badge/Language-Kazakh-green.svg)]()
-[![Status: Active](https://img.shields.io/badge/Status-Active-success.svg)]()
 
-Open-source Kazakh-Russian-English dictionary with etymology, morphological analysis, and multiple Latin transcription systems.
+This repository contains a comprehensive, open-source Kazakh-Russian-English linguistic database. The project focuses on etymological documentation, morphological analysis, and the implementation of various Latin transcription standards.
 
-## 🎯 Project Goals
+## Project Objectives
 
-- **Preserve** Kazakh language heritage through detailed etymological documentation
-- **Document** morphological roots and word relationships
-- **Support** multiple Latin transcription systems including [AnmiTaliDev's proposal](https://github.com/AnmiTaliDev/new-kazakh-latin-proposal)
-- **Provide** free, open-access linguistic resources for researchers, learners, and developers
-- **Build** a community-driven knowledge base under CC0 (Public Domain)
+The primary goal of this initiative is to create a structured, machine-readable resource for the Kazakh language that:
+1. Document word origins (etymology) and historical development.
+2. Maps morphological relationships between root words and their derivatives.
+3. Provides accurate phonetic transcriptions (IPA) and multiple Latin script implementations.
+4. Serves as a public domain (CC0) foundation for linguistic research, educational tools, and software development.
 
-## 📚 Features
+## Technical Specifications
 
-- ✅ **Trilingual**: Kazakh, Russian, and English
-- ✅ **Etymology**: Detailed word origins and historical context
-- ✅ **IPA Transcription**: Accurate phonetic notation
-- ✅ **Multiple Latin Scripts**: 2017, 2021, and AnmiTaliDev's proposal
-- ✅ **Morphological Analysis**: Root words and derivatives
-- ✅ **Usage Examples**: Real-world sentence examples
-- ✅ **Synonyms & Antonyms**: Semantic relationships
-- ✅ **CC0 License**: Completely free and unrestricted
+Data is stored in standardized YAML files, ensuring ease of parsing and human readability. Each entry includes:
+- **Trilingual Definitions**: Full support for Kazakh, Russian, and English.
+- **Phonetics**: International Phonetic Alphabet (IPA) transcriptions.
+- **Transcription Systems**: Support for the 2017 and 2021 official standards, as well as the AnmiTaliDev Latin proposal.
+- **Semantic Relations**: Comprehensive mapping of synonyms and antonyms.
+- **Contextual Data**: Real-world usage examples for every definition.
 
-## 📖 Example Entry
+## Data Structure
+
+Entries are organized hierarchically within the `dictionary/` directory, sorted by the initial Cyrillic character of the headword.
+
+### YAML Schema Example
 
 ```yaml
 - id: 1
@@ -33,140 +34,48 @@ Open-source Kazakh-Russian-English dictionary with etymology, morphological anal
   parent_id: null
   type: "noun"
   transcription: "kɪˈtɑp"
-  latin_2017: "kitap"
-  latin_2021: "kitap"
-  latin_my: "kıtap"
+  writing_systems:
+    latin_2017: "kitap"
+    latin_2021: "kitap"
+    latin_my: "kıtap"
   root_word: "кітап"
-  etymology: "Араб тілінен"
-  history: "Арабтың 'kitab' (کتاب) сөзінен шыққан..."
+  etymology: "Arabic origin"
+  history: "Derived from Arabic 'kitab' (کتاب)..."
   definitions:
     - meaning: "Басылып шыққан әдеби, ғылыми немесе оқу туындысы"
       translation_ru: "Книга"
       translation_en: "Book"
       examples:
-        - kk: "Мен кітапханадан жаңа кітап алдым."
-          ru: "Я взял новую книгу из библиотеки."
-          en: "I took a new book from the library."
-  synonyms:
-    - word_id: null
-      word: "шығарма"
-      note: "Для художественной литературы"
+        - kk: "Бұл кітап өте қызықты."
+          ru: "Эта книга очень интересная."
+          en: "This book is very interesting."
 ```
 
-## 🗂️ Project Structure
+## Contribution Guidelines
 
-```
-kazakh-dictionary/
-├── dictionary/          # Dictionary entries organized by first letter
-│   ├── а/              # Words starting with 'а'
-│   ├── ә/              # Words starting with 'ә'
-│   ├── б/              # Words starting with 'б'
-│   └── .../            # ... all Kazakh Cyrillic letters
-├── references/
-│   └── latin-proposal/ # AnmiTaliDev's Latin transcription system
-├── CLAUDE.md           # Instructions for Claude AI
-├── GEMINI.md           # Instructions for Gemini AI
-├── CONTRIBUTING.md     # Contribution guidelines
-└── README.md           # This file
-```
+Contributions are governed by strict quality standards to maintain the integrity of the database.
 
-## 🚀 Getting Started
+### Submission Process
+1. Review the technical specifications in [CONTRIBUTING.md](CONTRIBUTING.md).
+2. For AI-assisted contributions, consult the mandatory instructions in [AGENTS.md](AGENTS.md).
+3. Ensure all fields (including English translations and IPA) are completed.
+4. Submit changes via a Pull Request.
 
-### Browse the Dictionary
+**Note**: The `LIST.md` file is managed automatically via GitHub Actions. Manual modifications to this file will be overwritten.
 
-Entries are organized by the first Cyrillic letter of each word:
-- Navigate to `dictionary/{letter}/` to find words
-- Each word has its own YAML file: `{word}.yaml`
+## License and Terms of Use
 
-### Using the Data
+This project is dedicated to the public domain under the [CC0 1.0 Universal License](LICENSE). 
+- No copyright protection is claimed.
+- You may copy, modify, distribute, and perform the work, even for commercial purposes, without asking permission.
+- Attribution is not required but is appreciated for the continued growth of the project.
 
-```python
-import yaml
-
-# Load a word
-with open('dictionary/к/кітап.yaml', 'r', encoding='utf-8') as f:
-    word = yaml.safe_load(f)
-    print(f"{word[0]['word']} = {word[0]['translation_en']}")
-```
-
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for:
-- How to add new words
-- YAML format specifications
-- Quality guidelines
-- Submission process
-
-### Quick Start for Contributors
-
-1. Fork this repository
-2. Add/edit YAML files in appropriate `dictionary/{letter}/` directory
-3. Follow the format in [CONTRIBUTING.md](CONTRIBUTING.md)
-4. Submit a Pull Request
-
-### AI Assistance
-
-Using AI to help? Check our AI-specific guidelines:
-- [CLAUDE.md](CLAUDE.md) - For Claude AI
-- [GEMINI.md](GEMINI.md) - For Google Gemini
-
-## 📋 Current Statistics
-
-- **Words**: 194 entries (growing!)
-- **Languages**: 3 (Kazakh, Russian, English)
-- **Latin Systems**: 3 (2017, 2021, AnmiTaliDev)
-- **Contributors**: Open to all!
-
-## 🔤 Latin Transcription Systems
-
-### AnmiTaliDev's Proposal (latin_my)
-
-This project includes support for [AnmiTaliDev's Latin transcription proposal](https://github.com/AnmiTaliDev/new-kazakh-latin-proposal), featuring:
-- Unique representation for every Cyrillic letter
-- Diacritics for accurate phonetic distinction
-- Support for all Kazakh sounds
-
-Key features:
-- `ı` (dotless i) for **і**
-- `y` for **ы**
-- `ä` for **ә**
-- `ğ` for **ғ**
-- `ŋ` for **ң**
-- And more (see `references/latin-proposal/`)
-
-## 📄 License
-
-This project is released under [CC0 1.0 Universal (Public Domain)](LICENSE).
-
-**You are free to:**
-- ✅ Use for any purpose
-- ✅ Modify and redistribute
-- ✅ Use commercially
-- ✅ No attribution required (but appreciated!)
-
-## 🌟 Acknowledgments
-
-- **AnmiTaliDev** - Project creator and maintainer
-- [New Kazakh Latin Proposal](https://github.com/AnmiTaliDev/new-kazakh-latin-proposal) - Latin transcription system
-- All contributors who help expand this dictionary
-
-## 📞 Contact
+## Contact and Support
 
 - **Maintainer**: AnmiTaliDev
-- **Email**: anmitali198@gmail.com
-- **Issues**: [GitHub Issues](https://github.com/AnmiTaliDev/kazakh-dictionary/issues)
-
-## 🗺️ Roadmap
-
-- [ ] Expand dictionary to 1,000+ words
-- [ ] Add audio pronunciations
-- [ ] Create web interface
-- [ ] Develop API for programmatic access
-- [ ] Mobile app integration
-- [ ] Advanced search and filtering
+- **Communication**: anmitali198@gmail.com
+- **Technical Issues**: [GitHub Issue Tracker](https://github.com/AnmiTaliDev/kazakh-dictionary/issues)
 
 ---
 
-**Қазақ тілі мәңгі жасай берсін!** 🇰🇿
-
-*Long live the Kazakh language!*
+**Қазақ тілі мәңгі жасай берсін!**
