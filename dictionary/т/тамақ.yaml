@@ -1,0 +1,30 @@
+- id: 282
+  word: "тамақ"
+  parent_id: null
+  type: "noun"
+  transcription: "tɑˈmɑq"
+  writing_systems:
+    latin_2017: "tamaq"
+    latin_2021: "tamaq"
+    latin_my: "tamaq"
+  root_word: "тамақ"
+  etymology: "Turkic root 'tam-' (throat/palate)"
+  history: "Originally meant 'throat' or 'palate' (still does in some dialects), but evolved to mean 'food' or 'meal' in Kazakh, Kyrgyz, and Uzbek."
+  definitions:
+    - meaning: "Ішіп-жейтін нәрсе, ас"
+      translation_ru: "Еда, пища, кушанье"
+      translation_en: "Food, meal"
+      examples:
+        - kk: "Дәмді тамақ."
+          ru: "Вкусная еда."
+          en: "Delicious food."
+        - kk: "Тамақ пісіру."
+          ru: "Готовить еду."
+          en: "To cook food."
+    - meaning: "Алқым, кеңірдек тұсы"
+      translation_ru: "Горло"
+      translation_en: "Throat"
+      examples:
+        - kk: "Тамағым ауырып тұр."
+          ru: "У меня болит горло."
+          en: "My throat hurts."
