@@ -1,0 +1,23 @@
+- id: 277
+  word: "жүру"
+  parent_id: null
+  type: "verb"
+  transcription: "ʒʏˈrʉ"
+  writing_systems:
+    latin_2017: "juru"
+    latin_2021: "jürw"
+    latin_my: "jüru"
+  root_word: "жүр"
+  etymology: "Old Turkic 'yüre-'"
+  history: "Inherited from Common Turkic *yür- / *yüre-. Cognate with Turkish 'yürümek', Kyrgyz 'jürүү', Tatar 'йөрү' (yörü). Primary verb for walking or continuous movement."
+  definitions:
+    - meaning: "Аяқпен басып қозғалу"
+      translation_ru: "Ходить, идти"
+      translation_en: "To walk, to go"
+      examples:
+        - kk: "Далада жүру."
+          ru: "Ходить на улице."
+          en: "To walk outside."
+        - kk: "Тез жүру."
+          ru: "Идти быстро."
+          en: "To walk fast."
