@@ -1,0 +1,23 @@
+- id: 278
+  word: "жазу"
+  parent_id: null
+  type: "verb"
+  transcription: "ʒɑˈzʊ"
+  writing_systems:
+    latin_2017: "jazu"
+    latin_2021: "jazw"
+    latin_my: "jazu"
+  root_word: "жаз"
+  etymology: "Old Turkic 'yaz-'"
+  history: "Inherited from Common Turkic *yaz- (to write). Cognate with Turkish 'yazmak', Kyrgyz 'jazuu', Tatar 'yazu'. Originally meant to scratch or incise."
+  definitions:
+    - meaning: "Әріптерді, таңбаларды түсіру"
+      translation_ru: "Писать"
+      translation_en: "To write"
+      examples:
+        - kk: "Хат жазу."
+          ru: "Писать письмо."
+          en: "To write a letter."
+        - kk: "Күнделік жазу."
+          ru: "Вести дневник (писать в дневнике)."
+          en: "To write in a diary."
