@@ -1,0 +1,30 @@
+- id: 276
+  word: "кіші"
+  parent_id: null
+  type: "adjective"
+  transcription: "kɪˈʃɪ"
+  writing_systems:
+    latin_2017: "kis'i"
+    latin_2021: "kişi"
+    latin_my: "kışı"
+  root_word: "кіші"
+  etymology: "Old Turkic 'kiçi'"
+  history: "Inherited from Common Turkic *kiçi (small, little). Cognate with Tatar 'keche', Yakut 'kichchi' (small). In some Oghuz languages, it evolved into 'küçük'."
+  definitions:
+    - meaning: "Көлемі, мөлшері шағын"
+      translation_ru: "Маленький, малый"
+      translation_en: "Small, little"
+      examples:
+        - kk: "Бұл кіші бөлме."
+          ru: "Это маленькая комната."
+          en: "This is a small room."
+    - meaning: "Жасы ересек емес, төмен"
+      translation_ru: "Младший"
+      translation_en: "Junior, younger"
+      examples:
+        - kk: "Менің кіші інім бар."
+          ru: "У меня есть младший брат."
+          en: "I have a younger brother."
+  antonyms:
+    - word_id: 273
+      word: "үлкен"
