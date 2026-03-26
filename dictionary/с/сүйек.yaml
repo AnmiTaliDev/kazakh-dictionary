@@ -1,0 +1,23 @@
+- id: 284
+  word: "сүйек"
+  parent_id: null
+  type: "noun"
+  transcription: "sʏˈjek"
+  writing_systems:
+    latin_2017: "su'iek"
+    latin_2021: "süyek"
+    latin_my: "süyek"
+  root_word: "сүйек"
+  etymology: "Old Turkic 'sök' / 'süŋök'"
+  history: "Inherited from Common Turkic *süŋök. Cognate with Kyrgyz 'sөөk', Tatar 'sөyak', Uzbek 'suyak'. In Oghuz languages like Turkish, it was replaced by 'kemik' (of different origin)."
+  definitions:
+    - meaning: "Дененің қатты қаңқасы"
+      translation_ru: "Кость"
+      translation_en: "Bone"
+      examples:
+        - kk: "Сүйек сынды."
+          ru: "Кость сломалась."
+          en: "The bone broke."
+        - kk: "Қатты сүйек."
+          ru: "Твердая кость."
+          en: "Hard bone."
