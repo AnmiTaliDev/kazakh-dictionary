@@ -1,0 +1,23 @@
+- id: 286
+  word: "басқа"
+  parent_id: null
+  type: "adjective"
+  transcription: "bɑsˈqɑ"
+  writing_systems:
+    latin_2017: "basqa"
+    latin_2021: "basqa"
+    latin_my: "basqa"
+  root_word: "басқа"
+  etymology: "Old Turkic 'başqa'"
+  history: "Inherited from Common Turkic *baş-ka (separate, other), originally derived from the root *baş (head) with a directive or dative suffix. Cognate with Turkish 'başka', Kyrgyz 'bashka', Tatar 'bashqa'."
+  definitions:
+    - meaning: "Өзге, бөлек"
+      translation_ru: "Другой, иной, отдельный"
+      translation_en: "Other, different, another"
+      examples:
+        - kk: "Басқа жол жоқ."
+          ru: "Другого пути нет."
+          en: "There is no other way."
+        - kk: "Маған басқа кітап керек."
+          ru: "Мне нужна другая книга."
+          en: "I need another book."
