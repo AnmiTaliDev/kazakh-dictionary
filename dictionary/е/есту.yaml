@@ -1,0 +1,23 @@
+- id: 281
+  word: "есту"
+  parent_id: null
+  type: "verb"
+  transcription: "jesˈtʉ"
+  writing_systems:
+    latin_2017: "esty"
+    latin_2021: "estw"
+    latin_my: "estu"
+  root_word: "есіт"
+  etymology: "Old Turkic 'esid-'"
+  history: "Inherited from Common Turkic *eşid- / *eşit-. Cognate with Turkish 'işitmek', Kyrgyz 'uguu' (different root, but 'eşit-' exists as well), Tatar 'ishetü'."
+  definitions:
+    - meaning: "Құлақпен қабылдау"
+      translation_ru: "Слышать"
+      translation_en: "To hear"
+      examples:
+        - kk: "Мен ештеңе естіп тұрған жоқпын."
+          ru: "Я ничего не слышу."
+          en: "I don't hear anything."
+        - kk: "Жақсы хабар есту."
+          ru: "Услышать хорошую новость."
+          en: "To hear good news."
