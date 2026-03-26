@@ -1,0 +1,23 @@
+- id: 280
+  word: "көру"
+  parent_id: null
+  type: "verb"
+  transcription: "køˈrʉ"
+  writing_systems:
+    latin_2017: "koru"
+    latin_2021: "körw"
+    latin_my: "köru"
+  root_word: "көр"
+  etymology: "Old Turkic 'kör-'"
+  history: "Inherited from Common Turkic *kör- (to see, to look). Cognate with Turkish 'görmek', Kyrgyz 'körüü', Tatar 'kürü'. Central verb of perception in Turkic languages."
+  definitions:
+    - meaning: "Көзбен қабылдау"
+      translation_ru: "Видеть, смотреть"
+      translation_en: "To see, to look"
+      examples:
+        - kk: "Мен сені көріп тұрмын."
+          ru: "Я тебя вижу."
+          en: "I see you."
+        - kk: "Кино көру."
+          ru: "Смотреть кино."
+          en: "To watch a movie."
