@@ -1,0 +1,23 @@
+- id: 285
+  word: "тері"
+  parent_id: null
+  type: "noun"
+  transcription: "teˈrɪ"
+  writing_systems:
+    latin_2017: "teri"
+    latin_2021: "teri"
+    latin_my: "terı"
+  root_word: "тері"
+  etymology: "Old Turkic 'teri'"
+  history: "Inherited from Common Turkic *teri (skin, hide). Cognate with Turkish 'deri', Kyrgyz 'teri', Tatar 'tire'. Primarily used for both human skin and animal hide."
+  definitions:
+    - meaning: "Дененің сыртқы қабаты"
+      translation_ru: "Кожа, шкура"
+      translation_en: "Skin, hide"
+      examples:
+        - kk: "Жұмсақ тері."
+          ru: "Мягкая кожа."
+          en: "Soft skin."
+        - kk: "Аң терісі."
+          ru: "Шкура зверя."
+          en: "Beast's hide."
