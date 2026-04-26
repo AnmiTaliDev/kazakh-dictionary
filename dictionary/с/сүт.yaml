@@ -1,0 +1,23 @@
+- id: 288
+  word: "сүт"
+  parent_id: null
+  type: "noun"
+  transcription: "syt"
+  writing_systems:
+    latin_2017: "süt"
+    latin_2021: "süt"
+    latin_my: "süt"
+  root_word: "сүт"
+  etymology: "Common Turkic root 'süt' (milk). Cognate with Turkish 'süt', Uzbek 'sut', Kyrgyz 'süt'."
+  history: "A fundamental word in Kazakh nomadic culture. Dairy products (milk, kumiss, ayran, kurt) formed a cornerstone of the traditional diet, making milk one of the most important staples."
+  definitions:
+    - meaning: "Сүтқоректілердің емшегінен бөлінетін ақ сұйықтық"
+      translation_ru: "Молоко"
+      translation_en: "Milk"
+      examples:
+        - kk: "Жылы сүт."
+          ru: "Тёплое молоко."
+          en: "Warm milk."
+        - kk: "Сиыр сүті."
+          ru: "Коровье молоко."
+          en: "Cow's milk."
