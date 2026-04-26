@@ -1,0 +1,26 @@
+- id: 290
+  word: "жеміс"
+  parent_id: null
+  type: "noun"
+  transcription: "dʒeˈmɪs"
+  writing_systems:
+    latin_2017: "jemis"
+    latin_2021: "jemis"
+    latin_my: "jemis"
+  root_word: "же"
+  etymology: "Derived from Kazakh verb 'же-' (to eat) with the suffix '-міс', literally meaning 'something to eat'. Cognate with Kyrgyz 'jemiş', Turkish 'yemiş'."
+  history: "The word originally referred broadly to any edible produce but gradually became specific to fruit. The fertile valleys of southern Kazakhstan and Zhetysu were historically known for their rich orchards."
+  definitions:
+    - meaning: "Ағаш немесе бұта өсімдіктерінің жеуге болатын жемісі"
+      translation_ru: "Фрукт, плод"
+      translation_en: "Fruit"
+      examples:
+        - kk: "Тәтті жеміс."
+          ru: "Сладкий фрукт."
+          en: "Sweet fruit."
+        - kk: "Жеміс жеу."
+          ru: "Есть фрукты."
+          en: "To eat fruit."
+        - kk: "Жеміс-жидек."
+          ru: "Фрукты и ягоды."
+          en: "Fruits and berries."
