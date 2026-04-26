@@ -1,0 +1,26 @@
+- id: 293
+  word: "қымыз"
+  parent_id: null
+  type: "noun"
+  transcription: "qɯˈmɯz"
+  writing_systems:
+    latin_2017: "qymyz"
+    latin_2021: "qymyz"
+    latin_my: "qymyz"
+  root_word: "қымыз"
+  etymology: "Ancient Turkic word of uncertain deeper origin, attested in Old Turkic texts as 'qımız'. Borrowed into many languages: Russian 'kumys', English 'kumiss'."
+  history: "Fermented mare's milk has been produced by the nomads of the Eurasian steppe for thousands of years, with archaeological evidence dating back 5,500 years. It holds deep cultural and medicinal significance in Kazakh tradition and is associated with summer, the steppe, and celebration."
+  definitions:
+    - meaning: "Бие сүтінен ашытып жасалған дәстүрлі сусын"
+      translation_ru: "Кумыс — традиционный напиток из сброженного кобыльего молока"
+      translation_en: "Kumiss — traditional fermented mare's milk drink"
+      examples:
+        - kk: "Қымыз ішу."
+          ru: "Пить кумыс."
+          en: "To drink kumiss."
+        - kk: "Жаңа сауылған бие қымызы."
+          ru: "Кумыс из свежего кобыльего молока."
+          en: "Freshly made mare's milk kumiss."
+        - kk: "Қымыз — қазақтың ұлттық сусыны."
+          ru: "Кумыс — национальный напиток казахов."
+          en: "Kumiss is the national drink of the Kazakhs."
