@@ -1,0 +1,23 @@
+- id: 291
+  word: "бешбармақ"
+  parent_id: null
+  type: "noun"
+  transcription: "beʃbɑrˈmɑq"
+  writing_systems:
+    latin_2017: "beshbarmaq"
+    latin_2021: "beshbarmaq"
+    latin_my: "beshbarmaq"
+  root_word: "бешбармақ"
+  etymology: "Compound of Kazakh 'бес' (five) + 'бармақ' (finger), literally 'five fingers'. Named for the tradition of eating it with all five fingers of the hand."
+  history: "The national dish of Kazakhstan and Kyrgyzstan. Traditionally prepared for celebrations, guests, and important gatherings. The dish consists of boiled meat served on flat noodles with onion sauce and broth. Each part of the animal is distributed according to the guest's status."
+  definitions:
+    - meaning: "Қазақтың дәстүрлі ұлттық тағамы: пісірілген ет, жалпақ кеспе және сорпадан тұратын ас"
+      translation_ru: "Бешбармак — традиционное казахское национальное блюдо из варёного мяса с лапшой и бульоном"
+      translation_en: "Beshbarmak — traditional Kazakh national dish of boiled meat served over flat noodles with broth"
+      examples:
+        - kk: "Той бешбармағы."
+          ru: "Праздничный бешбармак."
+          en: "Festive beshbarmak."
+        - kk: "Бешбармақ пісіру."
+          ru: "Готовить бешбармак."
+          en: "To cook beshbarmak."
