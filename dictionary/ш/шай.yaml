@@ -1,0 +1,26 @@
+- id: 289
+  word: "шай"
+  parent_id: null
+  type: "noun"
+  transcription: "ʃɑj"
+  writing_systems:
+    latin_2017: "shay"
+    latin_2021: "shay"
+    latin_my: "shay"
+  root_word: "шай"
+  etymology: "From Chinese 'chá' (茶) via a northern Chinese or Central Asian transmission route, giving the 'sh-' form rather than the 'te-' form found in Western European languages."
+  history: "Tea became an essential part of Kazakh daily life and hospitality culture. Offering tea to a guest is a fundamental tradition; refusing it is considered impolite."
+  definitions:
+    - meaning: "Шай өсімдігінің жапырақтарынан дайындалатын сусын"
+      translation_ru: "Чай"
+      translation_en: "Tea"
+      examples:
+        - kk: "Шай ішу."
+          ru: "Пить чай."
+          en: "To drink tea."
+        - kk: "Қара шай."
+          ru: "Чёрный чай."
+          en: "Black tea."
+        - kk: "Қонаққа шай ұсыну."
+          ru: "Предложить гостю чай."
+          en: "To offer tea to a guest."
