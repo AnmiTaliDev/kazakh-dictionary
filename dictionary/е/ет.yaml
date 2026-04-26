@@ -1,0 +1,30 @@
+- id: 287
+  word: "ет"
+  parent_id: null
+  type: "noun"
+  transcription: "et"
+  writing_systems:
+    latin_2017: "et"
+    latin_2021: "et"
+    latin_my: "et"
+  root_word: "ет"
+  etymology: "Common Turkic root 'et' (meat/flesh). Cognate with Turkish 'et', Uzbek 'go'sht' being a Persian loanword while Kazakh retained the native Turkic form."
+  history: "One of the oldest Turkic words. Nomadic peoples of the steppe relied heavily on meat as a dietary staple, making this word central to Kazakh culinary culture."
+  definitions:
+    - meaning: "Мал мен аңның жеуге жарамды мүшесі"
+      translation_ru: "Мясо"
+      translation_en: "Meat, flesh"
+      examples:
+        - kk: "Қой еті."
+          ru: "Баранина."
+          en: "Mutton."
+        - kk: "Ет пісіру."
+          ru: "Готовить мясо."
+          en: "To cook meat."
+    - meaning: "Адам немесе жануар денесіндегі бұлшықет"
+      translation_ru: "Мышца, мякоть"
+      translation_en: "Muscle, flesh"
+      examples:
+        - kk: "Сүйек пен ет."
+          ru: "Кость и мясо."
+          en: "Bone and flesh."
