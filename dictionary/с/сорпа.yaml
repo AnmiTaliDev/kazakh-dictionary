@@ -1,0 +1,26 @@
+- id: 292
+  word: "сорпа"
+  parent_id: null
+  type: "noun"
+  transcription: "sorˈpɑ"
+  writing_systems:
+    latin_2017: "sorpa"
+    latin_2021: "sorpa"
+    latin_my: "sorpa"
+  root_word: "сор"
+  etymology: "Derived from Turkic root 'sor-' (to sip, to slurp), with nominal suffix '-па'. Related to the act of sipping hot liquid."
+  history: "Broth is an integral part of Kazakh cuisine and hospitality. When serving beshbarmak, the broth is poured into a bowl called 'kese' and offered to guests. Drinking hot broth after a meal is a long-standing tradition."
+  definitions:
+    - meaning: "Ет немесе сүйек қайнатып алынған сұйық тамақ"
+      translation_ru: "Бульон, суп"
+      translation_en: "Broth, soup"
+      examples:
+        - kk: "Ыстық сорпа ішу."
+          ru: "Пить горячий бульон."
+          en: "To drink hot broth."
+        - kk: "Қой сорпасы."
+          ru: "Бараний бульон."
+          en: "Mutton broth."
+        - kk: "Сорпаны кеседен ішу."
+          ru: "Пить бульон из пиалы."
+          en: "To drink broth from a bowl."
